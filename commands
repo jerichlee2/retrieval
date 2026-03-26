@@ -1,0 +1,13 @@
+cd ~/Documents/retrieval
+source .venv/bin/activate
+
+PYTHONPATH=/home/jerich-lee/Documents/llama3 \
+torchrun --nproc_per_node 1 scripts/chat/rag_chat_loop.py \
+  --faiss-index data/embeddings/chunks_tier_a.faiss \
+  --metadata-jsonl data/embeddings/chunk_metadata_tier_a.jsonl \
+  --ckpt-dir /home/jerich-lee/.llama/checkpoints/Llama3.1-8B-Instruct \
+  --tokenizer-path /home/jerich-lee/.llama/checkpoints/Llama3.1-8B-Instruct/tokenizer.model \
+  --max-seq-len 4096 \
+  --max-batch-size 1 \
+  --top-k 8
+
