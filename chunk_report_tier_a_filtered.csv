@@ -1,0 +1,904 @@
+index,source_id,source_path,file_type,document_char_count,document_word_count,chunk_count,avg_chunk_words,max_chunk_words,min_chunk_words,status
+1,1uZJ5_5jVjzuLs_RGTLPuK9v8o8nCTaKAepE0IQjNV5M,Liquid Rocketry at Illinois Constitution,txt,29018,4657,6,776.17,896,208,ok
+2,10UivFhPb2FOZHLbnkv2ks90kT4-Z7NuZ_y7jDkCiKhE,Liquid Rocketry at Illinois Constitution,txt,29016,4656,6,776.0,900,200,ok
+3,1pG6ndF_K_usGEMqpWKkuGNEPK9C-w__V,Liquid Rocketry at Illinois Constitution.pdf,pdf,31857,4688,6,782.17,787,776,ok
+4,1GpG647lFwX9mzxewBjkffp5T8kdsutVuqcIQrqNllkw,Photos/Videos/Tech Teams/SRD/SRD Regen Pictures,txt,12,2,1,2.0,2,2,ok
+5,1TL94OCV4qocjwnWXlDBoYZ0uOZlUrBSwj41UaFiDIuU,Technical Teams/Tech Meetings/Tech 2/18,txt,6195,1043,2,615.0,746,484,ok
+6,1gvqCaFxdGMnLOxC29ZRIm5kXGp2SJypKAbvmt0y1Jms,Technical Teams/Fluids and Internal Structures/Project Documentation/P-10/P-10,txt,756,105,1,105.0,105,105,ok
+7,14_M9OjdS8pYD6i6iQuwE0Do6y4rHJdMp49NO8dXkcjY,Technical Teams/Fluids and Internal Structures/Project Documentation/P-08 (Regulator Research)/P-08,txt,2009,285,1,285.0,285,285,ok
+8,1Jaei2OvcCAHphQ16e8MKmcvlZ2iTZl7exBfQOlHjYCw,Technical Teams/Fluids and Internal Structures/Project Documentation/P-16 (Tank thermal contraction calc)/P-16,txt,599,90,1,90.0,90,90,ok
+9,1AtuzY_HijrFSAIbwBEgnKVUQ7eXu4Zfam2N_pbJKFvo,Technical Teams/Fluids and Internal Structures/Project Documentation/P-07 (Bang Bang)/Bang Bang Pressure Regulator Description,txt,2671,445,1,445.0,445,445,ok
+10,1LImfO3sdn5iF_9hi-jixOTEPC-15pKP8nLTmUw6IXwc,Technical Teams/Fluids and Internal Structures/Project Documentation/P-07 (Bang Bang)/P-07,txt,888,129,1,129.0,129,129,ok
+11,1WGldkdgvCCimzSoHlx-vDVxA0_hUuMzgRBVRmSKzakE,Technical Teams/Fluids and Internal Structures/Project Documentation/P-15 (GSE)/P-15,txt,511,70,1,70.0,70,70,ok
+12,1qyxDqjS2Jj4dJMAEJnfgQIJcN4b4mSls1zi58NZotiw,Technical Teams/Fluids and Internal Structures/Project Documentation/P-06 (Load Calc)/P-06,txt,825,58,1,58.0,58,58,ok
+13,1JO6cGpqqYUiX3kpfAb241vp6LSIPZn7exw2dsvLa-uk,Technical Teams/Fluids and Internal Structures/Project Documentation/P-05 (Mounting Frame/Ring CAD)/P-05,txt,1624,178,1,178.0,178,178,ok
+14,1_UeoivdsG1OkBmW6psd8P1eyblx2gDTZhnHGd78n7S4,Technical Teams/Fluids and Internal Structures/Project Documentation/P-04 (Off Rod Time Analysis)/P-04,txt,894,101,1,101.0,101,101,ok
+15,1nN2c-31IfY5GTVoQU5-G04y4wn4n_w3-HugbtZRJP_g,Technical Teams/Fluids and Internal Structures/Project Documentation/P-14/P-14,txt,618,86,1,86.0,86,86,ok
+16,17FD93Wp4vesVy7h45ZK96nx1OTftE1xgW67qD8ids-Q,Technical Teams/Fluids and Internal Structures/Project Documentation/P-13/P-13,txt,629,86,1,86.0,86,86,ok
+17,11KRy3-tOH3JmRkykNopxeteQBJP-DRELWBp6FZUgrS8,Technical Teams/Fluids and Internal Structures/Project Documentation/P-12/P-12,txt,745,107,1,107.0,107,107,ok
+18,1t5dfZcOzXCUW3VZMAVaQPl3E3vN5AKr6Fq4sj5H32ZI,Technical Teams/Fluids and Internal Structures/Project Documentation/P-11/P-11,txt,2014,293,1,293.0,293,293,ok
+19,1lViEz9J51COOelBPUh0ueqCY3j7G9bB_H4pVrLcHaVg,Technical Teams/Fluids and Internal Structures/Project Documentation/**Template DO NOT DELETE,txt,450,66,1,66.0,66,66,ok
+20,1J9tePwz-UbHujpxlHaKERLa1L0trgHaMROunsA9m9pg,Technical Teams/Fluids and Internal Structures/Project Documentation/P-09/P-09,txt,599,85,1,85.0,85,85,ok
+21,1YSkkOvZI0NgonuyAbJr6nIBELYShhFPP3WupDWulJEw,Technical Teams/Fluids and Internal Structures/Project Documentation/P-09/P-09,txt,363,47,1,47.0,47,47,ok
+22,1llceGUfZxLjiWRIl4CiQG-2zIRs8hhLu9D0Wx5y61-Y,Technical Teams/Fluids and Internal Structures/Project Documentation/P-03/P-03,txt,697,84,1,84.0,84,84,ok
+23,1YJ_S_zavTUAJxeCakmZk-Dk6WLeWAjjkYwVRpdMry04,Technical Teams/Fluids and Internal Structures/Project Documentation/P-01/P-01,txt,1027,127,1,127.0,127,127,ok
+24,1M6K8SzNdiTMWc4cV5cvsXm7uTuYJmp0vtF4LK2shrg8,Technical Teams/Fluids and Internal Structures/Project Documentation/P-02/P-02,txt,800,117,1,117.0,117,117,ok
+25,1FP9n9L49tM5bzUFc4A7foMKaGpUYbJhzfZsCkwFBQm0,Technical Teams/Fluids and Internal Structures/Leadership (Lead Folder)/IDR notes with Ian,txt,7323,1356,3,452.0,882,234,ok
+26,1EQgZe2mA5ssnz6NuqE8BIJvpo_BT31haiX8LV9-zgtc,Technical Teams/Fluids and Internal Structures/Leadership (Lead Folder)/Leads Meeting Notes/FIS Leads meeting notes 2/3/26,txt,522,99,1,99.0,99,99,ok
+27,1-4b0k8EmmMp02N0811mtkay8reH388nXIFNpkCQ2neA,Technical Teams/Fluids and Internal Structures/Leadership (Lead Folder)/FIS AE199 HW1,pdf,1101,190,1,190.0,190,190,ok
+28,19Kommc_I5PyEs_AVWX6OcYd-82em-ITKqAQVGYkjjVM,Technical Teams/Fluids and Internal Structures/Leadership (Lead Folder)/PDR/FIS IDR Notes,txt,1197,241,1,241.0,241,241,ok
+29,1fw6BQE8gj2jItT5Js0p-MqsNk2wZlu90JI9DZ7MzyIQ,Technical Teams/Fluids and Internal Structures/Leadership (Lead Folder)/PDR/Old PDR slide,pdf,3537,588,1,588.0,588,588,ok
+30,1LT1jXr5J5SoteoqHbulAxX1-xLjhaQb2AJKkggnNOSE,Technical Teams/Fluids and Internal Structures/Leadership (Lead Folder)/Active Department Notes,txt,21513,3604,5,736.0,769,659,ok
+31,1rstkRy1rD_PDtwlqfTZkZLNDOB47t1DEVU7OEa5OXsM,Technical Teams/Fluids and Internal Structures/Leadership (Lead Folder)/P&ID Finalization,txt,1789,301,1,301.0,301,301,ok
+32,10dKcp8OgUpUGHcYJX324TwKNdbW4gL8VX6iWTov8hyU,Technical Teams/Fluids and Internal Structures/Leadership (Lead Folder)/Archive/Onboarding (With retrospective),txt,2536,446,1,446.0,446,446,ok
+33,1rZ8FJ7PDQlsm6I1CLJhw06rGk1XwUnSvRoGoizQ1JXM,Technical Teams/Fluids and Internal Structures/Leadership (Lead Folder)/Archive/Active Testing Note Document (SP2025),txt,2076,367,1,367.0,367,367,ok
+34,1ZMWofhVRj7ns7ujiaSkc7_5Ht9Ii_4qB0uNzwN1PtTw,Technical Teams/Fluids and Internal Structures/Leadership (Lead Folder)/Liquid Rocketry Bible/Liquid Rocketry at Illinois Technical Handbook,txt,21350,3630,6,639.5,786,125,ok
+35,1Kx4gslI0l48Ok_vUJx7xx8bdNUPWnbIq,Technical Teams/Fluids and Internal Structures/Leadership (Lead Folder)/Liquid Rocketry Bible/Overture 10/7/2025.pdf,pdf,73010,14646,31,735.26,930,291,ok
+36,1hVYR-ddJNK3R_neTcsoZFAZt8TCT5fAuB1GEFLa0DlA,Technical Teams/Fluids and Internal Structures/Leadership (Lead Folder)/SRR/FIS Propulsion Module: SRR Slides,pdf,8569,1262,2,679.5,791,568,ok
+37,1ItmcxwBKoqEU2CX7LlCiOJRviTe_rCQlIKqAbXNz0HQ,Technical Teams/Fluids and Internal Structures/Leadership (Lead Folder)/SRR/FIS SRR Notes,txt,3654,689,1,689.0,689,689,ok
+38,12tM8-XkHcoZLx-TGs-IArF7Qwl5C6_UmYGmMpR5y6oE,Technical Teams/Fluids and Internal Structures/Leadership (Lead Folder)/Templates/Check Valve Troubleshoot Task Document ,txt,4755,803,1,866.0,866,866,ok
+39,1jN6qtEXvA2LKTY5_ILvoM-axjloI27tx8yp-8Fnl7mY,Technical Teams/Fluids and Internal Structures/Leadership (Lead Folder)/Templates/Copy of Task Document Template,txt,369,47,1,47.0,47,47,ok
+40,1xcYWDAlUg5ryvbeNHmn94itR7u8kh7l8UInG-uKaFsk,Technical Teams/Fluids and Internal Structures/Archive (legacy)/Testing team structure,txt,177,28,1,28.0,28,28,ok
+41,1kzqXV4h8QIg-6MeU3rb1Dn1gnDyg_dHc--Qf4AgWIko,Technical Teams/Fluids and Internal Structures/Archive (legacy)/Testing Tasks,txt,4087,772,1,772.0,772,772,ok
+42,1SwX6lf-_Br9P844X-fjUTUvnZ7dkRXukNluGxjtfF_w,Technical Teams/Fluids and Internal Structures/Archive (legacy)/Tube sızıng,txt,705,161,1,161.0,161,161,ok
+43,15x1Ly0Gz6R0SoCDDTHTJ8K4x46P8VYeYokOr1N6QZIk,Technical Teams/Fluids and Internal Structures/Archive (legacy)/Globe Valve Search for E-Reg,txt,278,45,1,45.0,45,45,ok
+44,1lZhurOJCNQdjcwpXxO0gFntDul7xQjOkIbVZ4TAtIH0,Technical Teams/Fluids and Internal Structures/Archive (legacy)/Nitrogen tanks on ground?,txt,1407,259,1,259.0,259,259,ok
+45,1AsxysV1SmV5Kr4Jele9eUY-Rthm0u971brmeYAjpmpA,Technical Teams/Fluids and Internal Structures/Archive (legacy)/Test Stand Procedures and Safety,txt,3606,619,1,619.0,619,619,ok
+46,1f_-jrZy6ntob_5elg6xnN2I84iIZjbLi_r5l5zA9Dlc,Technical Teams/Fluids and Internal Structures/Archive (legacy)/Shopping list,txt,226,36,1,36.0,36,36,ok
+47,1iqdn-99D9zD1jEh9GVyS3C6eN-whc1i15bHEryemqvQ,Technical Teams/Fluids and Internal Structures/Archive (legacy)/Testing Links,txt,2076,185,1,185.0,185,185,ok
+48,10PCHPJaKD2Fz6IjCODZGWbAi8woLQKeNzUIi0piQ6uY,Technical Teams/Fluids and Internal Structures/Archive (legacy)/Testing Procedure Draft,txt,879,159,1,159.0,159,159,ok
+49,1NkmHZznDD0Hhe9lHTDYvvFNpqdqfd1hcptWgO8-zekw,Technical Teams/Fluids and Internal Structures/Archive/Arduino Code/RAND-E Pressure Transducers,txt,8078,1156,2,584.5,784,385,ok
+50,14rMYcNOsUK6bA4CJDl1YpehBjvojWjpG0EM0OkEM79g,Technical Teams/Fluids and Internal Structures/Archive/Grunt OF Analysis,txt,1666,292,1,292.0,292,292,ok
+51,1jFBJaEXsbmFdffSjpCLZ0cgifjOCed26_uun_RF5oGA,Technical Teams/Fluids and Internal Structures/Archive/Proposed Source of Truth Requirements,txt,1909,301,1,301.0,301,301,ok
+52,1JXcwqQyfLcDg6Br0YAVgkrLRozZEf33hp1xoM1_nDCU,Technical Teams/Fluids and Internal Structures/Archive/Water Flow Tests/Summer 2024 Water Flow Tests Report,txt,1116,171,1,171.0,171,171,ok
+53,1VkGqAnb6-FaJ_cQa853U8bwOjjLLzZWzMEn8EsnzauU,Technical Teams/Fluids and Internal Structures/Archive/PHIL Mk.2/PHIL Mk. 2 CONOPS,txt,3506,582,1,582.0,582,582,ok
+54,1Lq-KHurpP8NncyMg3GZ8z3iWjVnKkFMKo-uRx3Dlz24,Technical Teams/Fluids and Internal Structures/Archive/RAND-E/RAND-E PX309 Omega Pressure Transducers Calibration,txt,1208,189,1,189.0,189,189,ok
+55,1UQiMSVdhq4etUH5EgtOpi6BdmIIz_RmNlh6duTUh5rk,Technical Teams/Fluids and Internal Structures/Archive/RAND-E/RAND-E Spring 2025 Testing Site,txt,1687,318,1,318.0,318,318,ok
+56,1pu7S0RLOaLhO9ZjWPDpSvsRAuWKp3UTv_ljqroCry8A,Technical Teams/Fluids and Internal Structures/Archive/RAND-E/RAND-E TaskMaster,txt,576,95,1,95.0,95,95,ok
+57,1V13vphE5c8hMQW5kUWhGN-rww_AdJ4tEyxvi6fEf5p8,Technical Teams/Fluids and Internal Structures/Archive/RAND-E/Pneumatic Actuator and Flex Hose Research,txt,4818,719,1,719.0,719,719,ok
+58,1XF_-Xbau9v-t4gijTCZ2ilvbvrSHNCqf4hiskl6Id4Q,Technical Teams/Fluids and Internal Structures/Archive/RAND-E/RAND-E Components/MV1-OX-V Nema Stepper Motor Research,txt,2095,352,1,352.0,352,352,ok
+59,1c9FidAiE2JhJzE_TVU4FuzakeO62N5KchOAvHo3E5JE,Technical Teams/Fluids and Internal Structures/Archive/RAND-E/RAND-E Components/MV1-OX-V Nema Stepper Motor,pdf,1261,204,1,204.0,204,204,ok
+60,18s4mIzWJcEuk5gLoJRMX-pQqbwiXgHAfgMTtfjoeLMc,Technical Teams/Fluids and Internal Structures/Archive/RAND-E/RAND-E CDR/RAND-E CDR Feedback,txt,1288,211,1,211.0,211,211,ok
+61,1JiOTtFAfF4mLlsbW0l45IrglFY1ijk9iDCZOx55MDUU,Technical Teams/Fluids and Internal Structures/Archive/P&IDs/Randy 2 Reference Sheet,txt,4732,674,1,674.0,674,674,ok
+62,10XUDbhfwEmJZuPF0WZFxyTgxLsXrChJeZgrzNqAciMc,Technical Teams/Fluids and Internal Structures/Archive/P&IDs/RANDY2.1,txt,569,134,1,134.0,134,134,ok
+63,1AbaNbzMD5rdscd1bF71lYiScAIjboHMX,Technical Teams/Fluids and Internal Structures/Archive/P&IDs/RANDY2.pdf,pdf,465,116,1,116.0,116,116,ok
+64,1IUk6UQmHfPRaUyV9fGeUdKQjgVOyL6fg,Technical Teams/Fluids and Internal Structures/Archive/Scripts/Emerson_Flow_Coefficient.pdf,pdf,23439,4309,8,666.75,824,369,ok
+65,1LJBYIQoZHC0yOv9SGHKoj03iiHPDyF0DH4LCjHUubfE,Technical Teams/Fluids and Internal Structures/Archive/Scripts/Churchill Friction Factor Resources,txt,3006,291,1,291.0,291,291,ok
+66,1B7zwUgUaxD3M1TFAHeHcAAmASJWmMgNe,Technical Teams/Fluids and Internal Structures/Archive/Scripts/swagelok_sizing_regulators.pdf,pdf,10148,1793,3,603.33,784,275,ok
+67,1Z3i3hGnzWTblPnIqt1rgUcTAqP23uWxq,Technical Teams/Fluids and Internal Structures/Archive/Scripts/dvdm240pneu.pdf,pdf,2039,382,1,382.0,382,382,ok
+68,1uwlAHdK1Nwyv6CfscCmQ54joCZGpQc_1,Technical Teams/Fluids and Internal Structures/Archive/Scripts/dvduraireii.pdf,pdf,11319,2176,3,725.33,838,623,ok
+69,1Zu5fWrpS1Prt7RIRNBbKcKJZKafHbbz0dD_pAfbj4YM,Technical Teams/Fluids and Internal Structures/Archive/Scripts/Gas System Script Variables,txt,3132,443,1,443.0,443,443,ok
+70,1nhr7WSJ9L34szbNps-I-z4CLxHySrQFvnxQ4dpTiAQM,Technical Teams/Fluids and Internal Structures/Archive/Scripts/Overview of SVs,txt,873,150,1,150.0,150,150,ok
+71,1NLNdoQBX-SJhdnM-_OPWX39Xj1YOWvsH,Technical Teams/Fluids and Internal Structures/Archive/Inventory/Purchases/1_2_US_Solid_Solenoid_order2_ebay.pdf,pdf,630,96,1,96.0,96,96,ok
+72,1P2hrQJ90KUUeiW3WpIktNrjIY36NkSll,Technical Teams/Fluids and Internal Structures/Archive/Inventory/Purchases/1_2_US_Solid_Solenoid_order1_ebay.pdf,pdf,627,96,1,96.0,96,96,ok
+73,1AvPXFQDFvL4bc6AjrKFJUM1Qm94irzhX,Technical Teams/Fluids and Internal Structures/Archive/Inventory/Purchases/3_4_tee_and_check_valves_order_ebay.pdf,pdf,834,123,1,123.0,123,123,ok
+74,16GRy3kgQVtYhKmqWH1kQjRNwnhAZtEhe,Technical Teams/Fluids and Internal Structures/Archive/Inventory/Purchases/sharpe_ball_valve_ebay.pdf,pdf,612,97,1,97.0,97,97,ok
+75,1WDH4zMzUa_xfVQ7nSH_ni0oMsjhgJXazJLz3jnVLv_8,Technical Teams/Fluids and Internal Structures/Archive/Hotfire Sept. 2024/September 2024 Hotfire Procedures Outline,txt,4140,660,1,660.0,660,660,ok
+76,11Q4pdrqmfQ0pX3dgmP6HeNpFaD7tjhkZC8cROQGoiL4,Technical Teams/Fluids and Internal Structures/Archive/Hotfire Sept. 2024/Zucrow Hotfire Notes 2021,txt,2423,425,1,425.0,425,425,ok
+77,1ltSYioqf0HJLTlPNfXWw_3WomlmVuLOPPy-rrjk3koo,Technical Teams/Fluids and Internal Structures/Archive/Hotfire Sept. 2024/LRI Pressure Testing Practices Documentation,txt,12439,2073,3,766.67,851,704,ok
+78,1G85amrWNCk6tmiaONd9e1lniDgORoPOilpKjakLhspw,Technical Teams/Fluids and Internal Structures/Archive/Hotfire Sept. 2024/2024 Hotfire Safety Documentation,txt,10018,1609,3,601.0,822,225,ok
+79,1JjZZ7AX4Qs26COJsUaBII3-n4Zc0rWDgR4EFVAf8Vqk,Technical Teams/Fluids and Internal Structures/Archive/Hotfire Sept. 2024/2024 GRUNT Hotfire Procedures Checklist,txt,5897,712,1,712.0,712,712,ok
+80,13VHGlHa6_eANKpliZlKri11bJ_0_EzmHI5Od4QXkiB0,Technical Teams/Fluids and Internal Structures/Archive/Hotfire Sept. 2024/9/5/24 to Hotfire,txt,3378,607,1,607.0,607,607,ok
+81,1BU8449XMYdEwwybs0jH1MAeoi-qTkH72VMZlaiA0DhM,Technical Teams/Fluids and Internal Structures/Archive/Cryo/Cryo Fill Testing,pdf,9446,1467,2,785.5,818,753,ok
+82,1vmJLaBiQDaU89-rtqzyZ7KTe49EhkoP1HqDpocSGXes,Technical Teams/Fluids and Internal Structures/Archive/Cryo/Notes,txt,30807,3734,6,655.33,775,239,ok
+83,1dotD3hwlEOdtSiBxRFrZIFK0c7LDDGR4aN6eowu-H5Y,Technical Teams/Fluids and Internal Structures/Archive/Cryo/LN2 Fill Test Procedure,txt,5470,976,2,515.5,776,255,ok
+84,19andu-xDCRCaY7n74LgYlmkxeROazP63OJHvK_OEXIg,Technical Teams/Fluids and Internal Structures/Archive/Cryo/Cryogenic BV Vent Orifice Sizing,txt,1207,134,1,134.0,134,134,ok
+85,1di7aE38ahc59D2B8k0R9fP8Artg1EboppRdQs4U-GBY,Technical Teams/Fluids and Internal Structures/Archive/Cryo/LOx Fill Procedures Rough Draft,txt,2582,451,1,451.0,451,451,ok
+86,1RV0lRT4gdAsjeIyY1A9YrszVYvORhDm7MeE-jF-wvG4,Technical Teams/Fluids and Internal Structures/Archive/Cryo/Cryogens Safety,txt,3663,483,1,483.0,483,483,ok
+87,1k0pJMdAai377g_Dr6xVCzXp1-WlU63T-q8Nlenx52Q0,Technical Teams/Fluids and Internal Structures/Archive/Cryo/Chimera Test Stand Qualms,txt,413,57,1,57.0,57,57,ok
+88,1NcAHCrliKUqr9z4vZbd8GHtIKbyH5ROhYoeq3Gk-8tI,Technical Teams/Fluids and Internal Structures/Archive/Cryo/Cryo Ball Valves,txt,599,53,1,53.0,53,53,ok
+89,1-UNMXMJ7eRAjZPlLsHYSVnr2s9ypxUJEzHbqVasSmwA,Technical Teams/Fluids and Internal Structures/Archive/Cryo/Cryo Research,txt,2115,176,1,176.0,176,176,ok
+90,18d1V_fZZ70iZNcH1IY3GHfNdVk1tw_-FypTY8U3xYyc,Technical Teams/Fluids and Internal Structures/Archive/Cryo/Flow Coefficient Resources,txt,2615,190,1,190.0,190,190,ok
+91,1BOglfbYWQyFzk-455NpSKKJYRTnFdhO_u2RMrn3QKKQ,Technical Teams/Fluids and Internal Structures/Archive/Cryo/Fluids Sim Stuff,txt,1152,156,1,156.0,156,156,ok
+92,1X5M9L6ASVaqkxuiIRo2eE_pYYrafrO7sCQ1LQZ1dcNY,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Spring 2025 Meetings/Testing Meeting 3/24/25 - Hotfire Plans,txt,4348,719,1,719.0,719,719,ok
+93,10JJJXogjh-3xwYnBfGCiQpkjloQ1PTxwNgBfNhlmdtQ,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Spring 2025 Meetings/Testing Worksession 3/2/25,txt,1028,174,1,174.0,174,174,ok
+94,1Vfu6sJ2n8wR8OpKBVI2tFBbjHlgkl_AXkyH3XxjFI5Y,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Spring 2025 Meetings/Testing Meeting 2/11/25,txt,4055,693,1,693.0,693,693,ok
+95,166gZvk10qDw2yCkAjIm2AuzmjZCwksceXDG7QdPVw3g,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Spring 2025 Meetings/Testing Meeting 2/4/25,txt,4034,626,1,626.0,626,626,ok
+96,1XUGJGmic2l_iiGIdVJcV03UvcqjhHx6lHZOk7Slpavc,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Spring 2025 Meetings/Testing Meeting 1/30/25,txt,12960,1999,3,669.33,767,532,ok
+97,1IMFsMQ6nBC_zzXXNYDoJIJt0OA0C9wEercZrE1l2UOs,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Spring 2025 Meetings/Testing Meeting 1/23/25,txt,13542,2207,4,591.5,682,524,ok
+98,1LrB_Drcev03TYdnbxdEG_tnrRfMjvWZQhtDX4lVEBWo,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Spring 2025 Meetings/Testing Meeting 1/28/25,txt,12475,1938,3,649.0,709,532,ok
+99,1gPG_8_u2FYUVf_3czpveIK4ufEjKs_pTAKQAd2uoC3I,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Spring 2025 Meetings/Testing Meeting 1/22/25,txt,18599,3022,5,770.8,834,713,ok
+100,1maWR00NBZaLPyMzGwLUW9tghc-NMZPr427qcO_I040U,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Spring 2024 Meetings/2/19/24 Things to Ruminate On,txt,1774,284,1,284.0,284,284,ok
+101,1Q1gXTyNmwCDOXmxxB3L09gJzZtErTBBrNc-36yHS0M0,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Fall 2023 Meetings/What we learnt in Coldflow Fall 2023?,txt,2609,460,1,460.0,460,460,ok
+102,1nDqUESwPq5GyGrC7j0jC1V8IN3JBWldkbTuupHAlT-w,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Fall 2023 Meetings/Logistics Tesing Side Meeting 8/31 Schdule ,txt,584,96,1,96.0,96,96,ok
+103,1wG1Xos_0IOHtzPpSsKxDudHoQP7DtlO1T-OzDWFxgHs,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Fall 2024 Meetings/Spring 2025 Testing Tasks to Cold Flow,txt,5610,993,2,500.5,667,334,ok
+104,1dkwoikwurceJpWDfJpudWe0uuAP6lrXhRbTB1tWJlW8,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Fall 2024 Meetings/Testing Meeting 10/24/24,txt,1623,200,1,200.0,200,200,ok
+105,1LlindZ_88kzxx8xwcIGxaQifPynl9iTwFD99TP3HliY,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Fall 2024 Meetings/Testing Meeting 11/5/24 + End Semester Schedule,txt,5447,888,1,893.0,893,893,ok
+106,1dtmKnRQnTRUS8fR5S1S9WB1ztLjgVCbXta_78Emuk_4,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Fall 2024 Meetings/Testing Meeting Notes 11/14/24 ,txt,1273,198,1,198.0,198,198,ok
+107,1mndiPHtDO_G1DuCK1ZcVfN5xRlIDnr55E8CVDjcSN0k,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Fall 2024 Meetings/Fall 2024 Wish List,txt,49,3,1,3.0,3,3,ok
+108,1t-g3RrqZJcAZCEJKQo6RhqKMxU38SA_Bs5U_Z7sIP34,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Fall 2024 Meetings/Testing Meeting 10/31/24,txt,1767,274,1,274.0,274,274,ok
+109,1M4XEfLNvKfjtMKfzTmFsMnCrGrXZcZy736acUnGiuoM,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Fall 2024 Meetings/Testing Meeting 9/26/24,txt,2300,387,1,387.0,387,387,ok
+110,1pZ5SNXzFZpvwENjLSum4xTr2yN6WlwIcCqRyxJaatOg,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Fall 2024 Meetings/Testing Meeting 9/3/24,txt,1523,245,1,245.0,245,245,ok
+111,1HmkX6qDba-zrpTBQR4O0-WApi791Sodfi7XJ3dhsE5k,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Pumps Testing Meeting/Testing Meeting 5/18/2023,txt,917,169,1,169.0,169,169,ok
+112,1ssCIk7tF0Qjnw5mWdlWF-zJugxpVaX7hrqI7M7sUs0A,Technical Teams/Fluids and Internal Structures/Archive/Meetings/Pumps Testing Meeting/Testing Presentation,pdf,1078,193,1,193.0,193,193,ok
+113,1lXd6EuMaAbKWNx66Slyl3BG2YvU6BcOn,Technical Teams/Fluids and Internal Structures/Fall 2025 Folder/FAR/FAR-0005_TestStandDimensions.pdf,pdf,69,11,1,11.0,11,11,ok
+114,1iI4GnBywgw7XM4BzEsW_LHmh-5aNGTGFHD2KgJ1bi0Q,Technical Teams/Fluids and Internal Structures/Fall 2025 Folder/Onboarding/FIS General Slides,pdf,8097,1284,2,664.5,785,544,ok
+115,1RtArLo26hj0QZ0O0dxTAvUu1qCI7OV3je7pmjpTAb6Y,Technical Teams/Fluids and Internal Structures/FIS Structures/Structures IDR Notes,txt,334,59,1,59.0,59,59,ok
+116,14UVtAz00GS6QYLp2Hx9GVMd67YmwIKOF,Technical Teams/Fluids and Internal Structures/FIS Structures/MathCAD/MathCAD Tank Deformation Analysis.pdf,pdf,2041,273,1,273.0,273,273,ok
+117,1MQB25OPkAVecCbS86VYlvYzA9DzBvumt,Technical Teams/Fluids and Internal Structures/FIS Structures/MathCAD/MathCAD Beam Analysis.pdf,pdf,2995,388,1,388.0,388,388,ok
+118,1gj2Y54bLgJfS97_laGayp47TaO5nDBeM,Technical Teams/Fluids and Internal Structures/FIS Structures/MathCAD/MathCAD Tank Tab Analysis.pdf,pdf,307,59,1,59.0,59,59,ok
+119,1c_cI3kK1FidnW1jOcQh60LPa6vM4Y-kN,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/README.md,md,6173,891,2,446.5,767,126,ok
+120,10TG4Ygljo3w0FOaRMOk73f7wrlqAJ4WM,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/Python Script Results/thrust_curve_8.00s.csv,csv,24254,2978,4,744.5,900,279,ok
+121,1i3ZEjjAl8_axFAnbe7ZfGPz0n-qpZFHa,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/Python Script Results/thrust_curve_12.00s.csv,csv,37125,4460,5,892.0,900,861,ok
+122,1y_h2O3mdQjCyfiDErlIhFZ1ZAAwif2jb,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/Python Script Results/thrust_curve_11.00s.csv,csv,33889,4091,5,818.2,900,492,ok
+123,12dHsCYj-MsCE5g03KCMr1uchaVWYuS3B,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/Python Script Results/thrust_curve_14.00s.csv,csv,43476,5201,6,866.83,900,702,ok
+124,11TsNZYChB5SM6LCPLoKXyF_4RSC68e4b,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/Python Script Results/thrust_curve_14.50s.csv,csv,45118,5387,6,897.83,900,888,ok
+125,1uGSeBnh0KxqNjcFdh4XNLsljIMXKWzWX,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/Python Script Results/thrust_curve_6.00s.csv,csv,18246,2237,3,745.67,900,438,ok
+126,1jiuhubwVbY8u8cXqCZ0BtVAOaWclikA2,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/Python Script Results/thrust_curve_7.50s.csv,csv,22748,2792,3,930.67,993,899,ok
+127,1hqj3mFiupYp0rAWTAo6MuQeWDGHW72Fr,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/Python Script Results/thrust_curve_8.50s.csv,csv,25835,3164,4,791.0,900,465,ok
+128,1YH8jCEqmPgt5G2LLsgbDSWGwBkF0wkHA,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/Python Script Results/thrust_curve_9.00s.csv,csv,27428,3347,4,836.75,900,648,ok
+129,1y3KMqMLdjuFetbzQl_UEMQw7kdolzyLb,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/Python Script Results/thrust_curve_12.50s.csv,csv,38764,4646,6,774.33,900,147,ok
+130,1-k_5hwXpIqIlapxZZz97Arjz4nDe_onH,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/Python Script Results/thrust_curve_15.00s.csv,csv,46735,5573,7,796.14,900,174,ok
+131,1UtBC_r6jS6JCptqQqZiAnubpdkkpKgA8,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/Python Script Results/thrust_curve_13.50s.csv,csv,41990,5018,6,836.33,900,519,ok
+132,1G3rxXN_b_t_-seQycgARtJ6yPzkoyqNv,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/Python Script Results/thrust_curve_10.00s.csv,csv,30619,3719,5,743.8,900,120,ok
+133,1jcRONTllvQ8z7rXx5BIjj2K_ijK2WSra,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/Python Script Results/thrust_curve_7.00s.csv,csv,21253,2606,3,868.67,900,807,ok
+134,1a3Y38oTdjwsEyR0iWIorLRFDLfuIqQ75,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/Python Script Results/thrust_curve_13.00s.csv,csv,40429,4832,6,805.33,900,333,ok
+135,1s-UxjseHweyt1zB-OHY4mUbsCy_67mlv,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/Python Script Results/thrust_curve_10.50s.csv,csv,32275,3905,5,781.0,900,306,ok
+136,19FJBLIHmR0u5CQgDw6NTshf0OHMUzK4R,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/Python Script Results/thrust_curve_9.50s.csv,csv,29011,3533,4,883.25,900,834,ok
+137,18U7nv3XWunkRBkEHsfGCrB3yGfHd34Qt,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/Python Script Results/thrust_curve_11.50s.csv,csv,35482,4274,5,854.8,900,675,ok
+138,1_gh7BhdzSm6Xbwv60g-yIizqVUC3GBCo,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/Python Script Results/thrust_curve_6.50s.csv,csv,19769,2420,3,806.67,900,621,ok
+139,1HEyzz-4r66bFpDosSn7akeUGp3jMr8I_,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/output.csv,csv,8539,1005,1,1005.0,1005,1005,ok
+140,13vc_4Jz4iAPbpOMoUkCLJZw7_X9F02k7,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Compiled CSV Files/thrust_curve_7.50s.csv,csv,22755,2792,3,930.67,993,899,ok
+141,1wbwGjszLvls5U6He-yxgDxzbfHA06TFg,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Vivek_Limaye___Drag_Analysis_for_LRI.pdf,pdf,8042,2701,5,540.2,890,206,ok
+142,1-omYlzKByWNt3rkQPup1EVHZqBa189w2yNANWtUzOIQ,Technical Teams/Fluids and Internal Structures/FIS Structures/Open Rocket/Drag Analysis with New Thrust Curve/Drag Analysis,txt,114,16,1,16.0,16,16,ok
+143,1uiwCbpiwCY8jSQGzW-fK1lyd-nfPxFX2JTOI1m-Pd60,Technical Teams/Fluids and Internal Structures/FIS Structures/Resources/Structures Useful Links,txt,263,10,1,10.0,10,10,ok
+144,1kcOsfOghzYoWVwHjke1IsgS6XtXBYanvWd4yIh10olw,Technical Teams/Fluids and Internal Structures/FIS Structures/Resources/Structural Design Research,txt,513,82,1,82.0,82,82,ok
+145,1CzvSpm8HOcfWZ3Wk_bBXjfbMXI8AosTX1VExDnI3DoQ,Technical Teams/Fluids and Internal Structures/FIS Structures/Resources/General Research,txt,636,58,1,58.0,58,58,ok
+146,1MPNRMbAldZeplGiqfU4m4NFAiUTRLIy6,Technical Teams/Fluids and Internal Structures/FIS Structures/Resources/EUREKA-1 Technical Report 2024-03-12 21_07_02.pdf,pdf,205127,38130,63,737.54,981,246,ok
+147,168tKftoOlZwVvTOgtnJ5Fp47sj7e6K7T,Technical Teams/Fluids and Internal Structures/FIS Structures/Resources/TREL_December_Newsletter_1733850010 2024-12-10 17_00_49.pdf,pdf,19625,3105,5,772.4,866,704,ok
+148,1ZIXnpxKFgbcK3vbM1ZjACtKm90vt20sc,Technical Teams/Fluids and Internal Structures/FIS Structures/Resources/TREL_November_Newsletter_1731075381 2024-11-08 14_16_48.pdf,pdf,15620,2521,5,670.8,806,344,ok
+149,10ptZB2kTCsdddboat6_vcqs77J2YORDv05Y7yt9bGkA,Technical Teams/Fluids and Internal Structures/FIS Structures/Copy of Meeting Slides Template,pdf,502,85,1,85.0,85,85,ok
+150,1NrjbbV8Cc48WbrbV_5HoExxiW-OsFJvaM3-j_Lfhs9o,Technical Teams/Fluids and Internal Structures/FIS Structures/Meeting Slides Template,pdf,72,14,1,14.0,14,14,ok
+151,1vlrEUtpOxU6o5v3lFAXitkH28kKr8enLBmLGipIYjPs,Technical Teams/Fluids and Internal Structures/FIS Fluids/P&ID Justification FIS 2025 (9/24),txt,7615,1410,2,722.5,795,650,ok
+152,19OyQDN6KgcVbSVxhOM9F5I6vw4-cNgXGJuwSzI8HkWI,Technical Teams/Fluids and Internal Structures/FIS Fluids/Rules and Regulations,txt,3201,502,1,502.0,502,502,ok
+153,1CGq9U5oCpO4LSVAyIXPOIIfALuRghw-XKQEZmTkboOs,Technical Teams/Fluids and Internal Structures/FIS Fluids/Line Sizing Calculator/Guide to Line Sizing Calculator,txt,4491,757,1,757.0,757,757,ok
+154,1m9dxYuk5unK36Zdd4xNZ_VFOkC23j3J5JosPWF_lALs,Technical Teams/Fluids and Internal Structures/FIS Fluids/Sources Document,txt,968,143,1,143.0,143,143,ok
+155,1Td4udYOjHovEmPRZyMbCAGw4Og5kICznRZ442Jk2eYc,Technical Teams/Fluids and Internal Structures/FIS Fluids/Fluids resources/FIS Torque Specifications,txt,2335,415,1,415.0,415,415,ok
+156,1WbZNNXpJBwvxgV8WIU96mU42g_E5sWGV,Technical Teams/Fluids and Internal Structures/FIS Fluids/Fluids resources/Fluids Onboarding Links.docx,docx,468,37,1,37.0,37,37,ok
+157,1NFkQRpJvnTrlZh5gwd6FBizG2M3S6bXw,Technical Teams/Fluids and Internal Structures/FIS Fluids/Fluids resources/Pressure Reg Documentation/Glossary-of-Terms - Swagelok REGS.pdf,pdf,2688,414,1,414.0,414,414,ok
+158,1VlZdhoTISi9kw0e0EcfQqdshON3WLX4X,Technical Teams/Fluids and Internal Structures/FIS Fluids/Fluids resources/Pressure Reg Documentation/Flow-Chart-Data - Swagelok REGS.pdf,pdf,30661,5932,13,715.69,874,570,ok
+159,1zmOg2wEWhmOcjuWwu_F_OazIHnUZoR464WFbDOaCIP4,Technical Teams/Fluids and Internal Structures/Simulink/Copy of Modeling a LOx tank in Simulink,txt,3192,495,1,495.0,495,495,ok
+160,1oXv0xTBpFL6YHcbQkmtVUUtC7nPNEv4S07LBQeNEXkw,Technical Teams/Pumps/Project Documentation/Pumps Test Stand Documentation,txt,992,177,1,177.0,177,177,ok
+161,1JWMW06DLCqzW1r8vw_Ks9XQXUJa4VU5dHA2iLAs1mkM,Technical Teams/Pumps/Fall 2025 Onboarding/Geyser Mk. II Documentation,txt,53312,9111,15,767.93,868,707,ok
+162,19zPq99Tpeywx7UX5ycQFCAGcne0K7asvsQuAlnNfUCY,Technical Teams/Pumps/Fall 2025 Onboarding/Pumps Team Intro,pdf,6584,1081,2,544.0,726,362,ok
+163,1IsEdrCJJXHwf-q07dCBkQ-t0246-UUVTk1e-vrXGwJo,Technical Teams/Pumps/Fall 2025 Onboarding/Pumps Systems,pdf,7952,1260,2,654.5,770,539,ok
+164,1ovXeKW3rxvZ6W4az17Z2oZVXwhw5scaCQaORqaJDJAo,Technical Teams/Pumps/Fall 2025 Onboarding/Pumps Team Intro Notes,txt,8726,1446,2,724.5,761,688,ok
+165,1yuPRxudCY-H3F5iFVtiN6AYSw9wcvf93IaL8a5XCQiY,Technical Teams/Pumps/Fall 2025 Projects/Pumps Projects Template,txt,784,127,1,127.0,127,127,ok
+166,1FnpyvXszDTcKvePkSHBbXk5_xNa8my0lPoa9kUfFZRk,Technical Teams/Pumps/Fall 2025 Projects/Bearing Improvements/Bearing Improvements Documentation,txt,5224,825,1,826.0,826,826,ok
+167,1GRAki0y2aeNplQ97TjPeBa9odt1cZ9iPBoW9DUQLPBI,Technical Teams/Pumps/Fall 2025 Projects/CAD/Part Selection/Testing CAD/Part selection,txt,2705,457,1,457.0,457,457,ok
+168,16ag1u-WLadDW8YBLifqBaXef9F8pgixG0vDa826VeN4,Technical Teams/Pumps/Fall 2025 Projects/Power Electronics/Power Documentation,txt,8322,1263,2,638.5,765,512,ok
+169,1dpVTQnODjGzv78Opw8e_uGE2FQAKFz5ENmqONkWhPyc,Technical Teams/Pumps/Fall 2025 Projects/Power Electronics/Weekly Updates Power Electronics ,txt,1164,190,1,190.0,190,190,ok
+170,1gnSOD6Mu9EiIFr6wqKIg4BzR7usSnqO87pYPSFeT24U,Technical Teams/Pumps/Fall 2025 Projects/E-Hardware/E-Hardware Documentation,txt,4376,736,1,736.0,736,736,ok
+171,1iDPSyXhnbFpeSoWJivax2xnMQlhPYgFxq8V74ZzTe9o,Technical Teams/Pumps/Fall 2025 Projects/Software/Software Documentation,txt,9037,1414,3,644.33,765,441,ok
+172,1UOMpg6wLxHuU8DsJq_PWKbc6a2qfyIaU,Technical Teams/Pumps/Fall 2025 Projects/Software/castle_link_live_2_0.pdf,pdf,8757,1540,3,651.0,791,427,ok
+173,1EBuGn9pUpWfUT30xyI1TAWuxEqIW7etAmWe03RIU2bE,Technical Teams/Pumps/Fall 2025 Projects/Software/RAND-E Software Adaptation Analysis,txt,3582,529,1,529.0,529,529,ok
+174,1SqhcrrT7Tai5LXFFYznO9GdvwyOP0K-8V41WDiwakok,Technical Teams/Pumps/Fall 2025 Projects/Rotordynamics/Rotordynamics Documentation,txt,7139,995,2,500.0,787,213,ok
+175,1OOHTF9P-CdW115DxKc5ZvkmJKAZ7EZ4RpAHJPqX0l6M,Technical Teams/Pumps/Fall 2025 Projects/Impeller Resize/Impeller Resizing Documentation,txt,7384,1181,2,615.0,720,510,ok
+176,1Z2rnCebbFKtQsbuuonDfsyl20DzuoPLxeMda17XrsFg,Technical Teams/Pumps/Fall 2025 Projects/Housing Optimization/Housing Optimization Documentation,txt,7344,1258,2,649.5,761,538,ok
+177,19rJcv7U9_eA0yXfzS_fGvcf6ZVvvN9VUpXBQNRRDsWA,Technical Teams/Pumps/Fall 2025 Projects/Shaft Seal/Shaft Seal Documentation,txt,2355,375,1,375.0,375,375,ok
+178,146Ms5RqvDLT5KOSpzKKwiNQ5eBU20Tct5zNSJ3odevA,Technical Teams/Pumps/Fall 2025 Projects/Shaft Seal/ Mk. II Documentation With Annotations,txt,54122,9251,15,742.4,868,472,ok
+179,1vH2bpAedKm8JOKt2nhpL8gEkVp_6mQmSoLKbpdxX7Wg,Technical Teams/Pumps/General Tools/Screws and Bolts/How to use a screw chart,txt,2804,516,1,516.0,516,516,ok
+180,1rOZxnbm3lO7c5r0Jo_iL9b5kTConiG50LOKt5_dkc2Y,Technical Teams/Pumps/Pumps Testing/FMECA/Pumps FMECA planning,txt,670,76,1,76.0,76,76,ok
+181,1QSLM9ek5Ky-GlcCx9zuZMVV0YerbN_VavEwZxGl6FUc,Technical Teams/Pumps/Pumps Testing/Test Stand CAD/P&IDs/Testing Stand Documentation,txt,616,90,1,90.0,90,90,ok
+182,1SdcJxNGCoKKJnXyBAhPvyjXOJzZ-KWsjdtgnDTCxi_Q,Technical Teams/Pumps/Pumps Testing/Testing Documentation/Pumps questions 2/16/2026,txt,564,113,1,113.0,113,113,ok
+183,1fCsGgeRJzP_63r6tYrSV80-5RTdfsPwCc54_L5c88HA,Technical Teams/Pumps/Pumps Testing/Testing Documentation/Fall 2025 Initial testing procedure,txt,1874,326,1,326.0,326,326,ok
+184,1VW1kMGQDW8JuIqVcgJX6RaCcB5ePMC-qIWW6MgKFMhI,Technical Teams/Pumps/Pumps Testing/Testing Documentation/Testing Plan Outline,txt,6526,1074,2,537.0,688,386,ok
+185,1GagGFGd8byYEbDuCqnG5FL1yUAcTz535yav-owyPGZg,Technical Teams/Pumps/Pumps Testing/Testing Documentation/Pumps Testing Procedure Notes,txt,3608,586,1,586.0,586,586,ok
+186,100-AfZ3f8BMrsLE7Fo7mV6rweUZAYovoVscOo-8-W6w,Technical Teams/Pumps/Pumps Testing/Testing Documentation/Testing Plan Document,txt,3506,542,1,542.0,542,542,ok
+187,1TurHGWfUsn7aI_bAGUoMqD96DACF5lCfD5QUttrtwTI,Technical Teams/Pumps/Pumps Testing/Testing Research/Testing Research 2024/Pump Test Stand Valves,txt,736,128,1,128.0,128,128,ok
+188,1z-mcp_bnLUKlNGlReWhHs2Xpfr15-ySm,Technical Teams/Pumps/Pumps Testing/Testing Research/Testing Research 2023/Medium Consistency Pump - PAGE 3 DIAGRAM.pdf,pdf,23146,3847,8,742.88,875,492,ok
+189,1FDsJ1RtbRJCFVGIgvdoDSZGSDwHasjsK3rC9lwiAwz4,Technical Teams/Pumps/Pumps Testing/Magma Mk1 Checklist,txt,1065,164,1,164.0,164,164,ok
+190,1xd1QbY1MuPuhIqXUGwd97Zw3J6zzwKgZv1O8PccSMAU,Technical Teams/Pumps/Pumps Testing/Test Stand Parts Info/Test Stand Adapters List,txt,867,157,1,157.0,157,157,ok
+191,1vyNyEsjJXlWWCN8OkbUy3usaLkJiPlKg,Technical Teams/Pumps/Pumps Testing/Test Stand Parts Info/Needle Valve/Needle Valve - Series N 9N - Characteristics Ordering Code.pdf,pdf,2006,386,1,386.0,386,386,ok
+192,1o87abJz4O0Q0tX9btynJkzgmTYAvrJ5D,Technical Teams/Pumps/Pumps Testing/Test Stand Parts Info/Needle Valve/Flow Control Valves - Series N - Technical Information.pdf,pdf,6144,1020,2,569.0,630,508,ok
+193,192RTSQ1M0S82DlB5_I0Qv7s_EpPIYCWwc-xKp3zL8w0,Technical Teams/Pumps/Pumps Testing/Test Stand BOMs/Pump Instrumentation Selection,txt,7744,571,1,571.0,571,571,ok
+194,1l8L_sjpi9CXa7EewGdJ43wzX82C5MTSyqOmoEkD3tEE,Technical Teams/Pumps/Pumps Design/Geyser MK 3/Geyser Mk 3 conceptual meeting notes,txt,374,56,1,56.0,56,56,ok
+195,1sAkU_hGnUSRIKaqa0umcvpOfZxPE_gtW,Technical Teams/Pumps/Pumps Design/Bearing Manufacturer Info and CAD/6301-NTNBearingCorp.ofAmerica-2DSalesDrawing-03-11-2025.pdf,pdf,336,44,1,44.0,44,44,ok
+196,122kxTkI6fpYOMa5KMnyWKVIzVInEJF42qVSjJWOvNwE,Technical Teams/Pumps/Pumps Design/Design Documentation/Geyser Mk2 Batteries List,txt,962,175,1,175.0,175,175,ok
+197,16U0UedTIam0fI9_y2E1RlN7vs17QsxmY7spjwVAQ09g,Technical Teams/Pumps/Pumps Design/Design Documentation/Assembly Procedures,txt,9724,1705,3,654.67,728,512,ok
+198,1nZkyNkakOIkpfGxFEsazyLqrwm6sS4a6OLgchA99hIk,Technical Teams/Pumps/Pumps Design/Design Documentation/Geyser Mk2 Pump Documentation (Outdated),txt,23118,3885,6,708.83,855,486,ok
+199,1lDt_mbbnjYnqGPBeFzoSw7trEh3mXyOmqZS5OWff-BE,Technical Teams/Pumps/Pumps Design/Design Documentation/Bearing Sims Documentation,txt,44304,6942,10,740.5,924,239,ok
+200,1bc3N0PpQEsa--4Rh-Qle-PUPAtvqf3N4,Technical Teams/Pumps/Pumps Design/Design Documentation/NTN bearing report.pdf,pdf,19430,2845,4,815.5,867,758,ok
+201,10-QsXhxhAEcbCoby1Wp1fg1V0JVpwA5HavFStzyyXdg,Technical Teams/Pumps/Pumps Design/Design Documentation/Subcomponent Documentation - Geyser Mk2/Labyrinth Seal: Geyser Mk2 Pump Documentation,txt,4215,717,1,717.0,717,717,ok
+202,1NaEPkUAXDiMTywAWEGiaGhSgiUR6yqN5wfntnn3lt10,Technical Teams/Pumps/Pumps Design/Design Documentation/Subcomponent Documentation - Geyser Mk2/Motor Cooling: Geyser Mk 2 Pump Documentation,txt,9461,1543,3,613.0,813,294,ok
+203,1SJVd6_L9yHwngDN3ImDgUi7imAMPSoiP3U49xTuug9s,Technical Teams/Pumps/Pumps Design/Design Documentation/Subcomponent Documentation - Geyser Mk2/Bearings: Geyser Mk2 Pump Documentation,txt,6098,1002,2,581.0,800,362,ok
+204,1xiy4wlIx3xdebTEDHlFlnSv4xSFWXg9TYDPEyR0jFKM,Technical Teams/Pumps/Pumps Design/Design Documentation/Subcomponent Documentation - Geyser Mk2/Impeller: Geyser Mk2 Pump Documentation,txt,7121,1188,2,638.5,761,516,ok
+205,1s4w6NgTTQgI9esAF5DYAHXf9IAXAC6iL4OL4iZgj5kw,Technical Teams/Pumps/Pumps Design/Design Documentation/Subcomponent Documentation - Geyser Mk2/Shaft: Geyser Mk2 Pump Documentation,txt,7796,1283,2,714.0,785,643,ok
+206,1xn5toFqnHbhA0Dr7fyRO5JSXdAobQWSy-DA7_FUrdBU,Technical Teams/Pumps/Pumps Design/Design Documentation/Subcomponent Documentation - Geyser Mk2/Fasteners: Geyser Mk2 Pump Documentation,txt,3405,501,1,501.0,501,501,ok
+207,1to_Y8bU6cH_dNRZB6tb6DIxYWmnKihdauMLVpQb2eMs,Technical Teams/Pumps/Pumps Design/Design Documentation/Subcomponent Documentation - Geyser Mk2/Bottom Housing: Geyser Mk2 Pump Documentation,txt,11312,1867,3,722.0,781,676,ok
+208,1tegcnQnFBCmINJMi4LsIST3IiKhFj2lJinpGcqIWR5I,Technical Teams/Pumps/Pumps Design/Design Documentation/Subcomponent Documentation - Geyser Mk2/Top Housing: Geyser Mk2 Pump Documentation,txt,5425,917,2,507.5,708,307,ok
+209,1LBgnBpS_9pRikspWvKtzb5ellnUARMd4ktmYG5_-ODM,Technical Teams/Pumps/Pumps Design/Design Documentation/Subcomponent Documentation - Geyser Mk2/Lip Seal: Geyser Mk2 Pump Documentation,txt,3377,574,1,574.0,574,574,ok
+210,1bnQo2rE0WENNujQPGb-TR48cX7tl-p9bPFKYipZEwIs,Technical Teams/Pumps/Pumps Design/Design Documentation/Subcomponent Documentation - Geyser Mk2/Geyser MK II Documentation Reference Sheet,txt,4040,671,1,671.0,671,671,ok
+211,10uPZ13rZ8eOvDFHBEBCjHqdKTyhlNvEbDZo4KG7N3Sk,Technical Teams/Pumps/Pumps Design/Design Documentation/Subcomponent Documentation - Geyser Mk2/Pumps Image Labeling,pdf,1356,157,1,157.0,157,157,ok
+212,1KGREYBgSbamSFZ717cLjS-L-ZkCiczH1,Technical Teams/Pumps/Pumps Design/Design Documentation/Tech documentation example: Turbopump Retrospective.pdf,pdf,36525,6405,10,689.3,872,365,ok
+213,1H3jXnhmSZQFyyElIRROUqnc7cipXtzRo,Technical Teams/Pumps/Pumps Design/Design Documentation/Pump Geometry Validation/Pump Parameterization/TMI_Turbopump_Pump_Parameterization.pdf,pdf,1665,419,1,419.0,419,419,ok
+214,1mS3VJF91TCmIUH6i99IrkIehy7TDMY7M,Technical Teams/Pumps/Pumps Design/Design Documentation/Pump Geometry Validation/Geyser Mk2 Simulations Spring '23/STEP Files/SolidWorks_CasingSpiralFunction.txt,txt,115,16,1,16.0,16,16,ok
+215,1zLDdXD4444ABqeTIWiMbh3aCRptvgpJz,Technical Teams/Pumps/Pumps Design/Design Documentation/Pump Geometry Validation/Geyser Mk2 Simulations Spring '23/STEP Files/Iteration1.csv,csv,573,94,1,94.0,94,94,ok
+216,1zNSG8I6e8GOOjsayp7H3PFDctIyKUpK5lAzk5j0AmSs,Technical Teams/Pumps/Pumps Design/Design Documentation/Pump Geometry Validation/Article Review/Pump Variables,txt,1657,209,1,209.0,209,209,ok
+217,1g4J6BHAjfoaFjCxeBj7scv0klxw7hNsV,Technical Teams/Pumps/Pumps Design/Design Documentation/Pump Geometry Validation/Article Review/barske_vsc2.pdf,pdf,33456,4612,8,599.38,857,288,ok
+218,1_UyghGaWZDr8lGpryYBs7mDlniYi7oPZ,Technical Teams/Pumps/Pumps Design/Design Documentation/Pump Geometry Validation/Article Review/Barske_viscosity.pdf,pdf,19814,3235,5,713.4,780,596,ok
+219,1flKYlyj37uUwQ9B5p-Yi5xg1jAr9-vgD2t_gsbrzfRs,Technical Teams/Pumps/Pumps Design/Design Documentation/Rotordynamics Simulations/Materials Information,txt,1880,312,1,312.0,312,312,ok
+220,1MtOKb_v659mPmNBoHgDJjtWLANhVz9CPc0cKO67-nso,Technical Teams/Pumps/Pumps Design/Design Documentation/Rotordynamics Simulations/Rotordynamics/LRI UCS Report,txt,6026,880,2,504.5,791,218,ok
+221,1MXAAesXINWKyTh8P1c0420wBIDbi57IB,Technical Teams/Pumps/Pumps Design/Design Documentation/Rotordynamics Simulations/Rotordynamics/Bearing_Stiffness.txt,txt,2520,373,1,373.0,373,373,ok
+222,1k8VxpLXcRSzKOhEzYUfFysmitWJ965e3SOnWMSXpMx8,Technical Teams/Pumps/Pumps Design/Design Documentation/Rotordynamics Simulations/Rotordynamics/Article Review/Rotordynamics Article Review,txt,2321,315,1,315.0,315,315,ok
+223,1oOGZmCS5LIRuW5veQfI0_e6GCJwAtcG6,Technical Teams/Pumps/Pumps Design/Design Documentation/Rotordynamics Simulations/Rotordynamics/Article Review/okayasu-et-al-2012-small-lox-lh2-turbopump-for-a-1-ton-thrust-class-rocket-engine.pdf,pdf,15766,2523,4,673.75,839,462,ok
+224,17pqxEYJsgm3CdXlVEaqMjUidB6qszhpM,Technical Teams/Pumps/Pumps Design/Design Documentation/Rotordynamics Simulations/Rotordynamics/Article Review/A-Practical-Guide-to-Rotor-Dynamics.pdf,pdf,39005,7238,12,723.17,897,518,ok
+225,1xwdDk6YGKPi3xy71RejTLssgonh5Lt5mLNZ4ytgweVk,Technical Teams/Pumps/Pumps Design/Design Documentation/Rotordynamics Simulations/Rotordynamics/Article Review/(SEE PG 91) Differential_Equations,txt,147759,27991,38,775.92,1003,148,ok
+226,11RnKoYtl03_B9ansLVi13imvA2KlL2N8,Technical Teams/Pumps/Pumps Design/Design Documentation/Rotordynamics Simulations/Rotordynamics/Article Review/guay.pdf,pdf,17786,3138,5,666.0,783,297,ok
+227,10MkbCUNGSaQjXtHQgDMGIOkAgOu8mwVA,Technical Teams/Pumps/Pumps Design/Design Documentation/Rotordynamics Simulations/Rotordynamics/Article Review/ADA065554.pdf,pdf,69227,14194,25,746.92,862,358,ok
+228,1KZ3g_C5r50hECDVF9W22GKw_5WwtLmxt,Technical Teams/Pumps/Pumps Design/Design Documentation/Rotordynamics Simulations/Rotordynamics/Article Review/Marscher Texas AM End Users Guide to Centrifugal Pumps 2020.pdf,pdf,101660,16254,24,757.96,880,454,ok
+229,1CHlFgK-k7OfdJuTgfV3wh8DtetWSqgpDQAOm3WIzHfU,Technical Teams/Pumps/Pumps Design/Design Documentation/Wall Thickness Calculations,txt,550,94,1,94.0,94,94,ok
+230,1gSnr_0E0woqr4CUr3mbBpEG2UGsjxzqb4auM4ozc-WU,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2024/Shaft Seal Resources,txt,1855,208,1,208.0,208,208,ok
+231,1kkV9E27gfd79Xjd_QTnDVSR4zlzXS92g,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2024/Bearing Research/ISO_TR_1281-1_2008(E)_BasicDynamicLoadRatingAndBasicRatingLife.pdf,pdf,80289,15393,26,700.69,899,157,ok
+232,1pL49NPhLpGYJziYOftbNs7IY36T1doGf,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2024/Bearing Research/Service_LIfe_of_Universally_Loaded_Deep_Groove_Ball_Bearing_Depending_on_Internal_Clearance.pdf,pdf,17945,3150,8,644.38,851,390,ok
+233,1goHDm4sVLcbAxJcz5W9ObUMJAUHOUNjm,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2024/Bearing Research/Dyrobes-Chapter-6.pdf,pdf,159028,26834,40,739.05,894,194,ok
+234,1guj3iyaL87rDQthrD0djvVWPAVps5CKQ,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2024/Bearing Research/NTN_BearingInternalClearancePreload_Info.pdf,pdf,39347,7940,12,661.67,979,260,ok
+235,1wx79yYhLeRssfZbHRC0ZX_l99LdNZ6tT,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2024/Bearing Research/NTN_DeepGrooveBallBearings_Info.pdf,pdf,59433,14067,21,669.86,965,131,ok
+236,1kAE7hGyLWpxgzpb6HZl_oiJp69SqEPNyJE7A6uHRmN0,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2024/CFD Research,txt,467,82,1,82.0,82,82,ok
+237,10mBO-tjnvTeJ4VAj0jSgyj-8FqQ3HptNByLjI9Pi-l8,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2024/Wave Spring Research,txt,4784,725,1,725.0,725,725,ok
+238,19gkjHWQh93CEbd76xy-TbX2cIqa3wY5p,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2024/Labby Seal Ideas.pdf,pdf,2414,163,1,163.0,163,163,ok
+239,1Z-5AzuMDHV6AkszhUzEnmUExjMDqlDHm,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2024/PEPumpEquations.docx,docx,1760,270,1,270.0,270,270,ok
+240,1syMMMxRgcIObH8-YJOQ7PWMxGi11U_2WUcYXjud33OY,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2024/Bolt Preload,txt,153,18,1,18.0,18,18,ok
+241,1UkB3wFAF8LffUMb4JRjgEHgJo-9MRu2sfJlEhr5R_hs,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2024/Pump Bearings/ Effect of Bearing Heat,txt,3243,509,1,509.0,509,509,ok
+242,1OslgriI3nQ5MFbgVkCB4qJUYTMtTAdwg,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2024/Pump Bearings/PEPump Thrust Calculation.pdf,pdf,949,113,1,113.0,113,113,ok
+243,19RwImYZ5_ChcbWFlHIpn_ZSBmllzEnGIgVIkh7aAVgU,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2024/Pump Bearings/Bearing Options and Resources,txt,707,26,1,26.0,26,26,ok
+244,1ag2ivjeE9bWO2nOw87OpY_yr_g-gW02d,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2024/Pump Bearings/Numerical Optimal Design of Impeller Back Pump-Out Vanes on Axial Thrust in Centrifugal Pumps.pdf,pdf,26067,4055,6,739.33,790,694,ok
+245,10cfIvUj7Eo4tt1YeY3ePx1Ezh256ipva,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2024/Pump Bearings/Review of parameters influencing hydraulic forces on centrifugal impellers.pdf,pdf,43492,7020,11,656.45,893,438,ok
+246,1N-TyCDGcMzWNWfwnyQUoJj5ESVA9sFlw,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2024/Pump Bearings/An Experimental Investigation of Radial Thrust in Centrifugal Pumps.pdf,pdf,25033,4039,6,749.5,891,396,ok
+247,15JKv_T0e0Yj3evuzvPgLsOWOcxZi_Oa1,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2024/Pump Bearings/Axial Thrust Behavior in LOX-Pump of Rocket Engine.pdf,pdf,37358,6359,9,706.56,898,128,ok
+248,1YEEQ5cOMJgt725uEw9XkQprkGGVvu1JQ,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/1950140.pdf,pdf,1729,273,1,273.0,273,273,ok
+249,1kmB9J_hcq26mm11UN_JVOpKwn-VCEkEGo1ubTTD0Ug8,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Materials for Cryogenic Pump,txt,2052,239,1,239.0,239,239,ok
+250,11yqxuhyhxpmkCtXMKaEcb7-i7JrH_Vhg,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Barske Pump Resources/impellerBearingResources.pdf,pdf,100730,16208,30,691.3,886,361,ok
+251,1ZzDSvWxYyPH5RL_XZ2McxS3oxl3U9oBa,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Barske Pump Resources/High Pressure Pumps for Rocket Motors.pdf,pdf,48609,8304,14,659.64,873,200,ok
+252,1y_BrvyYoCbKhD5AqIUkgwkVZGsVg6pV0,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Barske Pump Resources/Development of Some Unconventional Centrifugal Pumps.pdf,pdf,113522,18790,25,751.6,953,173,ok
+253,1foEB3HOkHMmYvHWuu0lNYjd3N-Ltgexp,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Barske Pump Resources/Rotating and Positive-Displacement Pumps for Low-Thrust Rocket Engines.pdf,pdf,193301,33943,63,734.27,899,447,ok
+254,17-rFpNE0FmII1aS3YBHmm93NH8PblnS7,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Pump Turbopump Shaft and Coupling/Shaft Manufacturing Research.docx,docx,2408,395,1,395.0,395,395,ok
+255,1tNczDOsWvsSJx3tcPy1q4_DQ_VJ0GalE,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Pump Turbopump Shaft and Coupling/Research Papers / Online Resources/Bearings / Fittings/Eqns and Nomenclature for Curvic Coupling Design and Application.pdf,pdf,57525,9438,17,731.94,890,502,ok
+256,1zuv7laqrj1-uT01hLwI93laBPiEI-hvi,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Pump Turbopump Shaft and Coupling/Research Papers / Online Resources/Bearings / Fittings/NASAbearingdata.pdf,pdf,82516,12752,22,703.27,885,327,ok
+257,1Q7fPGjl6WF1HIlGak4VB4OlV9wlLqtV4quADSz0tXvU,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Pump Turbopump Shaft and Coupling/Research Papers / Online Resources/Bearings / Fittings/Links to Bearing Resources,txt,314,26,1,26.0,26,26,ok
+258,1s1UOD3-OBSTOyB6D6Iffic22hstHHP19,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Pump Turbopump Shaft and Coupling/Research Papers / Online Resources/Bearings / Fittings/Impeller-Fits-to-Shafts-Explained.pdf,pdf,5768,748,1,748.0,748,748,ok
+259,1xkIHbT0Wm81F8-4pBaNdnmhVK_m_8Nph,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Pump Turbopump Shaft and Coupling/Research Papers / Online Resources/Manufacturing / Machining/machines-11-00373-with-cover.pdf,pdf,32022,5033,8,735.0,848,632,ok
+260,155iyWWgh7JRL76PnIy5dOURS93nJ6qcS,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Pump Turbopump Shaft and Coupling/Research Papers / Online Resources/Manufacturing / Machining/Study of Manufacturing Processes for Liquid Rocket Turbopump Impellers Test and Analysis.pdf,pdf,37654,5756,12,708.58,885,459,ok
+261,1IZmpgEjcxikQZ-EzdygjCWnBQZjzUOtz,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Pump Turbopump Shaft and Coupling/Research Papers / Online Resources/Handmade Notes/Sealing Basics.pdf,pdf,221,11,1,11.0,11,11,ok
+262,1Id-ZS0uxx9BfHZig3-7q3hmIPjtcJhxW,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Pump Turbopump Shaft and Coupling/Research Papers / Online Resources/Handmade Notes/LRI Notes - CURVIC COUPLING EQNS.pdf,pdf,1028,112,1,112.0,112,112,ok
+263,12IT2fi_Vbpr3lJkY7nwazTtNXZkbeTMoEc0MRINKIS0,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Pump Turbopump Shaft and Coupling/Research Papers / Online Resources/General Info/Website resouces,txt,109,16,1,16.0,16,16,ok
+264,1gm0vt3VqGvWfHFPXO7CzzY6GnlHTQ66L,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Pump Turbopump Shaft and Coupling/Research Papers / Online Resources/General Info/NASA Liquid Rocket Engine Turbopump Shafts and Couplings - Annotated Version.pdf,pdf,237696,16718,28,752.82,864,682,ok
+265,1ap-u-KWE9lCKTt7dD3x9ow0Mti5jRpzJ,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Pump Turbopump Shaft and Coupling/Research Papers / Online Resources/General Info/Single-Shaft Turbopumps in Liquid Rocket Engines.pdf,pdf,33733,5591,8,771.0,875,622,ok
+266,1GtwBc_HVvSK80fPMg0SaWw0q1dUqGToA,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Pump Turbopump Shaft and Coupling/Research Papers / Online Resources/General Info/NASA Design Criteria Monograph on Turbopump Shafts and Couplings.pdf,pdf,5066,722,1,722.0,722,722,ok
+267,1RW2uNkBuwIBg-njNWV_kScTNKFbBV4WM,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Pump Turbopump Shaft and Coupling/Research Papers / Online Resources/General Info/NASA Liquid Rocket Engine Turbopump Shafts and Couplings.pdf,pdf,256567,37627,82,748.39,890,493,ok
+268,1w85AP6N7sSyhM6SaK_nVQhfigfT-lp9B,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Pump Turbopump Shaft and Coupling/Pump Shaft - Iteration 1/Iteration 1 Pump Shaft - PreCAD Instructional Manual.pdf,pdf,28781,2920,5,762.2,856,634,ok
+269,1WVkzkoJrLZBl6zN7Hi9-zU0rXLTfZSmN,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/O-rings/Bearings Research/An Overview of Bearing Candidates for the Next Generation of Reusable Liquid Rocket Turbopumps.pdf,pdf,54941,8438,13,717.92,899,319,ok
+270,1UrM7tI8JiapS6aSiSDYkZIwmAuS_qZw0,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/O-rings/Bearings Research/Leakage performance of floating ring seal in cold.pdf,pdf,44109,7615,11,692.27,962,226,ok
+271,18jqpwqmxUnQwC4daAQskeXZI0eXpZAy4,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/O-rings/Bearings Research/EVALUATION OF ELASTOMERS AS O-RING SEALS FOR LIQUID ROCKET FUEL AND OXIDIZER SYSTEMS.pdf,pdf,72588,11878,26,695.77,896,192,ok
+272,1N9fxYLu6KavEGzNpqU0AwWgytbOSlXcv8Q5lOqEcCJg,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Storage Ideas/Materials,txt,327,46,1,46.0,46,46,ok
+273,1QMwgBgub807QItnlzDXFSszy3MRyUzmZrHFxMlOp5SM,Technical Teams/Pumps/Pumps Design/Design Research/Design Research 2023/Materials and Cryogenics Research Document ,txt,762,65,1,65.0,65,65,ok
+274,1I8FG5Q5W9U_wL0huttyiFmHpQo5Nsw0S,Technical Teams/Pumps/Pumps Design/CAD/Geyser Mk2(Current)/Post-CDR updates (version 7.0+)/8.2/README.txt,txt,1506,196,1,196.0,196,196,ok
+275,1e5kZxodcCh3sxBlhkNb-rPBL2dh_p-vj,Technical Teams/Pumps/Pumps Design/CAD/Geyser Mk2(Current)/Post-CDR updates (version 7.0+)/8.1/README.txt,txt,3341,477,1,477.0,477,477,ok
+276,16LnfgKPVAEfVG1hG6HzrRDaZNNdfze_Q,Technical Teams/Pumps/Pumps Design/CAD/Geyser Mk2(Current)/Post-CDR updates (version 7.0+)/8.0/README.txt,txt,4150,423,1,423.0,423,423,ok
+277,1bBryO8O0aNwsnDTvdQfCXYDt9pPE_TLc,Technical Teams/Pumps/Pumps Design/CAD/Geyser Mk2(Current)/NX older Versions(Retired)/Updated CAD (not really idk what this is)/00 Make sure to reupload files from drive before use.txt,txt,49,9,1,9.0,9,9,ok
+278,1Jg_ystZK-zNUA79S9ko-SusEVtTMN7yn,Technical Teams/Pumps/Pumps Design/CAD/Geyser Mk2(Current)/NX older Versions(Retired)/2.5/!2.5_README.txt,txt,106,16,1,16.0,16,16,ok
+279,1ZhCiFFQRWILEMurHJhEh0hpgzP6WU4l-ri_Sfksl0Z0,Technical Teams/Pumps/Pumps Design/Design Reviews/Fall 2024 CDR/Fall 2024 CDR Geyser Mk2 ,pdf,10534,1699,3,577.33,776,227,ok
+280,1XgR5MeLI-gTjlf_B9EHSEEQHGIDcB_xdpuscfkFMhlI,Technical Teams/Pumps/Pumps Design/Design Reviews/Fall 2024 CDR/LRI pumps CDR 2.0 info,txt,3453,572,1,572.0,572,572,ok
+281,1U_IUeBPxjzFoIkTqFSRFabZmG7R4HgfZ,Technical Teams/Pumps/Pumps Design/Design Reviews/Fall 2024 CDR/LRI Pumps_ Critical Design Review- Meeting Transcript.docx,docx,68731,12643,15,842.87,900,192,ok
+282,1GDo1enZ722_ugqEOZFXk3pNzILCtMfcQPwjnUIdx428,Technical Teams/Pumps/Pumps Design/Design Reviews/Fall 2024 CDR/Pumps CDR 2.0: specific feedback,txt,1121,197,1,197.0,197,197,ok
+283,1R80Nx1H2OlIw3ylBayjcIc9j9fL840Au4YyZxLRFo0Q,Technical Teams/Pumps/Pumps Design/Design Reviews/Fall 2024 CDR/CDR 2 Prep Notes,txt,645,106,1,106.0,106,106,ok
+284,1L8sQuFjB0CuToM9lY2R-L16YmBfRvVB49YE5gwj0sAg,Technical Teams/Pumps/Pumps Design/Design Reviews/Spring 2024 CDR/Spring 2024 CDR Geyser Mk2,pdf,6461,1016,2,572.0,796,348,ok
+285,1KfIK-PYB9W18fHox9xxRt_S_7yON4mJUdzHMA6E7kWQ,Technical Teams/Pumps/Admin and Meetings/Slideshows/Fall 2025 Slides/Pumps Meeting 10/9/25,pdf,2509,389,1,389.0,389,389,ok
+286,1tRWJ6wbXyfoZdQwBFdAdGTNfjeAd9i3AGyobEyHiz84,Technical Teams/Pumps/Admin and Meetings/Slideshows/Fall 2025 Slides/Pumps Meeting 9/25/25,pdf,1811,304,1,304.0,304,304,ok
+287,1XycQB8gpCTQWuIxbsPc1Gu-cDAkuMB7OHj5kkoruMrU,Technical Teams/Pumps/Admin and Meetings/Slideshows/Fall 2025 Slides/Pumps Orientation 9/18/25,pdf,4683,757,1,757.0,757,757,ok
+288,1Bd6YvyaT3SK3P4BfjTMgLox2_eHRb9BRF_0W1AiAlSg,Technical Teams/Pumps/Admin and Meetings/Slideshows/NX Onboarding/LRI NX onboarding 1,pdf,872,149,1,149.0,149,149,ok
+289,1KuIyZzMR8ndA05WAxZp7fier-6SesCbh1D3tnZbVZl8,Technical Teams/Pumps/Admin and Meetings/Slideshows/Summer 2025 Slides/8/7 Pumps General Meeting,pdf,3347,589,1,589.0,589,589,ok
+290,1n9Fug7KnQgBr0vvqpeBA2wpDcCXlyn6XYgPvx0EJtdw,Technical Teams/Pumps/Admin and Meetings/Slideshows/Summer 2025 Slides/7/10 Pumps General Meeting,pdf,3513,613,1,613.0,613,613,ok
+291,1djIHb7uqmueqTMBM742eUpf-yek1AayGsjqIK5vicEk,Technical Teams/Pumps/Admin and Meetings/Slideshows/Summer 2025 Slides/6/30 Pumps General Meeting,pdf,3073,539,1,539.0,539,539,ok
+292,17cEObiO65NKROQKDYip2p1uBUNOQMACMFRP8UebMSyo,Technical Teams/Pumps/Admin and Meetings/Slideshows/Summer 2025 Slides/Summer 2025 Pumps Orientation,pdf,2700,434,1,434.0,434,434,ok
+293,1PM5D2KYGnHoyls6-cPBlR1Kc3-rSg1PfMtxPRwQT_Nw,Technical Teams/Pumps/Admin and Meetings/Meetings with industry partners/11/8 meeting with NTN,txt,1668,286,1,286.0,286,286,ok
+294,1nlAEtuY2h0uguhg_2p-8cZjDrEeJh0S1wQEF-kxDTfk,Technical Teams/Pumps/Admin and Meetings/Meetings with industry partners/Barber Nichols Meeting Notes/BN Bearing Meeting ,txt,1725,313,1,313.0,313,313,ok
+295,15U4MEjdrBy20m34Vkwzs6T6wPpgfdOTBmolC9p_iQ6Y,Technical Teams/Pumps/Admin and Meetings/Meetings with industry partners/Barber Nichols Meeting Notes/BN Team Meeting Notes 12.11.2023,txt,922,182,1,182.0,182,182,ok
+296,1l7oMXaN-MXEOIFklqRFxkJrXtm22CqDW367yC1z9Ovo,Technical Teams/Pumps/Admin and Meetings/Lesson Plans/Centrifugal Pumps 101,txt,1295,214,1,214.0,214,214,ok
+297,1Pjb6YnIpS5UKZS8cXVDO4GD4GvP55f2eRL7PYcMxxXw,Technical Teams/Pumps/Admin and Meetings/Lesson Plans/Bearings + shaft alignment 101,txt,1547,244,1,244.0,244,244,ok
+298,1YJQOPfYjV9a3tFTJkw7tGRN5i6K2qUf60ieIPE7-r2w,Technical Teams/Pumps/Admin and Meetings/Lesson Plans/What is Specific Speed,txt,835,160,1,160.0,160,160,ok
+299,18V3X5wDrn6g4r-ON0jDpgbteQSO2l5GdfEnusHzMOLI,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Task Docs/Pumps task doc: ARCHIVE,txt,1894,303,1,303.0,303,303,ok
+300,16FILppydg7btgN03gHS_b8o_7fMDc2aQNkmcRU0ITJ0,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Task Docs/Pumps task doc: CURRENT,txt,7045,1197,2,599.5,749,450,ok
+301,1ECcmyKmMS_JfNyZlYtSrKDwCQaOYO5o7ULiQjBrcG88,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Spring 25/1/28 Pumps meeting notes,txt,6867,1039,2,531.0,783,279,ok
+302,1Ter8UY3Qy2KAmBrOMD0a0v1RcbLwSeF5PTOGf_BQjAg,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Fall 24/10/28 meeting notes ,txt,1020,163,1,163.0,163,163,ok
+303,1LlOZuJCEGlkR7XkOH7mhETQNuqnrdMsbGtnJKp_Qa5I,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Fall 24/10/21 meeting notes ,txt,671,113,1,113.0,113,113,ok
+304,1m-974KFMd1KT3uxSlULq-RVRn8wwkK3MElyS6CNaTjs,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Fall 24/10/7 meeting notes ,txt,1547,232,1,232.0,232,232,ok
+305,1BKsH6WqPEPiy_Ol60pRsOXesuWHB4CiCie4ILFeLGbA,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Fall 24/9/30 meeting notes ,txt,1530,253,1,253.0,253,253,ok
+306,1ftRN9dvjZjUl1TNVVgr4z9k7yyEwT_6phItva5kEQEY,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Fall 24/9/23 meeting notes ,txt,1661,277,1,277.0,277,277,ok
+307,10Gi90F3AAn4KK-gY9vNxqVaifUfp-u3AtnZnMcEWzaI,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Fall 24/9/16 meeting notes ,txt,4991,825,1,825.0,825,825,ok
+308,165lszVBATZuyY2xHtaXwRlBeh8ap4gdyIni_ZxG_uvw,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Fall 24/9/9 meeting notes ,txt,8424,1387,2,752.5,776,729,ok
+309,1FsfhLIeir-Gk__axwVWvkXQzG-Iml3Xg67tQwGAuaj4,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Fall 24/9/2 meeting notes ,txt,7969,1331,2,668.5,768,569,ok
+310,1NzIncZ2RXhtIxQ5YWyqA9wEZ0nPcQqkB4eW5yq5Y4dc,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Fall 24/Pumps meeting notes template,txt,707,117,1,117.0,117,117,ok
+311,1wCjcxsnoUCgJpugyJw-rT9joflzO3N0xkiwlLt4397s,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Fall 24/8/9 meeting notes ,txt,3005,490,1,490.0,490,490,ok
+312,1g2TctrUBbUsQ3aJMtjKfkbzpYiYCw2S5l0FL_w5IO_U,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Spring 24/Pumps Team Meeting 6/21,txt,3381,566,1,566.0,566,566,ok
+313,1hHtSqTbfGYdZ1rrd6tExJDTFdKkuY85W5nggx2i9lis,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Spring 24/Pumps Team Meeting 6/9,txt,4716,793,1,826.0,826,826,ok
+314,1DH3YxB81XrHvyPmnOWedk40aArP9-eCe5ZbZzGYs1yA,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Spring 24/Pumps Team Meeting 4/30,txt,11413,1956,3,778.33,849,729,ok
+315,1tbJKV7Tieqzxx3jzTNc349CWuS1VHSDb_Gk6knxmR7o,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Spring 24/Pumps Team Meeting 4/23,txt,6346,1099,2,711.5,772,651,ok
+316,1JdcTdvjxqFMHqi_kHR8w3eKjsKct2517rKtQKXjFS_k,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Spring 24/Pumps Team Meeting 4/16,txt,6821,1182,2,753.0,855,651,ok
+317,1Qo-n7PzXGRMdKBf0IbN0YNMctRLgaqTBI-MTvgdErM8,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Spring 24/Pumps Team Meeting 4/9,txt,7913,1381,2,753.0,776,730,ok
+318,11yghRQcbD2TlZKOYGtRNHXSVIdnkEjCD72yOitYIDac,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Spring 24/Pumps Team Meeting 3/25,txt,10776,1891,3,738.33,855,620,ok
+319,1z_ha8Ti_rRZUA3sBoOYUiO9yC236fi6x49NooePi_78,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Spring 24/Pumps Team Meeting 3/18,txt,11418,1950,4,585.25,829,327,ok
+320,1vhkgdE3iYxUMIt60vtyMUv-eb3qMgAnes3VMGhF1frc,Technical Teams/Pumps/Admin and Meetings/Meeting Notes/Pumps Team Meeting Notes: Spring 24/Pumps Team Meeting 3/5,txt,9219,1572,3,630.33,858,269,ok
+321,1TbLPEL9pVYWXo8AveakqEIVZ77o-VeoslrSu7hIIBvs,Technical Teams/Special Research and Development/Onboarding for 2025/LRI Pyrovalve Information Slides,pdf,2080,355,1,355.0,355,355,ok
+322,1zWwyKLWrRB8a98xoJAZSk75e-gDaPteYqOztVR7QPdE,Technical Teams/Special Research and Development/Onboarding for 2025/First SRD Meeting Presentation,pdf,6175,1027,2,536.0,770,302,ok
+323,1hsx_w73SvNDbjVotkvb7ki0KIjlKD5IFEuhhvqlk2b4,Technical Teams/Special Research and Development/Resources/SRD-Project Charter,txt,870,93,1,93.0,93,93,ok
+324,1F2NcOdr3JZDFpwJ0fj1r92GlXJfQ_XeKbg2Q4_XVUEE,Technical Teams/Special Research and Development/Resources/Technical Report Template,txt,1094,195,1,195.0,195,195,ok
+325,1fY2AN8F8uMFEHnxt6a9P1IHAy6SZt4EA,Technical Teams/Special Research and Development/Resources/Project Charter Presentation.pdf,pdf,6665,1023,2,540.5,774,307,ok
+326,13-y9ANCR1oLXGsen3ujEi0VqwEVsXjn6y7GDJ9ja7Ws,Technical Teams/Special Research and Development/Archives/#005 Rollerons/Rolleron Technical Report,txt,4658,734,1,734.0,734,734,ok
+327,1R_TzZysuBt-1vCNxvr0SVByegoHLnisQt_QyxA9DGKQ,Technical Teams/Special Research and Development/Archives/#005 Rollerons/Rollerons Technical Report,txt,1054,190,1,190.0,190,190,ok
+328,1E-x9uYkFcs1YmwiJH064tLrXTXLHHxXmmGyOi8roNY8,Technical Teams/Special Research and Development/Archives/#005 Rollerons/SRD-Project Charter Rollerons,txt,1526,196,1,196.0,196,196,ok
+329,10nn6rVLZoXURXmJ8qFdHhbTpZXT6dB7V-W6jVlD-ka4,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Regen Code Equations,txt,6607,925,2,464.5,759,170,ok
+330,1bIi8RBUJxAMpDIElMJjOxSAn0LWORBzcXaPJN8OlMOQ,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/PDR - Feb 2nd 2025/Ripple - PDR,pdf,20796,3408,5,704.0,779,522,ok
+331,16MCzGlu7sWq1W0Mad9nbw9F8hxTaqV-Woy39ZXK41dA,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/PDR - Feb 2nd 2025/PDR Roles,txt,452,78,1,78.0,78,78,ok
+332,1MjI6VGcLKoh1Z-veC-aEnMjJjMmfW0TIg-GBmmaoRKU,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Coolant System/Coolant System Specifications ,txt,210,36,1,36.0,36,36,ok
+333,1965-YJFudKmqJ-YxcOZnNvmElxPL9DYG_IezYZnqgfw,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Media/Info Page,pdf,1482,223,1,223.0,223,223,ok
+334,1tLUJzznbohsEgbkUiziuuETHJvFO4Jyu_bI1At86BqQ,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Electronics/LabVIEW/LabView Doc,txt,90,13,1,13.0,13,13,ok
+335,1PhhPf31VHgwM-cwW8t3VDqmZ1-LIU4-ouf0A8-VVfzg,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Copy of Project Charter Document Example,txt,3380,527,1,527.0,527,527,ok
+336,1DOQT0W1YKW-LasZgOvEVsllMsY69x82HaKg32_i4nrE,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Meeting Notes/PrePDR 1/19/25,txt,351,62,1,62.0,62,62,ok
+337,15_df-x46Q8QDAOxofsW3WH9ZQdZJXYURtbDbe685kPo,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Meeting Notes/Meeting 1/26/26,txt,187,35,1,35.0,35,35,ok
+338,18Af82MWV95UlHV573qFfRFm61vjR0unEazcE3fy3JlE,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Meeting Notes/1/25/25 Meeting,txt,313,58,1,58.0,58,58,ok
+339,1jnIlag1sjDLt32cxSevjKoYn1djWC8ZPKHXff3vOpnQ,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Meeting Notes/Meeting 1/20/25,txt,216,37,1,37.0,37,37,ok
+340,1-JOP7DTnczn5WZC2eguqUrzC3dt35K8LBdFxn5C-MuM,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Meeting Notes/Meeting 1/15/25,txt,474,87,1,87.0,87,87,ok
+341,138MFIIl5Pm0bd6g681pHPn00-4X-LkD4UCaEhwSfVlU,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Meeting Notes/Meeting Notes 1/12/25,txt,868,162,1,162.0,162,162,ok
+342,1hmJoYxATR9iSgy-FVt28mgzVjBPGH-MLos0GT1r_uuo,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Meeting Notes/1/8/25 Meeting,txt,501,97,1,97.0,97,97,ok
+343,19C5aiaRH3JCfRMVJYOkL6YfOX6L8c34A4J7y2vqiy5U,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Meeting Notes/1/4/25 Work Session,txt,297,54,1,54.0,54,54,ok
+344,1oGuMMz6yaad898sVkJq3noZDb2PPqMzAAsjv02-76vQ,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Meeting Notes/1/3/25 Meet,txt,696,118,1,118.0,118,118,ok
+345,16Os3gDsMuvCik-OTsQr8znETQRVaTDXj6CdN_GjcPX0,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Meeting Notes/12/30 Meeting,txt,347,60,1,60.0,60,60,ok
+346,1xQXFSmoMJvoGJUiXaABDGuMHTp9bNFeNPWPBeSC0sII,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Meeting Notes/12/27 Regen Tasks,txt,992,200,1,200.0,200,200,ok
+347,1ZIgUOWyVqN0wDU_9Y08Kr2ECeXa5WB8Qd8cY0P1h9ew,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/HT Code/Troubleshooting Documentation,pdf,1848,442,1,442.0,442,442,ok
+348,17t1GmhDJH829E6jlCqTUrW_o0t6G58tKlt8rK5wOSJA,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/HT Code/Testing Files/HT-Test/Debug,txt,1068,170,1,170.0,170,170,ok
+349,1R90ITwLIYn1yUp3YHJsbub6VvR1BVRYm,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/HT Code/Testing Files/engine_contour_test7.csv,csv,3712,909,1,909.0,909,909,ok
+350,1Jv_UEUztaSkGVoqtrcSUj7eGOFfcRiqDqrZ7MBEj530,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/HT Code/Single Phase Water HT Overview,txt,653,126,1,126.0,126,126,ok
+351,175pp5WFzq07rVWHMUMLiblJ9X9j3hZDuZtpabW15jkg,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Torch Igniter/Torch Parameters,txt,92,12,1,12.0,12,12,ok
+352,10Kk26f4dNm5kbTVAcLK7F_ceLWWjrNthkRrn4HCmnW0,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Torch Igniter/Torch Igniter,txt,452,66,1,66.0,66,66,ok
+353,1tsus8MpngPkh8FSltoBxVbZ3TqGPulWHA4JeQ38jwOE,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Injector/Botls/Injector-Chamber Bolts,txt,415,79,1,79.0,79,79,ok
+354,1bMzk8Qx4167TWKybohhV--DZhH5SBk1S0W6YmYOEAHI,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Injector/Fittings/ORB to JIC,txt,312,57,1,57.0,57,57,ok
+355,1OU38OHF8dsE7BCkmS8Zitee4Vb0jRQek7sKUB3C5x5I,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Injector/Sealing/O-Rings,txt,1302,214,1,214.0,214,214,ok
+356,1LZuGAvSe7VimZ_1pOpqw9OJsFmiBzqTA,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Injector/CAD / GD&T/EFCG9_Tube_Fittings_4300_2_General_Technical.pdf,pdf,88250,15146,25,738.56,897,524,ok
+357,1-Z52HVhU8agYfHMeSHEWejwW8_prGpxr,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Injector/CAD / GD&T/USAStandardSizes02_oring.pdf,pdf,20181,3551,5,891.8,900,868,ok
+358,15jjRVRXBhfVuXloSdNo1cttuGlY5KWos0F6KexK2U1w,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Injector/CAD / GD&T/Injector Dimensions,txt,542,95,1,95.0,95,95,ok
+359,1uFGxYsT6KrRVEUhIJ-Dv8PVfrGdx7M6vkaC9IzoANdk,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Injector/Injector Sizing Documentation,txt,1124,178,1,178.0,178,178,ok
+360,1NgE0Ns8yVsh1EMXhL_r2X-ty1MRkMbqdJTQpp0NZyN8,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Finance/Sponsorships,txt,91,14,1,14.0,14,14,ok
+361,12GCwf3hZ_YPuIC3M-6XRdySZhx6PIg4X7RQw7iYPzZM,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Thrust Chamber/Parameters - RTC,txt,230,37,1,37.0,37,37,ok
+362,1kznLPSFLOPO7U0otunZu9Bb0r8jEMa-1O1NMD7WeTSA,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Thrust Chamber/Data Collection Devices,txt,193,27,1,27.0,27,27,ok
+363,1rzY_CSWLjvzyIDbQzQwPa_4Vlbt7DgSs_zvwzxabYF0,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Thrust Chamber/Material Selection,txt,1647,232,1,232.0,232,232,ok
+364,1RolRUNlH1gZu4XYbfEMxTBN2v0hxsPodrYfC_aYhXPA,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Official Documents/Master Doc,txt,1085,173,1,173.0,173,173,ok
+365,1qvM9PRvbmEDKqtBtkakOf_1P8Va3emwdcbnmW13AAuQ,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Official Documents/SRD Paper,txt,16070,2421,4,693.0,863,308,ok
+366,14NeouLeS8s2MB0sZ7rui-eCrHHCW5k86E9tNFuzIws8,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/Ripple/Official Documents/Testing Manual,txt,57,11,1,11.0,11,11,ok
+367,1jZK8pYSd9vzEu5gSXXysdL5Cvd41zdqJMQsIGjSG4c8,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/F24/Preliminary Regen Test Setup,txt,909,164,1,164.0,164,164,ok
+368,1wIflifH7NhnaRbRaAJDIn5BEmnbGH9tBkeMW8o1UWdc,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Test Engine - Name?/F24/Regen Heat Transfer Learning Doc (Unofficial),txt,5620,808,1,828.0,828,828,ok
+369,1Rzpyrpq-vfcLbBHCKevfySguyqAE-4_aHIaabHaa_04,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Function List Python,txt,4712,643,1,643.0,643,643,ok
+370,10rfv23ptL5vN7cbLwRROor7JPwRqpLx21SBNRDF_clI,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Regen Timeline,txt,515,97,1,97.0,97,97,ok
+371,1ql6vCHNDDywwtDt-DjQFuG_Gr_N92-aD4ldXsGkDJ-A,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Official Documents /Regen SRD-Project Charter,txt,1226,154,1,154.0,154,154,ok
+372,1p7TCaKWDw0WrAB6m3vhT4Xb_mijzeDqZpIiZfWqrBnM,Technical Teams/Special Research and Development/Archives/#004 Regen Channel Test/Meeting Plans / Notes/SRD Regen Team Meeting Plan / Notes,txt,1071,188,1,188.0,188,188,ok
+373,1XAoeXuo6mIE5lm_6JI_WvmHKvgGqeK1RRNH1IGJRBzE,Technical Teams/Special Research and Development/Archives/#008 Ignition Systems/Torch Requirements,txt,1794,310,1,310.0,310,310,ok
+374,14SrpT7DmBcFYx9-oRkHV3dnrYjcALf4eg6qYs4qpOsw,Technical Teams/Special Research and Development/Archives/#008 Ignition Systems/Testing Setup/Testing Manual,txt,15,2,1,2.0,2,2,ok
+375,1hKAd7KxYpj4sTWdmwtjgaMKr-aZE3AcVZ6117cHoi3Q,Technical Teams/Special Research and Development/Archives/#008 Ignition Systems/SRD-Project Charter Pyrotechnic Igniter ,txt,2088,286,1,286.0,286,286,ok
+376,1qOpM9eiJFsunaReEt2ysrT31nMQ-e1S4ybAa1xUbYao,Technical Teams/Special Research and Development/Archives/#003 Sagnac Interferometer/SRD-Project Charter-Sagnac,txt,1260,151,1,151.0,151,151,ok
+377,1TtD7RL2KG-zIc-Iq5p4JyI7NWNxGYWuf,Technical Teams/Special Research and Development/Archives/#003 Sagnac Interferometer/Sagnac Interferometer Proposal.PDF,pdf,2756,129,1,129.0,129,129,ok
+378,1B6xM5Peq_OAnygcaQihkbdTEVcS-LObksZIx-nyZacY,Technical Teams/Special Research and Development/Archives/#002 Electroplating/Electroplating Technical Report,txt,1330,239,1,239.0,239,239,ok
+379,1gauzt1Spdjfs2SkVZIavSZ7hA68fSvGkb7pGOS10dMI,Technical Teams/Special Research and Development/Archives/#002 Electroplating/SRD-Project Charter-Electroforming,txt,1693,219,1,219.0,219,219,ok
+380,1XG6xPz5B4g53WFneuyOo8HPEhQjhQVOG,Technical Teams/Special Research and Development/Archives/#002 Electroplating/Electroplating Master Document.docx,docx,19298,3392,4,848.0,891,806,ok
+381,1YL6sadnSpaC6TT1UFal1-feDz7Y1f-2Y110fX0HzHjQ,Technical Teams/Special Research and Development/Current Projects/#007 TVC for CPLC/Outreach/Outreach Email Example,txt,1838,291,1,291.0,291,291,ok
+382,1JEwS6YL5szMFMwypB6PoocEmv-gw383iYsfYSfb5eYA,Technical Teams/Special Research and Development/Current Projects/#007 TVC for CPLC/2025-26 Project Charter,txt,1971,300,1,300.0,300,300,ok
+383,1DhiE9tiP8_IgHkifELB7I85V9IZuuyjL-S3dwMt8rpc,Technical Teams/Special Research and Development/Current Projects/#007 TVC for CPLC/Research/Linear Actuator Document,txt,144,11,1,11.0,11,11,ok
+384,1eDWDx2c4xt1U-1ys-6TPP2J7l7lXlA9gvb5AbZ7b-mc,Technical Teams/Special Research and Development/Current Projects/#007 TVC for CPLC/Copy of SRD-Project Charter,txt,1584,210,1,210.0,210,210,ok
+385,15v_YsBW3AzJ-2LNNoB2LVXdrZcbla-692O05a7yq_YY,Technical Teams/Special Research and Development/Current Projects/#007 TVC for CPLC/Meeting Slides/Notes/7/26/25 Meeting,pdf,2243,385,1,385.0,385,385,ok
+386,17-bKOWOjniHDJ-8Z3K8GCJYK1-qb-8bp0oKxXqtHTdE,Technical Teams/Special Research and Development/Current Projects/#007 TVC for CPLC/TVC Research,txt,466,75,1,75.0,75,75,ok
+387,12_UAvjF3XCgcLN7RGM4H0ec0_tOc2ErInPuVIjJNLtM,Technical Teams/Special Research and Development/Current Projects/#007 TVC for CPLC/SRD Thrust Vector Control PDR,txt,2679,438,1,438.0,438,438,ok
+388,1yruaEK1KHs0IBqdVvpDqOhISMgOYUfDSSJCe5cUbKt4,Technical Teams/Special Research and Development/Current Projects/#007 TVC for CPLC/EOH Thrust Vectoring Test Stand Setup Safety,txt,341,48,1,48.0,48,48,ok
+389,1YGpGF5nYAivLEBi3xXyvJV6eE8Z9dRkc0lr31dyyo6Y,Technical Teams/Special Research and Development/Current Projects/#012 Venturi Flow Meters/Technical Reports/Reviews/Venturi Flow Meter PDR/CDR,pdf,4940,796,2,425.0,730,120,ok
+390,1MV7K3YIH3O0PeZQ30Gcer-Q2h10NFrXXOp-rORqpdxI,Technical Teams/Special Research and Development/Current Projects/#012 Venturi Flow Meters/Technical Reports/Reviews/Venturi flow Meter Project Charter,txt,2535,359,1,359.0,359,359,ok
+391,1SHBECc726Uzo7LTwoBTwdCwM9UckDdvPq-qYD9KSGiA,Technical Teams/Special Research and Development/Current Projects/#012 Venturi Flow Meters/Technical Reports/Reviews/Venturi Flow Meter Project Proposal,txt,1,1,1,1.0,1,1,ok
+392,1AutaOFRM8DrpVCTNUZ7smsnPVOhXbZngWLcM5za6oT4,Technical Teams/Special Research and Development/Current Projects/#012 Venturi Flow Meters/Research/Manufacturing Plan and Bill of Materials,txt,613,115,1,115.0,115,115,ok
+393,1nXf2K5GU4mR81oec9vOXNx_KhC3H0XIJA23TxaWFXEc,Technical Teams/Special Research and Development/Current Projects/#012 Venturi Flow Meters/Research/current research,txt,2665,377,1,377.0,377,377,ok
+394,1lnbBurTbfpkXiuU_zGp-EmZaCxrlUZ_y,Technical Teams/Special Research and Development/Current Projects/#012 Venturi Flow Meters/Research/venturigeoopt_STM.pdf,pdf,13507,2111,3,731.0,744,715,ok
+395,1t4KiYVQI_uHmYavqEIR5v-QzIAOLSYMd,Technical Teams/Special Research and Development/Current Projects/#012 Venturi Flow Meters/Research/1-s2.0-S2212540X23000470-main.pdf,pdf,49535,8411,14,600.79,895,319,ok
+396,13M2r7IMNv7X86YoxzagV02vH8qiGrUqu9dD-evHAjPM,Technical Teams/Special Research and Development/Current Projects/#012 Venturi Flow Meters/Meeting Notes/Meeting Notes,txt,63,11,1,11.0,11,11,ok
+397,1vGKRZjFGbTq_jc65oQPhpbzrtMwt-Nkb0U3AWICuE6U,Technical Teams/Special Research and Development/Current Projects/#012 Venturi Flow Meters/Computer/Physical Files/Ansys Directons VFM,txt,815,143,1,143.0,143,143,ok
+398,1ayNkdEFBK5tcXvMEKJ7UXjQ_w23IOBX914ROc10dJyA,Technical Teams/Special Research and Development/Current Projects/#011 Capacitive Fill Sensors/SRD-Project Charter Fill Sensor,txt,1640,223,1,223.0,223,223,ok
+399,17-DcMDcCKGn-DFxrkg_4_-USy6BlbVHWaRdYaTO7rYY,Technical Teams/Special Research and Development/Current Projects/#011 Capacitive Fill Sensors/Research/Cap Fill Random Research and Resources,txt,2254,316,1,316.0,316,316,ok
+400,1orAukMPsPRw6b893lqlz340uwPqjuEK3_BLHXL5J6eg,Technical Teams/Special Research and Development/Current Projects/#011 Capacitive Fill Sensors/Computer/Physical Files/SRD-Project Charter Fill Sensor,txt,1654,226,1,226.0,226,226,ok
+401,1c8EjJj--35HWtB1_x7y2RACicCLrOViR,Technical Teams/Special Research and Development/Current Projects/#010 Ball Valves/SRD-Sphericall Ball Valves.docx,docx,1255,185,1,185.0,185,185,ok
+402,1StrtdZzmmGKOLfrtvnf44ijBWeyFv55SS8BCOGa0IsU,Technical Teams/Special Research and Development/Current Projects/#010 Ball Valves/Project Charter,txt,2691,377,1,377.0,377,377,ok
+403,1AzwnYguGxGZb7DxHiyaJB7CFvG4R7flYkA8oyut7-tE,Technical Teams/Special Research and Development/Current Projects/#010 Ball Valves/Research/Speed research,pdf,525,89,1,89.0,89,89,ok
+404,1YIDeHOPZI0bz9AeDjxsKorA8ZqA3inw-,Technical Teams/Special Research and Development/Current Projects/#001 Pyro Valves/SRD - Pyrovalve Test Procedure.docx,docx,6775,1074,2,537.0,815,259,ok
+405,1Xd1daaY7ffj5U9uCLfqDcPUeVqZhfIHmW-IV83s0f0w,Technical Teams/Special Research and Development/Current Projects/#001 Pyro Valves/new requirements 2025,txt,1071,183,1,183.0,183,183,ok
+406,1qbQnZFM633yT0Q0-Rv-SoWb6D-t_Kvxk-c2lU--4SsE,Technical Teams/Special Research and Development/Current Projects/#001 Pyro Valves/SRD-Project Charter 2025,txt,2207,293,1,293.0,293,293,ok
+407,1ZTCGHwdPDUpYDo0FSukuYpAbc8RMdCVwymFJeYXMdT4,Technical Teams/Special Research and Development/Current Projects/#001 Pyro Valves/Meeting Notes/Meeting Notes,txt,809,133,1,133.0,133,133,ok
+408,1M2oKVjdeKBQsCo22Sph28-W96dD06xg4J0MKPanrRso,Technical Teams/Special Research and Development/Current Projects/#001 Pyro Valves/2024-2025/Comprehensive  Safety plan for Pyro-Valve test,txt,2960,510,1,510.0,510,510,ok
+409,1t2nbl8NSoG13e5zeGDlIiRSnclUkWcpJfkl3-TPeD-8,Technical Teams/Special Research and Development/Current Projects/#001 Pyro Valves/2024-2025/Pyro Valves Research and Sources,txt,102,17,1,17.0,17,17,ok
+410,1VLaC9TJphIujmJoblTnCLgqU4AVoZur7b23B69_Y6do,Technical Teams/Special Research and Development/Current Projects/#001 Pyro Valves/2024-2025/SRD-Project Charter Pyro-valves ,txt,1499,189,1,189.0,189,189,ok
+411,1JKU9I1vYaAfhRyVhsANu9MxkJjyYeHb6HgHEJ6xQ49Y,Technical Teams/Special Research and Development/Current Projects/#001 Pyro Valves/2024-2025/SRD Pyro-valve PDR,txt,8440,1376,2,688.0,764,612,ok
+412,1n8jP_n02wTVi8NJrMM4S9euH1tvahZ3skhW3AL-zdFA,Technical Teams/Special Research and Development/Team overview / Administrative/Slides Template,pdf,122,23,1,23.0,23,23,ok
+413,1wHL4dlHtcW86U2mFXJ_0u6uvZGFKRiKoAJIKC7wpR5s,Technical Teams/Special Research and Development/Team overview / Administrative/Meeting Slides/Capacitive Fill Sensor Preliminary Design Review,pdf,2729,461,1,461.0,461,461,ok
+414,1tgsp6BVxqpeTimy61PrcsLrSlWaF_Kfqo-ly6feR0kY,Technical Teams/Special Research and Development/Team overview / Administrative/Meeting Slides/9/22/25 Meeting: Preliminary Design Reviews,pdf,935,141,1,141.0,141,141,ok
+415,17QpojHu1tCpgBs-M_egwg0oIFE0f50vCOcOPCXhu8Zg,Technical Teams/Special Research and Development/Team overview / Administrative/Meeting Slides/9/15/25 Meeting: SRD Groupings,pdf,1367,244,1,244.0,244,244,ok
+416,1hHB-VXgN1PzzFD-MFnqHRhhBoo0SZnoJfZRt0F9qaFw,Technical Teams/Special Research and Development/Team overview / Administrative/Meeting Slides/Preliminary Design Review Template,pdf,1234,197,1,197.0,197,197,ok
+417,1ugjdbxJFhQWiUmgWOMB3YiQopKjY0U7832k6gO8LCxA,Technical Teams/Special Research and Development/Team overview / Administrative/SRD Project Proposal,txt,903,139,1,139.0,139,139,ok
+418,1twi1_unKouKuXtqKPAz6pYOXWdzYFoQT-_9QW0UoYLA,Technical Teams/Special Research and Development/Team overview / Administrative/Weekly Status Reports,txt,2447,423,1,423.0,423,423,ok
+419,1cF8YGzALW87_a_afltTZYfhUXzk6aBN7,Technical Teams/Special Research and Development/Team overview / Administrative/SRD Project Proposal.docx,docx,860,140,1,140.0,140,140,ok
+420,19tSflz6zAdgDnhSCkhkbin8xZrFEuYQDwOinNjWkVfk,Technical Teams/Airframe/Design Reviews/Control Freak CDR/Control Freak CDR Notes,txt,7831,1436,2,738.0,760,716,ok
+421,1oQBJGiosp1lY5Dq6rqTirGqwYy8R8h3MxJ3c4FTQB-Q,Technical Teams/Airframe/Design Reviews/Control Freak SRR/Control Freak SRR/SDR,pdf,20944,3050,5,672.4,778,334,ok
+422,1KoGNa8K7YSLuG3wOQLpS8sK_TlVBNHlpyEYDXqWjUaU,Technical Teams/Airframe/Design Reviews/Control Freak SRR/Maurice 3 System Requirements,txt,21486,3486,8,684.25,894,490,ok
+423,1BSEVANeMGdjWt9osJKV0_FMFbZHShCSqqg0UFM3PtBQ,Technical Teams/Airframe/Design Reviews/Control Freak PDR/Control Freak PDR,pdf,34393,5264,8,689.38,784,231,ok
+424,137j-weNWo65Y0xqvDo5C_lltKacu60fqW0KqW5k6P84,Technical Teams/Airframe/Design Reviews/Control Freak PDR/PDR Notes 1/30/2026,txt,6860,1349,2,676.5,761,592,ok
+425,1IlUDA44YQP1AqQAv9J0NEDvBU3x0ULP74ZHiIokAVmQ,Technical Teams/Airframe/Meeting Slides/Slides Template,pdf,42,7,1,7.0,7,7,ok
+426,15g5HzLv7ig71qsuYBXmMk34EHNknt6P8zzUx0T1b30g,Technical Teams/Airframe/Meeting Slides/12/6,pdf,170,23,1,23.0,23,23,ok
+427,1yTG7UwDCh5Hwj_1QYVg-cYCo8qORGhqKBPGwqfFUt_o,Technical Teams/Airframe/Meeting Slides/10/18,pdf,59,9,1,9.0,9,9,ok
+428,18TVuF8Eazb-KBBXT80dkIZxwmrZJ_KnNhpB12NKLHmU,Technical Teams/Airframe/IREC 2026/IREC 2026 - Progress Update 2,txt,26372,4065,6,778.5,839,706,ok
+429,1bSRvvcYZoiqj8dXPD-OFxQp8oYXtOrBh,Technical Teams/Airframe/IREC 2026/IREC Team 74 - Progress Update 2/FlightElectronicsBlockDiagram.pdf,pdf,345,52,1,52.0,52,52,ok
+430,11mLS82q076JN94pYCVhq8rJBULyP3o2O6XRst_ir1gg,Technical Teams/Airframe/IREC 2026/IREC 2026 Application/IREC 2026 Application,txt,16135,2451,4,648.0,780,402,ok
+431,1S6iUw4EcscFB1JoBXaVqv6P_RP1YgbWXvqjC8qXyTF4,Technical Teams/Airframe/Structures/Presentations/Mini Presentations,pdf,1531,269,1,269.0,269,269,ok
+432,1in9q_9IvQ3eymgzdPi94Hd3lmld7Spr7,Technical Teams/Airframe/Structures/Canard Assembly V5/Servo Mount V2 Dessin.pdf,pdf,465,62,1,62.0,62,62,ok
+433,1los6a1SD-cJwtneHApAuiOYJR8Axc74l,Technical Teams/Airframe/Structures/Canard Assembly V5/Inside Mount V2 Dessin.pdf,pdf,395,54,1,54.0,54,54,ok
+434,1xwc2TPx2kzoKziuKyC8MzCcwrVEiMkqYeJemsEXKVdU,Technical Teams/Airframe/Structures/Canard Research,txt,937,109,1,109.0,109,109,ok
+435,1Vt1aj3Q68Ko6SxOb2uF7Ptg8SAaDfseiGCtW1diMdx0,Technical Teams/Airframe/Structures/Procedures/Fin Can Manufacturing,txt,5347,999,2,524.0,924,124,ok
+436,1P8O30SQmiGUZEDujfRnHjZftm_5rBr8PWRmbHKREUzU,Technical Teams/Airframe/Structures/Procedures/Layup Procedures,txt,6059,1114,2,557.0,624,490,ok
+437,1pEc-2d1uCjVaJmg1GqHnnMwUuxzFE0m12J4Z4rloJro,Technical Teams/Airframe/Structures/Procedures/Epoxy Safety Research,txt,359,59,1,59.0,59,59,ok
+438,1AiKTcqLgdNZjpseAwbI-cdBRKmVz9zCP4g_i2GkNcpc,Technical Teams/Airframe/Structures/Testing/Structures testing plan,txt,322,54,1,54.0,54,54,ok
+439,1-LxdUDMWxtmOmWKXZnnOSV5poT6efK1b,Technical Teams/Airframe/Structures/Testing/ASTM_D638-14.pdf,pdf,74965,12110,25,727.08,866,423,ok
+440,1hyrK164r8QEK-l1XKniwcnx4zLPmv2jw8gw3UtTosws,Technical Teams/Airframe/Structures/Testing/Possible Fin + Aileron/Cannard Testing,txt,2733,462,1,462.0,462,462,ok
+441,1YxodkYqKcwUUf6qdI9L1x_9LsoOhJkry,Technical Teams/Airframe/Structures/Testing/ASTM E290.pdf,pdf,39475,7837,14,701.07,843,492,ok
+442,1FsmP8y6EMQkeTpC3T0hGSVTpmtLdlhXo,Technical Teams/Airframe/Structures/Testing/ASTM 3039.pdf,pdf,62723,10166,16,643.81,865,232,ok
+443,1u2aK9dEZtdKle7BR9G_IwyBTBQOlkg9pxE2CRtmBKjs,Technical Teams/Airframe/Structures/Manufacturing Research,txt,407,71,1,71.0,71,71,ok
+444,1m9W0Ksi_TE_xJ8wnJn88m84f9ELvmM1iL0jG2ci_YII,Technical Teams/Airframe/Structures/Oven Research,txt,1673,180,1,180.0,180,180,ok
+445,1OgT-g9Go-ua_ebli1iAUBt3gI-khG283J5WQaIcXIZI,Technical Teams/Airframe/Structures/Composite Materials Research and Trade,txt,6943,943,2,473.5,756,191,ok
+446,1bcTOQEvNBh6CzKGdtHrlg_9SecUcZL28S5a0dIlLJno,Technical Teams/Airframe/Flight Systems/CFD Review,pdf,3285,549,1,549.0,549,549,ok
+447,1ssOlmbvN4NgTY6uZsKYJFC5RLi5kjoV7QOF-tijuRLQ,Technical Teams/Airframe/Flight Systems/Mini Projects/Shocking Developments,pdf,841,126,1,126.0,126,126,ok
+448,1_GEzMfDOfQ5eltTkSgLEmYX2Xz0J_E4OmZrtGJiAwTg,Technical Teams/Airframe/Flight Systems/Mini Projects/Cooper and Marvin ,pdf,1620,246,1,246.0,246,246,ok
+449,1K9LGvv-JKKdFMzvhZz5TvZPiqMnsrhS69v195cj5Vv8,Technical Teams/Airframe/Flight Systems/Mini Projects/Mach Mavericks,pdf,917,160,1,160.0,160,160,ok
+450,1-YBk7xZd4q2TRZZAIMnZc2JYShFkrvn4uDfOIqr2QxQ,Technical Teams/Airframe/Flight Systems/Mini Projects/Hiko Made Me Name This,pdf,3558,558,1,558.0,558,558,ok
+451,1K9b-o2rIDcE8B8OSOVBuU5xMN_HiYUAH40r2XWSp2bc,Technical Teams/Airframe/Flight Systems/Mini Projects/edge lords/gurney flap research,txt,1236,189,1,189.0,189,189,ok
+452,1SRLUH60zLprQ5vaN_LM2kZoJCTLzDtj9AlnfuXWrgk8,Technical Teams/Airframe/Flight Systems/Mini Projects/edge lords/Edge Lords ,pdf,1742,292,1,292.0,292,292,ok
+453,1H3N69Ll-ND7E4wgdnU6nhMTdZL9p-DTXBSzTMdgzaKY,Technical Teams/Airframe/Flight Systems/Aero Mini Presentation,pdf,1561,267,1,267.0,267,267,ok
+454,1WxqB_VMSY7I4mDKQWj1yhI-jcsaDkz_vixCS3sc-RTU,Technical Teams/Airframe/Flight Systems/Control Code Architecture-Class Definitions.drawio,txt,540,79,1,79.0,79,79,ok
+455,1EaW5ynJm7Ki2tkQLPa7hmVxdMOXTTo9F,Technical Teams/Airframe/Flight Systems/Control Freak/Depreciated/12/21/CAD/boattail coords.txt,txt,1148,138,1,138.0,138,138,ok
+456,1x4YHy-tBNmz1fOHoDY1artd7GtdWNRV0fxeZP5TD5Zs,Technical Teams/Airframe/Flight Systems/10/14/CFD Research,txt,2278,372,1,372.0,372,372,ok
+457,1WN-WZ1emwrxsIbakQOiZlCcAXxEk4DXaT2I1-kMj6uo,Technical Teams/Airframe/Fall 2025 Onboarding/Aero Onboarding,pdf,5278,830,1,876.0,876,876,ok
+458,1YnuxSdbholxrHFsntgyk9VjOo7C0Fy4v,Technical Teams/Airframe/Fall 2025 Onboarding/main (1).pdf,pdf,33780,5215,6,869.17,898,752,ok
+459,1_lR-c9mU83NY50DiQnT4Xowq3Tormxhk4RVaHrXE48w,Technical Teams/Airframe/Fall 2025 Onboarding/Intro to Airframe Fall 2025,pdf,7276,1189,2,612.0,775,449,ok
+460,1P-NXyoVauzs50LqbtaJnReHcWrfRLqr78IwU2UIeNWs,Technical Teams/Airframe/2024-2025/(1) Control Surface Aerodynamics/How to run KRONOS on EWS Computers,txt,1199,200,1,200.0,200,200,ok
+461,1YN7gJRG7JjfWRPRmZ5tnvCoCsEF9zN7E,Technical Teams/Airframe/2024-2025/(1) Control Surface Aerodynamics/KRONOS/1.3/KRONOS/NAMES/filenames.txt,txt,84,2,1,2.0,2,2,ok
+462,120pdZTV8YflyuSJWGE9jkxRZGpI58J1o,Technical Teams/Airframe/2024-2025/(1) Control Surface Aerodynamics/Simulation Reports/5/3/25 Deflected Aileron Drag/HEHEHHEHAOUHS/defaileronsim_files/dp0/FLTG/Fluent/Ansys_Fluent_Simulation_Report.pdf,pdf,4764,626,1,626.0,626,626,ok
+463,1txubrTWqjRQx7r3GltGPPZKxmOQTHUwOiZs2QycrjIY,Technical Teams/Airframe/2024-2025/(1) Control Surface Aerodynamics/Simulation Reports/Fin_only_sim_10_22_24,txt,155,31,1,31.0,31,31,ok
+464,1-VWzXDwPbkiFjAEFvnf-bL8JgG7hNspyQl0YTLGjumw,Technical Teams/Airframe/2024-2025/(1) Control Surface Aerodynamics/Scripts/CFD Script Documentation,txt,4017,681,1,681.0,681,681,ok
+465,1Qnz8fy6faLL8KHsB1wdcpO42EfPee8pfS0zYf1KOl3c,Technical Teams/Airframe/2024-2025/(1) Control Surface Aerodynamics/Simulation Preparation/Boattail Ansys Simulations,txt,1045,168,1,168.0,168,168,ok
+466,1hRZp5PSzrUWx_ncJXYla4JmJNQ_dbf_Eb4zhHVgM31w,Technical Teams/Airframe/2024-2025/(1) Control Surface Aerodynamics/Simulation Preparation/Fin Tab Ansys Simulations,txt,1154,197,1,197.0,197,197,ok
+467,1bl3fCl6Avx3sLQ7srO7l_gPYtGCrmGlvM3q_K9vFUCE,Technical Teams/Airframe/2024-2025/(1) Control Surface Aerodynamics/Simulation Preparation/Notes/Documentation,txt,1385,228,1,228.0,228,228,ok
+468,1S7TwD8tH1uBb5wMSDKuxqkAzzKFWsZYh0awc9gb_rHk,Technical Teams/Airframe/2024-2025/(1) Control Surface Aerodynamics/Simulation Preparation/NX python script/NX python script,txt,385,69,1,69.0,69,69,ok
+469,1V631_sTjangIjyrvnYgEiXXltfXP54SoKQhrttyDzDc,Technical Teams/Airframe/2024-2025/(1) Control Surface Aerodynamics/Simulation Preparation/Parametric Modeling,txt,20,2,1,2.0,2,2,ok
+470,10CXWlNFEP38yUq8St85Yfwd1SV5UMbB1w7nZ1_fO_Zs,Technical Teams/Airframe/2024-2025/(1) Control Surface Aerodynamics/Simulation Preparation/Ansys Batch Run,txt,16,3,1,3.0,3,3,ok
+471,1EfTrk2j9DhfoSO8hsJ2TjkV_1OxLvmGgTtkj3zLOOHQ,Technical Teams/Airframe/2024-2025/(1) Control Surface Aerodynamics/Article Review/Aerodynamics Article Review,txt,3340,503,1,503.0,503,503,ok
+472,1iWsqZKOHuok0ZgFDFq6epz4_ZfzJVJ--Ccl3pp4d0Pk,Technical Teams/Airframe/2024-2025/Flight Vehicle 24-25/MAURICE 2/Resources/MAURICE 2.1 CDR slides,pdf,11153,1688,3,598.0,784,275,ok
+473,1lsyrDctfNqPBejP9daEMfTINzmGfbBUw,Technical Teams/Airframe/2024-2025/Flight Vehicle 24-25/MAURICE 2/Resources/Von Karman Nosecone coordinates - Sheet2.csv,csv,3125,505,1,505.0,505,505,ok
+474,1jpJ_AevlN6KTdcNtih2c60A_i0eUO3vvQmbbbKi4dxE,Technical Teams/Airframe/2024-2025/Flight Vehicle 24-25/MAURICE 2/Resources/MAURICE 2 BUILD PROCEDURES,txt,2633,475,1,475.0,475,475,ok
+475,1Ix27lbhSXjsHlfu8UK4ZxLnBQEYKfFm76nHz2qNy6jA,Technical Teams/Airframe/2024-2025/Flight Vehicle 24-25/MAURICE 1/Calculating sheer force from drag,txt,301,59,1,59.0,59,59,ok
+476,1fRirXr_YUFtebxFZR4EQQ1ezwYunUMHfXwiXmaD1Ilk,Technical Teams/Airframe/2024-2025/Flight Vehicle 24-25/MAURICE 1/Calculating Bending Moment from Fins,txt,2065,315,1,315.0,315,315,ok
+477,1CRbatnzrC5CADUrCdcyCuLa3Bms7GA0lTlLiSlfPfF4,Technical Teams/Airframe/2024-2025/Flight Vehicle 24-25/MAURICE 1/MAURICE 1.1 Launch Procedures,txt,1317,240,1,240.0,240,240,ok
+478,1LybDPjZfuoJB4SazuD1TuhBiQ3U98dtfxnMJIaEXG8s,Technical Teams/Airframe/2024-2025/Flight Vehicle 24-25/MAURICE 1/Copy of Fall Rocket build schedule,txt,303,49,1,49.0,49,49,ok
+479,18a-oyROWFAjGGOHEyKoT7h7lDeXoauQsMKu-v9a2lDs,Technical Teams/Airframe/2024-2025/Flight Vehicle 24-25/MAURICE 1/Fall Rocket procedures,txt,1452,265,1,265.0,265,265,ok
+480,1QH-8mRtwwqu4I4OjBajk1OZhhqDMGafG3CH9axalwKM,Technical Teams/Airframe/2024-2025/Flight Vehicle 24-25/FV Meeting 1/22/’25,pdf,658,116,1,116.0,116,116,ok
+481,192GzrWFhP5224LgTnZGX6J1ZarzI8adxzbli1j1MNoU,Technical Teams/Airframe/2024-2025/Flight Vehicle 24-25/resources/Useful links,txt,181,9,1,9.0,9,9,ok
+482,13EabKeef4rajysqF4AxuM35QQIFVJ1a_PjoH2-kZfYc,Technical Teams/Airframe/2024-2025/Controls Software/Meeting Notes/Controls Meeting December 5th,pdf,7218,1188,2,643.5,773,514,ok
+483,1W_birjfgzfiudQJbWiHvcs9cL48nSCWZt7kxrDGygQM,Technical Teams/Airframe/2024-2025/Controls Software/Meeting Notes/10/31/2024 Controls Software Meeting,pdf,326,59,1,59.0,59,59,ok
+484,196ci1P7-Tl5jFjI5zsgc_u5RguKXw2ozDJO4-h6vfMU,Technical Teams/Airframe/2024-2025/Controls Software/Meeting Notes/10/24/2024 Controls Software Meeting,pdf,545,89,1,89.0,89,89,ok
+485,1icPBR30miBYO1p4Flb8rjtqjreHiF6fvJT_na91IUuY,Technical Teams/Airframe/2024-2025/Controls Software/Meeting Notes/10/17/2024 Controls Software Meeting,pdf,260,43,1,43.0,43,43,ok
+486,1w9sikrgzTfi2nZ2e5GuzMN6tj89x2KxF2T9EJXK8VoI,Technical Teams/Airframe/2024-2025/Controls Software/Meeting Notes/10/10/2024 Control Software Meeting,pdf,1367,216,1,216.0,216,216,ok
+487,1jJVzXva18pA5h7n0hUxFvwL3dT65Nd9KpbK-PgUnHNc,Technical Teams/Airframe/2024-2025/Controls Software/Meeting Notes/Ongoing Controls Software Task/Meeting Notes,txt,7438,1089,2,652.5,765,540,ok
+488,10m2edF819jN9tEhcPUkTpCBAvtUlB1jj,Technical Teams/Airframe/2024-2025/Controls Software/Physics Simulations Documentation/Roll_control_of_a_small_amateur_rocket.pdf,pdf,33349,5110,7,764.43,818,708,ok
+489,1ZdfyZ1-ip76nCVvawEI3pG6Kjref7NzzSMZfy2pm_uE,Technical Teams/Airframe/2024-2025/Controls Software/Physics Simulations Documentation/Flight Vehicle Dynamics Model/Flight Vehicle Dynamics Article Review,txt,1700,232,1,232.0,232,232,ok
+490,1gQ_-QQKQrlyOKx6LAQPFV0Kmj4h3Heql,Technical Teams/Airframe/2024-2025/Controls Software/Physics Simulations Documentation/Flight Vehicle Dynamics Model/Resources/OpenRocket_technical_documentation-v13.05 (1).pdf,pdf,194493,33759,72,743.08,898,531,ok
+491,1B6upJLs-6aorafmmUIZsFbjKNijAsjJgnvzgVYXoXSI,Technical Teams/Airframe/2024-2025/Controls Software/Controls Documentation/Kalman Filter Design/Kalman Filter Diagram,pdf,156,25,1,25.0,25,25,ok
+492,1Sdg89RNh8v2hRKnNnmdWQO-cDtlAFeHDUbDZKKOkNlk,Technical Teams/Airframe/2024-2025/Controls Software/Controls Documentation/Kalman Filter Design/Kalman Filter Design,txt,90,8,1,8.0,8,8,ok
+493,1b8tXAod7ew4gR_LZVrNJ8JLTKntugZLs4URY2Ic0OjE,Technical Teams/Airframe/2024-2025/Controls Software/Controls Documentation/Kalman Filter Design/Altimeter Information,txt,1635,192,1,192.0,192,192,ok
+494,1CGVRLFwfBBe7aHbXMVf4YJ2hKbp4lq7s8R9vghT8RXs,Technical Teams/Airframe/2024-2025/Controls Software/Controls Documentation/Kalman Filter Design/IMU and Altimeter information,txt,634,83,1,83.0,83,83,ok
+495,19Ujk-VIaulliGmEewhXS43wpeStYtxkzJv5ud6Y8FAU,Technical Teams/Airframe/2024-2025/Controls Software/Controls Documentation/Kalman Filter Resource Review/Kalman Filter Notes,txt,4173,713,1,713.0,713,713,ok
+496,1LNsvbYMP7gc7eq0ZOJRNFs89sh2NruVZ9FzOzcME3E4,Technical Teams/Airframe/2024-2025/Controls Software/Controls Documentation/Kalman Filter Resource Review/Data Fusion Information,txt,796,106,1,106.0,106,106,ok
+497,1cMWDsbQROr-mY-nHt9LGhjnSkG6Mp7iv,Technical Teams/Airframe/2024-2025/Controls Software/Controls Documentation/Kalman Filter Resource Review/Complementary Filters Shaping using H_infinity Synthesis.pdf,pdf,19091,3237,5,647.4,858,456,ok
+498,193znkF8StDSinzgCUm20lrwDNetO8t8l_fR5U0JTNnQ,Technical Teams/Airframe/2024-2025/Controls Software/Controls Documentation/Spring Break Conversations,txt,803,119,1,119.0,119,119,ok
+499,1pOwIJcKw-PKqD8r6Fpv6oqUbzCezeVtj,Technical Teams/Airframe/2024-2025/Controls Software/Controls Documentation/Quaternions/quaternion - easier + no code.pdf,pdf,22041,4777,9,770.0,863,664,ok
+500,1dzpkivjqZh35WGm3s5nVGzXnhFvq4ggF,"Technical Teams/Airframe/2024-2025/Controls Software/Controls Documentation/Quaternions/Shoemake K., Quaternions.pdf",pdf,23535,4226,11,715.64,797,632,ok
+501,1WdLEoZwgaH0WQeAhsoZu_ZyKXQ4XKr4ze4b-6MRg-60,Technical Teams/Airframe/2024-2025/Meeting Notes/Controls Surfaces Technical Discussion,txt,5160,841,2,493.5,828,159,ok
+502,1_N3KEZ4_ffwSWENSAGTjbs3QDXItxNvGqlvkAkHvPJk,Technical Teams/Airframe/2024-2025/Meeting Notes/Launch Logistics,txt,116,9,1,9.0,9,9,ok
+503,1CY_EzCEcuxT0MXlzEpOtbwO5_R1w-z0uyUlsq_EiBIA,Technical Teams/Airframe/2024-2025/Meeting Notes/FV Meeting Notes 11/1,txt,432,67,1,67.0,67,67,ok
+504,1skN6ERMNiDbqWEQ1w5mUU-fbs0vhMBy98iBbatC6Y6g,Technical Teams/Airframe/2024-2025/Meeting Notes/FV Meeting 10/25/23,txt,248,44,1,44.0,44,44,ok
+505,1YU9UvdBzscSq5Ti9twvkpjeVnFCGoqZDk6A1QwtepkM,Technical Teams/Airframe/2024-2025/Meeting Notes/FV Meeting 10/23/23,txt,55,6,1,6.0,6,6,ok
+506,1GhAZ8F0bGLiubrh7N2x4SJf-30ybUxOqfrhszmnF9Rk,Technical Teams/Airframe/2024-2025/Meeting Notes/FV Meeting 10/18/23,txt,718,117,1,117.0,117,117,ok
+507,16xQOL6KsRV-dWSzlA77MfzvGakJhtd4LDK0kBQpRGXg,Technical Teams/Airframe/2024-2025/Research/Notes/Flight Vehicle Facts Sheet,txt,826,113,1,113.0,113,113,ok
+508,14mzgWfzRfDxyHibQC-KaPqmdhjbSNSNc,Technical Teams/Airframe/2024-2025/Research/Notes/Formatting Airfoil Data for NX2306.pdf,pdf,4774,866,2,450.0,731,169,ok
+509,1L5IGBEvbYlLBRIhzYo8SxdEvF0zsGO9d,Technical Teams/Airframe/2024-2025/Research/Notes/Static Port Holes.pdf,pdf,23203,3838,6,697.67,815,449,ok
+510,1B57_b-SZv7d-osS3_MvesDe4S3Do1Yvj,Technical Teams/Airframe/2024-2025/Research/Notes/Control Surface Articles/Adaptive_sliding_mode_roll_control_of_a_canard-controlled_missile.pdf,pdf,21704,3613,5,722.6,895,563,ok
+511,1AltY4W47GH8CPRGe9hfCVJTjqObwga05,Technical Teams/Airframe/2024-2025/Research/Notes/Control Surface Articles/The Effectiveness of Canards for Roll Control.pdf,pdf,50793,9253,15,740.13,825,553,ok
+512,1ZD7Z_On5658krZdPqMYXJrFYRz6k8TxI,Technical Teams/Airframe/2024-2025/Research/Notes/Recovery System Sources.docx,docx,1273,92,1,92.0,92,92,ok
+513,1j1qvtumTk5lQ7jCBog15R_absGYzJKZG2aZaV6GEP8I,Technical Teams/Airframe/2024-2025/Research/Notes/Thrust vane material and shape,txt,684,78,1,78.0,78,78,ok
+514,1wzqoyAN8mN7gobE5BvBFUZxbicrnVjWjTcPZIPSEGhY,Technical Teams/Airframe/2024-2025/Research/Notes/Thermal Research,txt,1217,116,1,116.0,116,116,ok
+515,1VlU67glzD3_6sHAPUx4PHNsK7Q75gJpvNXDWRF5cR_A,Technical Teams/Airframe/2024-2025/Research/Notes/Portland meeting documents,txt,3024,530,1,530.0,530,530,ok
+516,196BFSNlRUdWctIerJsyk9iC-m5mT-2X0maQy6CHsKcs,Technical Teams/Airframe/2024-2025/Research/Notes/Questions,txt,1379,241,1,241.0,241,241,ok
+517,16i4_9FOIAC5FHCBuXQEB-8X1DsyRmVwsrV7bzXA8O_s,Technical Teams/Airframe/2024-2025/Research/Notes/Questions: MASA,txt,4166,723,1,723.0,723,723,ok
+518,15W0EESIbpUXGYidFed49i_I8SfAiTXlxbRHtjj_rZH4,Technical Teams/Airframe/2024-2025/Research/Notes/Josh Thomas Meeting Notes,txt,3953,694,1,694.0,694,694,ok
+519,1pqR1Uo0IYBk5AsQY3O--wLSvo-0OZFnKeHdz7ajPwiA,Technical Teams/Airframe/2024-2025/Research/Notes/Questions: HalfCat,txt,4537,796,1,796.0,796,796,ok
+520,1-0Dt0iOribjBRK012jiEtLR0vb-kMrMXno7qVJ35nKw,Technical Teams/Airframe/2024-2025/Research/Notes/12/21 General meeting notes,txt,3327,573,1,573.0,573,573,ok
+521,1sOLsogCvevx5kMiBae49xzT2GunRwZf-wP3nsy3_fgo,Technical Teams/Airframe/2024-2025/Research/Notes/Kamon Notes,txt,2219,368,1,368.0,368,368,ok
+522,1QPpZV0MlZsl2vgVYpFL9yi6K0C7BDy8YI4HZ5WC2GaM,Technical Teams/Airframe/2024-2025/Research/Notes/Notes,txt,1082,193,1,193.0,193,193,ok
+523,12UqPnw3hN30Ts7vCKr0nQ089v6GpEntNKvD7RPcIsqI,Technical Teams/Airframe/2024-2025/Research/Notes/Notes: Kamon,txt,1340,225,1,225.0,225,225,ok
+524,1cgSrtt2lNWvhL3sZFDsxIVv35pgZqij_m3FPkZ5hVk4,Technical Teams/Airframe/2024-2025/Research/Notes/Half Cat Notes,txt,3609,622,1,622.0,622,622,ok
+525,1NkgABWO0nNBFu9xzNuX9ER2LTr0b--xcmtSeIA54Apk,Technical Teams/Airframe/2024-2025/Research/Notes/Questions: Ryan,txt,3745,646,1,646.0,646,646,ok
+526,1uzXkNdYAt4HmPaodzZTIQS0R2kTHs8C0EOV0TziRlhA,Technical Teams/Airframe/2024-2025/Research/Notes/Blog post declaring flight vehicle intention and possible design,txt,1577,272,1,272.0,272,272,ok
+527,1ylAAbLYmPEUwrqrZI1tY2lyvWXVl6X69ZwC1NLEfsrs,Technical Teams/Airframe/2024-2025/Research/Notes/Questions for Sebastian and Myles,txt,9038,1627,2,813.5,1012,615,ok
+528,1TyHz428Wy0Ljgg5BZSFlGokDCZ8Ajv3YVrClVLOEARY,Technical Teams/Airframe/2024-2025/Research/Notes/Questions for PSP/Space Concordia,txt,620,103,1,103.0,103,103,ok
+529,1J_mnUHuy7Inx0Jum3pSpFqL57AfhG8c2zqbUjDKuUtk,Technical Teams/Engine/Engine Leads Meeting Notes/Engine 1/9/25,txt,955,154,1,154.0,154,154,ok
+530,1Vb3VCYA2ini_wl-yI8kwNZQVhxWvXSyFPKeJjACheK8,Technical Teams/Engine/Overture Mk2 /Overture Mk2 Main,txt,4020,636,1,636.0,636,636,ok
+531,1wKivdlypqfIcZv48Rkau7MzASILb-jcAJRdNGkdR1U0,Technical Teams/Engine/Overture Mk2 /Nozzle Geometry Optimization/Kinetic solver/Kinetic Solver Ideation,txt,1091,175,1,175.0,175,175,ok
+532,10-A5zqYRDtOICPG4kty9Si-e3275PdNuquR2jzwTf6M,Technical Teams/Engine/Overture Mk2 /Nozzle Geometry Optimization/Overture Mk.2 Nozzle Optimization Task Document,txt,953,140,1,140.0,140,140,ok
+533,1d0hJScL6uqeaD1Q2K1s5AE0pUaqdCCNeldVnSSKh3HU,Technical Teams/Engine/Overture Mk2 /Nozzle Geometry Optimization/Sources List,txt,639,29,1,29.0,29,29,ok
+534,14LtoDQbfhJzaZ_RyvCmjXaOmZMirLZ6kBm5rI7UVArI,Technical Teams/Engine/Overture Mk2 /Overture Mk2 Safety and risk mitigation ,txt,635,95,1,95.0,95,95,ok
+535,1r98jY7dO2pqIS_Bpg8cDjzegGSa78ANE,"Technical Teams/Engine/Overture Mk2 /OVMK2 CAD, Put all CAD Here/Box Sync - Illini Solar Car Wiki.pdf",pdf,4375,745,1,745.0,745,745,ok
+536,17EJ6m_2swAwjtSSQymy7B4S0_DSnx3JEpHvZA02hFs0,Technical Teams/Engine/Overture Mk2 /OVMK 2 SRR/12/1/25 SRR notes,txt,1220,200,1,200.0,200,200,ok
+537,19_eUmULTneegkDYk6ZNpHd1Lh1QmpTv5uFjJDA7oaco,Technical Teams/Engine/Overture Mk2 /OVMK 2 SRR/SRR - Overture MK 2,pdf,18985,2635,4,774.0,832,700,ok
+538,1tCpkSuhw0bvuxDKQBX_fyIh7cgBPUWs6,Technical Teams/Engine/Overture Mk2 /Ablative Testing Setup/Papers/bartz.pdf,pdf,53866,8773,15,685.2,892,426,ok
+539,1VGnZKW56pawltPwi3l0DaVxyFnKa4zFd,Technical Teams/Engine/Overture Mk2 /Ablative Testing Setup/Papers/allcorn-et-al-2012-development-of-an-experimental-apparatus-for-ablative-nanocomposites-testing.pdf,pdf,78359,12453,22,737.41,887,223,ok
+540,15BATUC0BWkxmXBGhTi3eDYIZOdFzv2GRuDAfa81NhDk,Technical Teams/Engine/Overture Mk2 /Ablative Testing Setup/Presentations/Ablative Testing LRI Presentation #5 2025-02-20,pdf,637,115,1,115.0,115,115,ok
+541,1_EBhh7FBnWS_htC4MVYVkvkLjmBAZuTwR7VfeQnDVcE,Technical Teams/Engine/Overture Mk2 /Ablative Testing Setup/Presentations/Ablative Testing LRI Presentation #4 2025-02-03,pdf,1486,250,1,250.0,250,250,ok
+542,18DxEOy2dH5_4A8xdhqXUpu7fwHjdE_QfHz8l_n1QdhM,Technical Teams/Engine/Overture Mk2 /Ablative Testing Setup/Presentations/Ablative Testing LRI Presentation 2025-12-12,pdf,1216,220,1,220.0,220,220,ok
+543,1wld36-hGCeQR5QnjmwTr7m05FDdSKxuYIL_Wp-_6Mmk,Technical Teams/Engine/Overture Mk2 /Ablative Testing Setup/Presentations/Ablative Testing LRI Presentation 2025-11-26,pdf,951,166,1,166.0,166,166,ok
+544,10uDdHTrjTnO2kqx7NIf2DaYx1sKrAAR1,Technical Teams/Engine/Overture Mk2 /Ablative Testing Setup/Presentations/Ablative Testing LRI Presentation 2025-11-17.pptx.pdf,pdf,648,120,1,120.0,120,120,ok
+545,1qcfoJ0lF7dy16UZwDUey7tHHpk4zGfclpzQIK-llC1M,Technical Teams/Engine/Overture Mk2 /Overture Mk2 Injector Research Task Document Template,txt,3576,380,1,380.0,380,380,ok
+546,1GRQELGpNjLmcm5YG8k16drgt_34V6O7F8zGw-cE4SNc,Technical Teams/Engine/Overture Mk2 /Overture Mk2 Closure Research,txt,1056,148,1,148.0,148,148,ok
+547,1kKQrasztpBSCL5RLht7-Hj4adyRTOq10HvwN3WhBspM,Technical Teams/Engine/Overture Mk2 /Regenerative Cooling Research/Regenerative Cooling Nozzle Task Document,txt,3521,406,1,406.0,406,406,ok
+548,1Z7tlJZea1vhX1FWvxsy4gqmIkSfORjeCyuUIe7qf5sg,Technical Teams/Engine/Overture Mk2 /Regenerative Cooling Research/Python_Finite_Analysis/2.5D FEA Thermal Solver for a Regeneratively Cooled Nozzle Master Document,txt,2186,304,1,304.0,304,304,ok
+549,1KzFhv7Qjc9RX2AFDrSddmec-3TiTEiZh,Technical Teams/Engine/Overture Mk2 /Regenerative Cooling Research/Python_Finite_Analysis/Transient/11292025_Regen_Analysis_ThermalOnly/Data.csv,csv,64239,12354,14,882.43,900,655,ok
+550,10BjRwPwlfecWGpDDkScemkO1HKcyJd_A,Technical Teams/Engine/Overture Mk2 /Regenerative Cooling Research/Python_Finite_Analysis/Transient/11292025_Regen_Analysis_ThermalOnly/report.txt,txt,703,93,1,93.0,93,93,ok
+551,1g5eLOJChGtGlnyU_pERHV-w6_BR20qXO,Technical Teams/Engine/Overture Mk2 /Regenerative Cooling Research/Python_Finite_Analysis/Transient/11292025_Regen_Analysis_ThermalOnly/requirements.txt,txt,523,233,1,233.0,233,233,ok
+552,1YO1CbzyFO_DYyt-eURG-otzfMUgdImndK-JEvoKwwv0,Technical Teams/Engine/Overture Mk2 /Regenerative Cooling Research/Python_Finite_Analysis/Python Analysis V1/10202025_SteadyState_Prot_Technical,txt,5353,813,1,920.0,920,920,ok
+553,1hWUMNZYaD0gUS4dj8GTWpavEWHOVcWpo4KTqdcsaF1c,Technical Teams/Engine/Overture Mk2 /Regenerative Cooling Research/Python_Finite_Analysis/Python Analysis V1/CEA_Results_10172025,txt,3027,411,1,411.0,411,411,ok
+554,1us-yA0Iup25WPTLppa80-3YgyCfRfBKR,Technical Teams/Engine/Overture Mk2 /Regenerative Cooling Research/Python_Finite_Analysis/Python Analysis V1/Heat_Analysis_V1_10152025/report.txt,txt,728,96,1,96.0,96,96,ok
+555,1dbLfEo3BYpjNXWTqUK6jkLUNX02bsig-iPajcTbHp48,Technical Teams/Engine/Overture Mk2 /Regenerative Cooling Research/Python_Finite_Analysis/Python Analysis V1/Heat_Analysis_V1_10152025/report,txt,729,96,1,96.0,96,96,ok
+556,1NqsyULrKG4Rfb3R5KqR6ZHAh3RvjNRxLFsCGkBOEXqI,Technical Teams/Engine/Overture Mk2 /Regenerative Cooling Research/CFD_Results_10282025,txt,307,41,1,41.0,41,41,ok
+557,1ewFyCQWUvo4ywIpJ9C4gupGrNOPWFOqqnBbpSApU3fM,Technical Teams/Engine/Overture Mk1 (Current)/Task Document Template,txt,371,48,1,48.0,48,48,ok
+558,11ID2LVKHpu3BUWmgrLEtV3B35hnlqIDW33XFxmXDO0E,Technical Teams/Engine/Overture Mk1 (Current)/Overture Mk2 Igniter Research Task Document,txt,5211,814,2,471.5,812,131,ok
+559,1IVn90bLYqCrv1R1sUfjGGMvLMC6yi4aYrhCpUfhO3QY,Technical Teams/Engine/Overture Mk1 (Current)/11/13/25 E-box Tent,txt,1402,227,1,227.0,227,227,ok
+560,1AKbg5KxKMcJvvLHnPBrzoX-JIlWjIMDgp9XF6uiHiP8,Technical Teams/Engine/Overture Mk1 (Current)/Ablative batch system,txt,382,21,1,21.0,21,21,ok
+561,1fP4eqTPqSWwECsBq7_bemykGir_E3_5gDavnnu6zecw,Technical Teams/Engine/Overture Mk1 (Current)/Swagelock Regulator Troubleshooting Task Document Template,txt,1941,313,1,313.0,313,313,ok
+562,1iM93DdKBEpU8FBnyFHFULCsbt3CX8PX2bV69seA41aY,Technical Teams/Engine/Overture Mk1 (Current)/Drain Line PT 10/14/25,txt,1292,212,1,212.0,212,212,ok
+563,1Tth8Mu62puo84bX7flqsahd5BEOZkFYLLTRuqOO3gQI,Technical Teams/Engine/Overture Mk1 (Current)/Cryo Fill Procedures 10/16/25,txt,824,105,1,105.0,105,105,ok
+564,1XoSqkycM4DnPAx2jMNZ4-gg-wk67KuZj3WoNZqP6xQY,Technical Teams/Engine/Overture Mk1 (Current)/9/3/25 Safety Distance Calcs,txt,3013,483,1,483.0,483,483,ok
+565,1MNf4Hi7bm4mqyduJNjPjPYNvXa-5N0wDLJjc2hojfCo,Technical Teams/Engine/Overture Mk1 (Current)/9/2/25 Securing Rand-E at Quarry,txt,3993,338,1,338.0,338,338,ok
+566,1zbwq_tPn2fiUQVVYzxSjY6DcdijJYo5qwJl6vrH1XCo,Technical Teams/Engine/Overture Mk1 (Current)/Drain Actuator Task 10/14/25,txt,2818,425,1,425.0,425,425,ok
+567,1wJygJwatzQGWLpvIsDISs7r-NjGTcExgja9gvPL1EXA,Technical Teams/Engine/Overture Mk1 (Current)/New Ablative Material Research,txt,2084,230,1,230.0,230,230,ok
+568,1VY8FpC7-yGak74x-OFUg1tgdC4WeuXbbF3u6tK22ez0,Technical Teams/Engine/Overture Mk1 (Current)/PHIL PT Calibration 10/14/25,txt,1058,136,1,136.0,136,136,ok
+569,1xDHkjcznemLG8Yi_DfNC7Zb47au3lJP9BQQ_58pfMhQ,Technical Teams/Engine/Overture Mk1 (Current)/RV and Vent Valve Sizing 10/14/25,txt,3180,370,1,370.0,370,370,ok
+570,1gJ-vQEBt52fJyduWUKNxv4pwkoMeDeCZ6Ni3yaTRWh0,Technical Teams/Engine/Overture Mk1 (Current)/LOx Line Fitting List 10/14/25,txt,559,82,1,82.0,82,82,ok
+571,14tYr283l1aT0P-z_366QJXJeQYVj-cXvAGLRdv2CxwM,Technical Teams/Engine/Overture Mk1 (Current)/9/3/25 TMM FEA Simulation ,txt,5574,883,1,887.0,887,887,ok
+572,16YdmqkNGX6c1rQ_Mh82DRhKob08byjMEJdBe6chDAQ4,Technical Teams/Engine/Overture Mk1 (Current)/9/2/25 Setting RV Crack Pressure,txt,1284,205,1,205.0,205,205,ok
+573,1ybUBYw90dfAQAGJqfP3JQLfuUhkmdxbSH0WUaAxgeJQ,Technical Teams/Engine/Overture Mk1 (Current)/9/1/25 Bottom Flange Manufacturing ,txt,836,129,1,129.0,129,129,ok
+574,15d8foz_1mQzgoeUblzWEkpwlse-expWwDB5bbtiXYaM,Technical Teams/Engine/Overture Mk1 (Current)/9/3/25 Dewar Blast Shield,txt,899,143,1,143.0,143,143,ok
+575,1oIKhaOOdl2J4FMQjktNuqRRpTlfGJ7aP7FaxK298SMk,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/Procedures for sizing the ablative sleeve TD,txt,9292,1540,3,596.33,780,272,ok
+576,1tUxrZ3kemntd4o3wNdPbG3AajRwXC5IfCNK-KSYxYJw,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/8/26/25 Ov Assembly Procedures,txt,4442,735,1,735.0,735,735,ok
+577,1hoPir3rEclxeeSNQP7AEIhkuUXqv2HXtrtNFgE_hqSw,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/How to ablative video Task document,txt,4559,774,1,774.0,774,774,ok
+578,1hpU_y-T5hOAbMAfM0hScrKtMraAoco9Ro5-VHBCY5eY,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/8/26/25 Copper Crush Seal Task ,txt,1695,265,1,265.0,265,265,ok
+579,1Lcl6vkvSt7SS4_ksO-sjvrTD9Xah_tcaRS3eM9Lex7o,"Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/IPA, LOX, optomatization study Task document",txt,1463,195,1,195.0,195,195,ok
+580,16lXiAwSNtjvGKYiFKoAMi7U5oCP-Gr_sixhyHIMS8QM,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/meeting slides/1/20/26 meeting,pdf,281,49,1,49.0,49,49,ok
+581,1Z4TERcjBKbiDQ1AtQKr7ChEbmqW9FHi80Cv1WQNLm_s,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/meeting slides/12/2/25 Analysis Meeting slides ,pdf,174,31,1,31.0,31,31,ok
+582,19uyXMWFe7-MumzOlg7H-81zm95VZwKPUqNFsajfiOMQ,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/meeting slides/10/7/25 Analysis Meeting slides ,pdf,206,37,1,37.0,37,37,ok
+583,16KjmEz8XtSfJD3yWfLIFHG3hoIb-OZtpXK0oABMusmM,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/meeting slides/9/26/25 Analysis Meeting slides ,pdf,1230,212,1,212.0,212,212,ok
+584,16xUDwucPngaesvzj4SZfcAr9m2jzQ9moJwty26acNHk,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/meeting slides/9/26/25 Analysis Meeting slides,pdf,496,84,1,84.0,84,84,ok
+585,1ktXy8s5Cq4pspBgu9YRJihaPdAM-MMs2mUcK-ZWt4_c,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/meeting slides/9/23/25 analysis meeting 1,pdf,1505,231,1,231.0,231,231,ok
+586,1UmiZ228M7ozqTowUXOmOWTlYrEzmdMtdi_UMXXX08wo,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/8/26/25 Torch Testing Location,txt,1491,253,1,253.0,253,253,ok
+587,1gXZCD4D3BxnywMn7O9IliB38uRvzYIwSXNzWCcMwIAo,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/TMM/TMM Review,txt,292,48,1,48.0,48,48,ok
+588,1XXw5nRmArGIfCDZk-4kvkxDZ7huCOyk6d943g8rXD8I,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/Pintle Testing Procedure,txt,1771,270,1,270.0,270,270,ok
+589,1wW6ybJ5WJJUAeo0cZUDmrJf997kjiwNqZWvpyKEZeuk,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/Testing (Current)/Overture Injector Testing Master Doc,txt,890,169,1,169.0,169,169,ok
+590,16kdu_Tpy-Nv4OzDGch4qWV4Vpqgn4FqaY2vPOobDJdo,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/Testing (Current)/Copy of Enigne Procedures Template,txt,415,44,1,44.0,44,44,ok
+591,1LGnVDki97LmeOSgy7h4iImbXc5Y_1Qj4h2_aZ4cb2QM,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/Iterative Testing (outdated)/Iterative Testing Master Doc,txt,622,85,1,85.0,85,85,ok
+592,1PDjkWo67GT547sn8F_C-7cfDMu8gyIi9XRI9gFJJBhY,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/Iterative Testing (outdated)/Mk0/Mk0 Sizing,txt,3906,579,1,579.0,579,579,ok
+593,1-5wpmPONX1DdatdhOy5rg5uPMKv_17qUzwO73zFBDzc,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/Injector Seals,txt,974,139,1,139.0,139,139,ok
+594,135914DTY3P5aMazcdsuewlBpNnpOUUo6jAR0sfc-2R0,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/Sprints/Engine Sprint Template - Injector - 2/26/25,txt,843,103,1,103.0,103,103,ok
+595,15JN8X4gYTNJJ_pMeUars1mdM-anI5HmlXzGOpaOcCUM,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/Sprints/Overture Injector Update Doc,txt,2741,423,1,423.0,423,423,ok
+596,1-5IqjQbVpXIFX6eOa6lSExhIO5sTcnYUDBHGDUBlWNw,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/Trade Studies/Injector Quotes: Trade Study,txt,2600,365,1,365.0,365,365,ok
+597,1BLM87N9lmVau1Cq6EfaYrLSHrQyqnyTUXBuIgAjizvM,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/Injector Requirements/To Do,txt,854,136,1,136.0,136,136,ok
+598,1zYOEoyqANg2Bm-Axxr6t5m8smrM_ea-cf_YwrwwE5xg,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/Resources/Possible O-ring Specs,txt,1369,168,1,168.0,168,168,ok
+599,1HgOjEc4LaM5F8VPPnXh2vN8VlH3ng3AG,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/Resources/parker tube SAE J1926.pdf,pdf,2704,515,1,515.0,515,515,ok
+600,1WVIoALEx9vQv3pl6J6O_oYIN72DMbcQC14vBmboGAmQ,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/LRI Injector Parameters/Sizing(Outdated),txt,4450,708,1,708.0,708,708,ok
+601,1YfyNkdRjO3FFkJDKfXaGMCnhWj5ZnuHEUscxt4onHTA,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/Injector Development History,txt,1290,197,1,197.0,197,197,ok
+602,1CDMbBChy86mAPLbksXP7aIpfEd6Lm55cJdkZMyi4a7Y,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/Meeting Notes/11/10 Meeting Doc,txt,421,66,1,66.0,66,66,ok
+603,1nqItx_tFfTJEQzxs3olQzGSkCDkzP6dQbZZNLMkwLrU,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/Meeting Notes/11/3 Meeting Doc,txt,403,62,1,62.0,62,62,ok
+604,1odjgW5LiuatBCj6SeRk3OOipH8KxbMFdIwiuSOYAGwU,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/Meeting Notes/10/27 Meeting Doc,txt,605,92,1,92.0,92,92,ok
+605,15cXRura-vAw-X_BZ-EMZuxkGLyvwOLOQtB1VucJQhPQ,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/Meeting Notes/10/20 Meeting Doc,txt,880,157,1,157.0,157,157,ok
+606,1q9tOfeQ7AyDxIsYE7cHez50n3qX9erozEGBfEfTRasc,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/Meeting Notes/10/16 Meeting Doc,txt,1139,172,1,172.0,172,172,ok
+607,1rxT9WA8G3RgmM5rS6fRaQEEMKNEauqQ7-vsT4FDfK6Q,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/III) Injector/Meeting Notes/10/13 Meeting Doc,txt,1242,196,1,196.0,196,196,ok
+608,1YFjFKUUSkknUyEhWgXNCgpFCbGTxmpPDzgl6q4JHvZ8,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/V) Ignition/Ignition Test Outline & Procedures-Phase 2,txt,5037,800,1,804.0,804,804,ok
+609,1pr2lk3Qp0BKXh6ky1XtB5p_eW4QwdxhAIHqLJHBC9S4,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/V) Ignition/Phase 1 Ignition Testing Document,txt,3285,524,1,524.0,524,524,ok
+610,1jc4Se8VwCbiW4CA4oY9mGkMWaTrium3By3wNpKsIP4U,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/V) Ignition/Ignition Test Outline & Procedures,txt,4818,767,1,767.0,767,767,ok
+611,19wzjbglrM4aqEhCqSLgOF08zJkkGPq2rDgSSUmkxfPE,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/V) Ignition/Solid Motor A-3 Ignition Trade Study,txt,2198,389,1,389.0,389,389,ok
+612,1VnkORM7f6-0EOhwMsUIdFDGy_B8UPYViqi-EIXx3g3M,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/V) Ignition/Ignitor Sprint Feb 26th,txt,723,83,1,83.0,83,83,ok
+613,19qpOqezrQdSCZXbkuM5eSekkxRyKaWOjKZqK8ECAmDs,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/IV) Analysis/Engine Task?? - Chamber Pressure Mdot,txt,647,125,1,125.0,125,125,ok
+614,1ZpB2-FutixKpXwfOnFp2h2Zf9nrykjTIZc_NHfN4WqI,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/IV) Analysis/FEA/FEA - Onboarding,txt,9062,1475,3,592.33,743,500,ok
+615,1Z8ALbckNt7jAiaoxPHeH6zIhi3KpRaoS66XZPj25d38,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/IV) Analysis/FEA/Annular Plate/Ansys Annular Plate,txt,483,86,1,86.0,86,86,ok
+616,1HMyROm_zxOd3kI2983kIzyLJ03oS-UwiRTrtv613dB0,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/IV) Analysis/Code / Scripts/Heat Transfer Code Manual,txt,9301,1427,2,714.0,728,700,ok
+617,15TMBgujxaoyOrBUQFGrejQ4v0GaTAw0zmGyIkXhzM5c,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/IV) Analysis/Code / Scripts/Bearing Area Code Manual,txt,3660,596,1,596.0,596,596,ok
+618,1z120ewJVBAa0FinzwIZMrezlKAKz6BWPAqGAIZOpz6k,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/IV) Analysis/CFD/CFD Safe Injector,txt,904,160,1,160.0,160,160,ok
+619,1uTJGm0-_bWhPAjVMCcYetyELE3v3e4ofM2_ufYt1feU,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/IV) Analysis/Analysis Tasks,txt,593,93,1,93.0,93,93,ok
+620,1UlhumGwsO2opn5W3aCnhpoT9XcENGA1V,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/IV) Analysis/test_temp_contour1.csv,csv,4147,900,1,900.0,900,900,ok
+621,1udh5rvpKTyJr_bg5e2dLhg2TAiFTOa2smHfH1uEGvOA,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/II) Nozzle/Nozzle SPRINT documents/Nozzle Sprint 2/26/25,txt,901,120,1,120.0,120,120,ok
+622,1f3WFMOTRzTCacCxz93nO4awp54bHgRfIZnK_oZvNY_o,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/II) Nozzle/Trade Studies/Thrust Trade Study,txt,2637,433,1,433.0,433,433,ok
+623,1TtqSIuU4uJfJJgrrirE7M5tbFC7E0b2PGDw6dFjPyoo,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/II) Nozzle/Trade Studies/Chamber Pressure Trade Study,txt,2923,480,1,480.0,480,480,ok
+624,1n8t4ogD-DKzADLqrbEk5KrfxC4U8ihsMu_yRurUZDX4,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/II) Nozzle/Chamber Contour/Outdated/0.5 KN 150 PSI CEARUN Data,txt,1669,251,1,251.0,251,251,ok
+625,1t7zdeyNqp_fObVYlzBIhXJRJIR3K4tuPekNU_pGo8Zc,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/II) Nozzle/Chamber Contour/Outdated/1 KN 100 PSI Engine Data and Plot,txt,1886,259,1,259.0,259,259,ok
+626,1b_2QIGWewfH9mw_r-Z6rsXSR-eI8dmBITtw-QZ-tTt8,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/II) Nozzle/Chamber Contour/Outdated/1 KN 150 PSI Engine Data and Plot,txt,1885,259,1,259.0,259,259,ok
+627,11G3MBtQcj5xd5LHXu_Ak-RyuJk6jH-JWIVNVs_EL2HI,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/II) Nozzle/Chamber Contour/Outdated/1 KN 200 PSI Engine Data and Plot,txt,1967,265,1,265.0,265,265,ok
+628,1Ms15kmbxqtPOd9byEIR5gYOQpQpoUN1XLyGklC3C_MA,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/II) Nozzle/Chamber Contour/Outdated/CEARUN 1kn engine data,txt,7567,1046,2,527.0,785,269,ok
+629,1PuN3X6_3Yu0YduY8kstI-ujwzvNuBzAy,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/II) Nozzle/Chamber Contour/Outdated/CEARUN 1kn engine data.html,html,7775,1046,2,527.0,786,268,ok
+630,1bE3BscDuPoHvZ0HOpt6fsLCEEAT1EEOuA3AGwCosKIk,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/II) Nozzle/Chamber Contour/2.5kN 300 psi/!READ ME! Notes for contours,txt,519,81,1,81.0,81,81,ok
+631,1yFJzY8rK4lw2sg_5ddqVCWoYq_1RRTJs5nWXcU8jGH8,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/II) Nozzle/Chamber Contour/2.5kN 300 psi/CEA Data,txt,4059,557,1,557.0,557,557,ok
+632,1B8Bs634fsDi3u6eFM9OkwbBu0FdURUZ3mgp7Bowrosk,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/II) Nozzle/Chamber Contour/SRAD Contour Code/Chamber Contour Program Sources and Notes,txt,819,77,1,77.0,77,77,ok
+633,1oWnaHd-ATQ352tJFEAQa0M37iiBSkMt1b_fO9800SSU,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/II) Nozzle/Chamber Contour/RPA Contours/RPA 2.3.2 Contours,txt,3733,510,1,510.0,510,510,ok
+634,1VS0wHLxkPKNg2v0Spe_gDeg7IpeWq5hU90O47RhW2-0,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/I) Ablative/oxyacetylene torch temp research,txt,2676,388,1,388.0,388,388,ok
+635,1YaTz3yEFjqyHdl28Gmx_qm4FkjXDDeprHCOW-0ByCbg,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/I) Ablative/Ablative_Coding_Explanation,txt,2378,366,1,366.0,366,366,ok
+636,11oA3ReLtP4zk_acwC-s0Zkyg1njvxQ9Do3SlW66G7ak,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/I) Ablative/9/22/25 Code for ablative Task document,txt,2737,408,1,408.0,408,408,ok
+637,139spSG3tF1Woh6TmqrxEZHiMcF9E1ttZ,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/I) Ablative/TorchSafety.pdf,pdf,8165,1600,4,596.75,881,317,ok
+638,1e2plbU1vvmgajsHYuLrYUVesZwRv8susSt-ByoPxeBo,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/I) Ablative/Ablative Sprints/Copy of Engine Sprint Template 2-26,txt,717,86,1,86.0,86,86,ok
+639,1FsPo2OW53nISzrI3Tag4EySgC_3OzgpLUV726wTvAYs,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/I) Ablative/Trade Studies/Engine Trade Study Seals,txt,2518,375,1,375.0,375,375,ok
+640,1ZgGQcYdfbKS39cZ4XXUwiIEbGPjHwyWmQ7Yg1A41bWY,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/I) Ablative/Procedures/Cylinder - Ablative Casting Procedures,txt,2623,466,1,466.0,466,466,ok
+641,1oHm_k3pH_lOx0GcDT4sVFy5vqNecnhKZBZN1CF8sYIY,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/I) Ablative/Procedures/Ablative Casting Procedures-Testing Different Material Percentages,txt,3428,592,1,592.0,592,592,ok
+642,1fAbGB4sChDeTpjomZur0tDE0SaVeGAUyAa2OwYuLlKY,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/I) Ablative/Fall 2024 Ablative Work/12/13/24 Ablative Testing Technical Report,txt,4534,751,1,751.0,751,751,ok
+643,1t9tblsvkiGI3VqdGffMmBIJpsUm2MErNvaQyZm6q_v0,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/I) Ablative/Fall 2024 Ablative Work/test ablative casting procedures ,txt,5348,956,1,956.0,956,956,ok
+644,10rZYFBfcaey7N20NoVT8KGeuDBLkKUmn0YuCaxeTLdQ,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/I) Ablative/Fall 2024 Ablative Work/12/13/24 Ablative Test,txt,1452,240,1,240.0,240,240,ok
+645,1IVMBJAUNGJOOYyfo8kmbMPNhsJTmzEONc5ZE_ZQE9QQ,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/I) Ablative/Fall 2024 Ablative Work/test ablative testing procedures,txt,4092,700,1,700.0,700,700,ok
+646,1zIF7C6vlfIdPzSNUIS4d1CLjwVndRm0ZMjome4RDpqs,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Design and Analysis/I) Ablative/Oxacetylene Torch Research,txt,692,117,1,117.0,117,117,ok
+647,1B2vZfO5z_WkVJoiRBI7qE1u6FdP-PqBC3LISGR3buEg,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Fluids/Spring 26 Task Docs/1/22/26 Freezing Prevention,txt,1473,238,1,238.0,238,238,ok
+648,1mZgvoAn04YIfXipfTOAVDGDr5vuzjjq476jdMmnN9cU,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Fluids/AE 199 Cryogenic Testing,pdf,2445,383,1,383.0,383,383,ok
+649,1DkHE6eQvF490Yv2gSFXm2mUGoi5XLji0,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Fluids/Water Flow Test Data for Oxidizer Reformated/ov1_f_10_13_25_run1.csv,csv,62256,10360,12,863.33,900,494,ok
+650,1K3UP2ucTyylKl6996ryZsaisC0IjzgDM,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Fluids/Water Flow Test Data for Oxidizer Reformated/ov1_f_10_13_25_run3.csv,csv,10633,1297,2,648.5,892,405,ok
+651,10KssrOUQmZDfaDXYCNcsjlCBSHbTjRxA,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Fluids/Water Flow Test Data for Oxidizer Reformated/ov1_f_10_13_25_run2.csv,csv,13505,1801,2,900.5,909,892,ok
+652,1ZXoZoVSdQld_7M154YHj629cy0QcVnAXPbo5DtUKs0A,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Fluids/8/26/25 Check Valve Standoffs,txt,2029,356,1,356.0,356,356,ok
+653,12ADqkUa3a2gkF95SAHWGkO43VbJxbF_WtthYK8cDZrc,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Fluids/9/1/25 Gas Purge Numbers,txt,2813,461,1,461.0,461,461,ok
+654,1nndIXWcLtb5U4KHrW54leniJBH7GIK2Hr0dqdb5ioco,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Fluids/8/26/25 JIC Fitting Seals,txt,5399,744,1,744.0,744,744,ok
+655,1u0bf0CODBRfqNiXvZ5Tnp8VX_fsYOuR8uJCPjAnc260,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Fluids/8/26/25 OPEL Water Flow Tests,txt,1899,304,1,304.0,304,304,ok
+656,1QoBr-ezl5XjcTHuqNyZVbP5emm08wV3NEZHi5r87f3M,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Fluids/8/26/25 RandE Tank Hydrostat Proof Test,txt,1321,227,1,227.0,227,227,ok
+657,1IsmM5LY6FrS1hlHOjqqzOYGD8KQ9jwuLRfJnV0nhxvw,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Electronics/Skin TCs,txt,2806,462,1,462.0,462,462,ok
+658,1I4Y9WyyAaAYu77MiDLJ9jf2Tp0HPHJYkjtDU203OU2Q,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Electronics/8/26/2025 Chamber Closure TC,txt,1056,176,1,176.0,176,176,ok
+659,1nYXPqxH6eEVxZLM5wLkO7BbE1RiTExAPfocPZC5HXnI,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Electronics/8/2/25 Skin TC Task,txt,2986,474,1,474.0,474,474,ok
+660,11QWoo8V8YZbSs8ljH2467IfJk_--KYKCjl2HRbGOGAM,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Electronics/Electronic Boxes/Mini-Ebox Documentation,txt,6558,1066,2,628.0,846,410,ok
+661,19Kt9mXyZjDsFugMhyIpl88u_FPLg2Ylricp6nJsc1FQ,Technical Teams/Engine/Overture Mk1 (Current)/Sub Team: Electronics/Electronic Boxes/Electronics Task Overview - 4.2.25,txt,672,115,1,115.0,115,115,ok
+662,1NgaWUD77CgsMSfevq_a_1D9JKBlgk3bXCKqUYKJTw6o,Technical Teams/Engine/Overture Mk1 (Current)/Presentations/Overture Slides,pdf,5204,844,2,460.5,780,141,ok
+663,1blkZfqu7bODSv2o3Ix_umplul3TvOd8yiBIQwJFnkQ0,Technical Teams/Engine/Overture Mk1 (Current)/Presentations/AE199 - OPEL Water Flow TRR,pdf,3422,561,1,561.0,561,561,ok
+664,13LxGVcGaRPw0wT1yXZpJhTHOV_0pup3YbpTf24QH7mc,Technical Teams/Engine/Overture Mk1 (Current)/Presentations/TRRs/Ignition Testing TRR ,pdf,6661,1018,2,576.5,793,360,ok
+665,1y9_mcrUJ8qw6V-1Aj9yRz4A_jnZAP1gwR7rFtJCIeQM,Technical Teams/Engine/Overture Mk1 (Current)/Presentations/TRRs/Ablative Testing TRR Condensed,pdf,3044,458,1,458.0,458,458,ok
+666,19zdBFGbWo1XIWQbpQvxH0v4mGiJgg-LGieI5pdxBkDw,Technical Teams/Engine/Overture Mk1 (Current)/Presentations/TRRs/Ablative Testing 2026-02-09,pdf,7471,1104,2,631.5,768,495,ok
+667,18XNiSmQUphEqt4zZo9_0L1Ua_iN5TVeC5kMv0GAstuY,Technical Teams/Engine/Overture Mk1 (Current)/Presentations/TRRs/Ablative Testing TRR,pdf,2234,379,1,379.0,379,379,ok
+668,13tRVVnfXkRQh98o0wObujKEcEVj9yMJZ3bB65V33Bx8,Technical Teams/Engine/Overture Mk1 (Current)/Presentations/TRRs/TRR Template,pdf,105,16,1,16.0,16,16,ok
+669,1igK_QSh-9jARuqHkUPFjchBiP4KkHo0hdeCK8Tq-I_4,Technical Teams/Engine/Overture Mk1 (Current)/Meeting Notes/Engine 7.30.25,pdf,1256,237,1,237.0,237,237,ok
+670,1vjdfq-7l4S_7F-8JnF0eGHZDYeOSj8a3rbbPqI6akig,Technical Teams/Engine/Overture Mk1 (Current)/Meeting Notes/Engine 7.16.25,pdf,1686,319,1,319.0,319,319,ok
+671,1cSbNNc6c5n68PcyQeAwwEZec8UjxMFunURwp0pmxnrU,Technical Teams/Engine/Overture Mk1 (Current)/Meeting Notes/Engine 7.3.25,pdf,1347,250,1,250.0,250,250,ok
+672,1XRGitEDTT6jM1axhu-hrkcW9Gvkf7N8U-eo1v2Zl90A,Technical Teams/Engine/Overture Mk1 (Current)/Meeting Notes/Engine 6.18.25,pdf,784,153,1,153.0,153,153,ok
+673,1YrulLSoE5ErzTlXtWDbNvob4JNuNTr8jVHQDMq9DrXA,Technical Teams/Engine/Overture Mk1 (Current)/Meeting Notes/Meeting 6.6.25,pdf,1954,335,1,335.0,335,335,ok
+674,12ix1oRkYRe5JnVTYY0d8eZ7EVadas0eLCubkBlAs518,Technical Teams/Engine/Overture Mk1 (Current)/Meeting Notes/S25/Meeting.4.09.25,txt,2025,314,1,314.0,314,314,ok
+675,1s732fqMHsu9ECLEEn4vRprmnK1_k6gu-NfViB4o3paE,Technical Teams/Engine/Overture Mk1 (Current)/Meeting Notes/S25/Meeting.4.2.25,txt,1612,245,1,245.0,245,245,ok
+676,14b_hlxG15o7wbPzVHNuCyzGuSNZQYkEcymExTY5ZF9c,Technical Teams/Engine/Overture Mk1 (Current)/Meeting Notes/S25/Meeting.3.26.25,txt,659,102,1,102.0,102,102,ok
+677,1y4Ep3egeNwZpgGml3fSmIYNAjfDiccZlILwf7wtMTHs,Technical Teams/Engine/Overture Mk1 (Current)/Meeting Notes/S25/Meeting 3.12.25,txt,664,100,1,100.0,100,100,ok
+678,1ok_fUlrjyERK7Jd1J9BXpFGZfUvVquoG6IBor40d18Y,Technical Teams/Engine/Overture Mk1 (Current)/Meeting Notes/S25/Meeting 2.26.24,txt,476,72,1,72.0,72,72,ok
+679,1-TmO2dJFOwtPP6C3Unse5Elwc4Kd7EeDXLIVQx0E6Yw,Technical Teams/Engine/Overture Mk1 (Current)/Master Documentation/Overture Project Document,txt,2069,326,1,326.0,326,326,ok
+680,1HmvuRPL_aKViUnhoD-yykFE-Q_B5CLmmciWb3uFKK0M,Technical Teams/Engine/Overture Mk1 (Current)/Master Documentation/Overture Master Doc,txt,10058,1552,2,806.0,825,787,ok
+681,1N0NkCHb0CARGgSf6taBC108VF8LxvI89bn75OFLX32w,Technical Teams/Engine/Overture Mk1 (Current)/Master Documentation/Overture Spring 2025 Timeline Breakdown,txt,1848,313,1,313.0,313,313,ok
+682,1yxWl_LTWFiZdfoQHffONrhzjcsS6V1lUHmCblVdO-n4,Technical Teams/Engine/Overture Mk1 (Current)/Master Documentation/Overture Project Timeline,txt,2025,321,1,321.0,321,321,ok
+683,1EooaF3LfC9EKRLpP8JaytKVMw88VipaLu4VzJpyRo0o,Technical Teams/Engine/Overture Mk1 (Current)/Administrative/Media/bw_assembly-combined,txt,136,45,1,45.0,45,45,ok
+684,1nmswShCUhOetX35eakF6x1nEkrQ4oyd6ynaCfKiSS4k,Technical Teams/Engine/Overture Mk1 (Current)/Administrative/Templates/OLD/Meeting 4.30.25,txt,1068,165,1,165.0,165,165,ok
+685,12YQXSoK55RV03486mtnLGxQYKPn8xw_8XO_wPD2Mt9Q,Technical Teams/Engine/Overture Mk1 (Current)/Administrative/Templates/OLD/Engine Trade Study Template,txt,429,47,1,47.0,47,47,ok
+686,1KZM8E7VkaxdjrAY6W9eJN56lpBv4IXyVejwQecAPcrg,Technical Teams/Engine/Overture Mk1 (Current)/Administrative/Templates/OLD/Engine Sprint Template,txt,608,66,1,66.0,66,66,ok
+687,1nyIMwmRhjv4bJ1DQ7AYMqNwzKi7pB-ICZt9VaOsO6do,Technical Teams/Engine/Overture Mk1 (Current)/Administrative/Templates/OLD/SCRUM Procedure,txt,1313,215,1,215.0,215,215,ok
+688,1j5K8uQC0zn7vlNnnUop3dsWVgzbq7JlBKA7-N5jPQVE,Technical Teams/Engine/Overture Mk1 (Current)/Administrative/Templates/OLD/Engine Component Template,txt,577,58,1,58.0,58,58,ok
+689,1rEA8AyUrB63nlFnl3i_57FqthM6yRbACP5c4gLtQKX8,Technical Teams/Engine/Overture Mk1 (Current)/Administrative/Templates/Meeting Template,txt,394,54,1,54.0,54,54,ok
+690,1fVqxU9JBzbFzldpvI80Cl1NcM6BiOkC1X_E5nHflpbw,Technical Teams/Engine/Overture Mk1 (Current)/Administrative/Templates/Enigne Procedures Template,txt,436,47,1,47.0,47,47,ok
+691,1NS4vIeqgi8qocpZkyaMiH6aLWmYWGHxXsWx77etCRAA,Technical Teams/Engine/Onboarding/2025 Plan,txt,1663,264,1,264.0,264,264,ok
+692,1DcZ0W5dmbmlHGX7weYoWvYy1167aN31KOiZ7wOmd0Jc,Technical Teams/Engine/Onboarding/Presentations/General Overview of Rocketry,pdf,6025,1002,2,504.5,748,261,ok
+693,1gh8WELj7ZydsDQB6p3p8o2QIcYjmGhhOXmFYwHnsBqQ,Technical Teams/Engine/Onboarding/Presentations/Intro to Ablatives,pdf,3800,575,1,575.0,575,575,ok
+694,1LIrGpIgjVJJxNqqBBjjl-I7T9jDK2eE1d0ffTRu2odY,Technical Teams/Engine/Onboarding/Presentations/Design for Manufacture,pdf,4914,854,2,446.5,768,125,ok
+695,1zYO7W7v6oOEO5z6UZZhgi2at6-uZI1Xt6ODqrf307Ws,Technical Teams/Engine/Onboarding/Presentations/Intro to Fluid Systems,pdf,227,39,1,39.0,39,39,ok
+696,1TAqSk8VbPU-cRM8sUZHy6Ur4asT9N91_RsbQ_dU4R4I,Technical Teams/Engine/Onboarding/LRI Liquid Rocketry Guide,txt,1802,303,1,303.0,303,303,ok
+697,1ufyu8Or1-4IsNv0CJyMir74PUv8uYZ_IJ3kTcz4S5II,Technical Teams/Engine/Random/Meeting Notes/Meeting Slides F24/Engine Intro Meeting - 9/4/24,pdf,2158,318,1,318.0,318,318,ok
+698,1wnjb-v85hx87gjuMb4wvQOPSeq1n7raA2v5hfsNctHc,Technical Teams/Engine/Random/Meeting Notes/Meeting Slides F24/Engine Onboarding I - 9/18/24,pdf,353,56,1,56.0,56,56,ok
+699,1L8wMdHbNgt1Vk3Ypv5uV_v2LRSkMee7d,Technical Teams/Engine/Unity(F23)/1) Fall 2023/Unity/September 2023 Electroplating procedures.pdf,pdf,3002,58,1,58.0,58,58,ok
+700,1DvnLASR7w1iLeHQTIOjS5ufwiALWDEnLE2yeKU2QHhs,Technical Teams/Engine/Unity(F23)/1) Fall 2023/Unity/Meeting notes/Meeting Notes 9/14/2023,txt,94,20,1,20.0,20,20,ok
+701,1ENUzQ2izenfmEPDFyi7HGdjafCi3EKahJvFdxMTivqs,Technical Teams/Engine/Unity(F23)/1) Fall 2023/Unity/Meeting notes/Meeting notes 9/10/2023,txt,2071,337,1,337.0,337,337,ok
+702,1kcweHuWawKdKfovOXQgR44ZXWedjl31z,Technical Teams/Engine/Unity(F23)/1) Fall 2023/Unity/Research/Experimental study on the spray characteristics.pdf,pdf,43727,6969,11,703.55,899,342,ok
+703,1TnQMSdap-Ow46zchRGk26YcfUKtMzwvwf1PjnnwLiJU,Technical Teams/Engine/Unity(F23)/1) Fall 2023/Unity/Presentations/Unity PDR/Unity PDR Open,pdf,8977,1353,2,694.5,778,611,ok
+704,1d8w4m5nFrWC3j6sVxOzUl32CLa3aEgaqTQWT5ptB3EU,Technical Teams/Engine/Unity(F23)/1) Fall 2023/Unity/Presentations/Engine Meeting (08/31),pdf,1470,248,1,248.0,248,248,ok
+705,19UgoK_hgxilEL4N8qIiItbohN4Jgpar9z5TjNdSx_qI,Technical Teams/Engine/Unity(F23)/1) Fall 2023/Unity/Presentations/Pumps Meeting (08/31),pdf,1615,249,1,249.0,249,249,ok
+706,1Ylu6AA5QMIDAPFfPg-YYpuHTXKNZ-69ax1eaH4QxfYo,Technical Teams/Engine/Unity(F23)/1) Fall 2023/Unity/Injector/Injector Sizing ,txt,1182,123,1,123.0,123,123,ok
+707,1LevUqYpUW0wPgoq4QlXRaxSMEH138hNuOAhb8l3JshI,Technical Teams/Engine/Unity(F23)/1) Fall 2023/Unity/Injector/Methalox 500 Lbf Pintle-Impinging,txt,82086,11900,20,731.2,890,371,ok
+708,1iRdGnOSQ5S-NH6C0xl4JgjPmiKLktQTB,Technical Teams/Engine/Unity(F23)/1) Fall 2023/Unity/Injector/Methalox Coaxial Swirl AIAA.pdf,pdf,35802,5783,11,646.91,929,381,ok
+709,1A5rb7cZkUDaDpZB2Sx8i5fyOFK53z-AQ,Technical Teams/Engine/Unity(F23)/1) Fall 2023/Unity/Injector/NASA 2022 Methalox Main Engine Stud.pdf,pdf,23623,3610,8,748.25,887,623,ok
+710,1eNek5Is0VtL2_bJT3OTkQSoZpjDl5bQv,Technical Teams/Engine/Unity(F23)/1) Fall 2023/Unity/Injector/Methalox 500 Lbf Pintle-Impinging.pdf,pdf,84022,12312,20,718.95,886,183,ok
+711,1nvXLnIk1zt9bkGfSy0aJ494m1Qjc77IB,Technical Teams/Engine/Unity(F23)/1) Fall 2023/Unity/Injector/Methalox Injector NASA Stud.pdf,pdf,17566,2589,6,774.17,885,526,ok
+712,1p_lGdhgoTWa7hKUinJlHMspbYXYtWdVKdsREXkqiHkU,Technical Teams/Engine/Unity(F23)/1) Fall 2023/Unity/Regen Channels Manufacturing/Draft #1,txt,630,113,1,113.0,113,113,ok
+713,1T7PQcH2flFh05UEUQweV6tPs-WwBXzY6tL7PYWqDvA8,Technical Teams/Engine/Unity(F23)/1) Fall 2023/Unity/Regen Channels Manufacturing/Regen Channel 5/24,txt,1093,190,1,190.0,190,190,ok
+714,1xCMMmQnqh5VE8LPaLR_Uxm3y3Kiteny8LIN_-MxF_YU,Technical Teams/Engine/Echo (F23-S24)/Echo Design Review,pdf,12144,1869,3,715.33,871,512,ok
+715,1pNIr9SfwKBhMUHBO2sLHoIwbR3fj0mbToC6x-hSgykU,Technical Teams/Engine/Echo (F23-S24)/LRI ENGINE DOCUMENTATION,txt,24744,4267,7,682.0,890,150,ok
+716,1fKngMF4QpcBH-8cWLsIPl-nxpXueEI0InrgNJTGBgR8,Technical Teams/Engine/Echo (F23-S24)/Echo Design Review Parameters Cheat Sheet,txt,630,115,1,115.0,115,115,ok
+717,13WyDhIiGims2GCgZbDwP0pMnp41pH-Ms,Technical Teams/Engine/Echo (F23-S24)/code/CEArun_echo_01/02/24.pdf,pdf,19256,2524,4,646.75,786,285,ok
+718,1xaeaGVfFXeUDRcOWKZQVpxjjl-QovsIt,Technical Teams/Engine/Echo (F23-S24)/code/**OUTDATED**Echo CEArun file.pdf,pdf,18090,2383,4,740.0,750,732,ok
+719,1Cr-pQxFz8Wcc6Vc49nWstNV9jOuvMkMaCUwqsraW-nQ,Technical Teams/Engine/Echo (F23-S24)/documentation/Chamber Documentation - Echo,txt,2436,416,1,416.0,416,416,ok
+720,1LkQJVQVkCfbqSP2wzL4kwkzgdU1xAnzBHqdN32nE6Jc,Technical Teams/Engine/Echo (F23-S24)/documentation/Seals/O-rings,txt,898,156,1,156.0,156,156,ok
+721,1iGqGl5XbyqXvHHQhQu_VFSbXx9r6uaYHPulVWm5BSJE,Technical Teams/Engine/Echo (F23-S24)/documentation/Injector Documentation - Echo,txt,4596,866,1,866.0,866,866,ok
+722,1Pe_802Hio79st1S9znX5CWM0xSYdnXswuTP6Rf8ls60,Technical Teams/Engine/Echo (F23-S24)/meeting docs/01/04 Meeting,txt,1276,216,1,216.0,216,216,ok
+723,1SsXQ-Uz97GdMl68Qs69Rx2BaLSDfxnwuKn3Efa9uyQA,Technical Teams/Engine/General Resources/Tent Materials + Procedure,txt,6719,830,1,834.0,834,834,ok
+724,1SNc-sJlR71JL1h7uEguEWJYj7rXc648Nj61UumAeDq0,Technical Teams/Engine/General Resources/9/2/25 Test Site Clean Tent,txt,1027,146,1,146.0,146,146,ok
+725,1DgjT57CQBhBFWKtG0qGnDk7T48sKeI-z,Technical Teams/Engine/General Resources/injector/Zhao et al. - 2022 - Review of atomization and mixing characteristics o.pdf,pdf,107598,16482,24,693.38,997,158,ok
+726,1aj4TkByVURA18PgkkEGHKWZkhkmmxZxv,Technical Teams/Engine/General Resources/injector/Lee et al. - 2021 - Effects of skip distance on the spray characterist.pdf,pdf,44957,7699,12,747.25,900,193,ok
+727,1g04wlHqaFz1pQkQJYHJ1NH-sKWCcbvgk,Technical Teams/Engine/General Resources/injector/Yu et al. - 2017 - Combustion Performance of a Pintle Injector Rocket.pdf,pdf,14757,3266,6,723.83,888,548,ok
+728,1EYBaxcKKBVW1dTDkAaNpm5t_4ytLAuhA,Technical Teams/Engine/General Resources/injector/Erkal - MIDDLE EAST TECHNICAL UNIVERSITY.pdf,pdf,99021,14742,22,772.77,895,599,ok
+729,1zuse7_u2ENRZakyPUtgzGTgOnSznkbBq,Technical Teams/Engine/General Resources/numerical analysis/notes/tables/Table_IC.pdf,pdf,399,47,1,47.0,47,47,ok
+730,17dgjVpkdV57LJaE0ZIPaOz1IJ2LMOYQo,Technical Teams/Engine/General Resources/numerical analysis/HH Heat Transfer.pdf,pdf,24235,4122,7,694.29,834,579,ok
+731,1En_TXxUtD78ppUTNQCPQMRuMwg6Q39Gd,Technical Teams/Engine/General Resources/numerical analysis/Heat Transfer Lecture.pdf,pdf,115973,20649,30,756.5,874,626,ok
+732,1yWiCM77gazGyO4ntMrTcYEK24xzL6MPZ,Technical Teams/Engine/General Resources/numerical analysis/RPE Heat Analaysis.pdf,pdf,86917,11467,28,722.57,892,435,ok
+733,1_T3KLVcmO5y4c1YRgdacDKUBw6W3exjDEjK94tjDFRQ,Technical Teams/Engine/General Resources/numerical analysis/Regen channel numerical simulation,txt,4781,710,1,710.0,710,710,ok
+734,1SSyBDO-J5hM48RLHGMod8Jj7oF2Reyrh,Technical Teams/Engine/General Resources/numerical analysis/general cooling design/SazonovGleb2021.pdf,pdf,52490,9114,17,740.76,873,637,ok
+735,1NXXjHC9Aisgu-ACXlxxs59QARo0VGf7_,Technical Teams/Engine/General Resources/numerical analysis/general cooling design/Merkle and Sankaran - ANALYSIS OF REGEN COOLING IN ROCKET COMBUSTORS.pdf,pdf,19960,3186,6,639.5,872,421,ok
+736,1HcsCoHVgybD9Bxy2ohJ0wKwwsS0BV3HQ,Technical Teams/Engine/General Resources/numerical analysis/general cooling design/Zhang et al. - 2007 - Numerical Study of Film and Regenerative Cooling i.pdf,pdf,36425,6278,14,706.07,863,472,ok
+737,1MdPM1HvfcXgxjTb3LdjMvQm7BG4_hV_p,Technical Teams/Engine/General Resources/numerical analysis/numerical analysis of regen/personally prefer/Comparison of High Aspect Ratio Cooling Channel Designs for a Rocket Combustion CHamber With Development of an Optimized Design.pdf,pdf,91343,13357,22,777.86,899,635,ok
+738,1saEhyyvdtA47W_nQ2iT9GGw_hy6G71oM,Technical Teams/Engine/General Resources/numerical analysis/numerical analysis of regen/Song et al. - 2021 - Study on the heat transfer characteristics of rege.pdf,pdf,45809,8023,13,654.92,930,120,ok
+739,1NYMo20C-PGB1-w6129ukF8pj8cSdvMzp,Technical Teams/Engine/General Resources/numerical analysis/numerical analysis of regen/Naraghi and Technologies - A COMPUTER CODE FOR THREE-DIMENSIONAL ROCKET THERM.pdf,pdf,175196,28309,42,727.05,840,166,ok
+740,13sp-ppTJZH0tnf7f8dyP9NJmlCXLHTHt,Technical Teams/Engine/General Resources/numerical analysis/numerical analysis of regen/Ulas and Boysan - 2013 - Numerical analysis of regenerative cooling in liqu.pdf,pdf,32963,5482,10,697.7,808,400,ok
+741,17K45wuhfLM4JQH6ZVHYdhP_9HXwxCnIT,Technical Teams/Engine/General Resources/numerical analysis/numerical analysis of regen/Betti et al. - Development of Heat Transfer Correlations for LOX.pdf,pdf,40136,6668,11,709.0,883,406,ok
+742,1OJlW7k6srx_BPBiOx5sKIxHhh17FyzNg,Technical Teams/Engine/General Resources/numerical analysis/numerical analysis of regen/Cardillo et al. - 2014 - NUMERICAL SIMULATION OF A LO2-CH4 ROCKET ENGINE DE.pdf,pdf,39253,6184,10,720.7,842,565,ok
+743,1Ob50J9OQQMLg1At4VV6ene9gmoO6gkOc,Technical Teams/Engine/General Resources/numerical analysis/numerical analysis of regen/Pizzarelli et al. - 2014 - Cooling Channel Analysis of a LOXLCH4 Rocket Engi.pdf,pdf,39187,6231,9,692.33,883,431,ok
+744,1z9dMt4usQ5qzymVtdxW0MShSk8mitfd4,Technical Teams/Engine/General Resources/numerical analysis/numerical analysis of regen/Leonardi et al. - 2019 - Analysis of thermal stratification impact on the d.pdf,pdf,50171,8273,13,651.38,900,187,ok
+745,1RNapZS2HmG1uYDqrRJIgCCoFdWmzShg3PHZ1ODskKmI,Technical Teams/Engine/General Resources/Electroforming/19660014566,txt,124236,20955,25,838.2,900,216,ok
+746,1MUnxivQVZiXmpyEr3fdIdBQrwTk4BvM8,Technical Teams/Engine/General Resources/Electroforming/NickelElectroplating.pdf,pdf,88373,13567,24,729.33,899,385,ok
+747,1D7VEewM8TrzYCXn8C-bp4VFtmEtTRgyP,Technical Teams/Engine/General Resources/Electroforming/Boric Acid SDS.pdf,pdf,14028,1404,2,800.0,821,779,ok
+748,1uMi1St8xMuRDKJ6JzLFHWpV76LQ09fZ-,Technical Teams/Engine/General Resources/Electroforming/NCKL-II-SULFAMATE-50--WW-AQ-1L.pdf,pdf,15688,1587,3,666.0,887,280,ok
+749,1syLRfk5sD2-7Y082ROPygSL6tpUOeOYT,Technical Teams/Engine/General Resources/Electroforming/NASA Hot Oil Dewaxing.pdf,pdf,22805,3666,6,658.67,897,435,ok
+750,106Aacc8_gmFGh--rGXLPCyRNssz4dUaJ,Technical Teams/Engine/General Resources/A Numerical Approach to Optimize the Design of a Pintle Injector for LOX_GCH4 Liquid-Propellant Rocket Engine.pdf,pdf,41974,6670,11,683.18,895,135,ok
+751,1xhM_TIZrrF6ZWSMxtd1N9yZKeGR14pcd,Technical Teams/Engine/General Resources/How to design rocket engines.pdf,pdf,78593,11491,20,770.0,875,409,ok
+752,1GIt9xVSv6rnP71THbJvHri64wfytMU84uT52WlVyDCo,Technical Teams/Engine/General Resources/Regen Cooling/PINEAPPLE (LiBREX) Documentation,txt,2574,410,1,410.0,410,410,ok
+753,1rcSONXlJ-YRYmZ613FxBy3H2JF-HuUHE-F9T3YIw31I,Technical Teams/Engine/General Resources/Regen Cooling/Ian Salamon meeting notes,txt,2941,484,1,484.0,484,484,ok
+754,1xn8QhNfg4hDauJisxcd7FynIRE9JeMQ9PdyN9CV4eaA,Technical Teams/Engine/General Resources/Regen Cooling/Kamon meeting notes,txt,97,15,1,15.0,15,15,ok
+755,11njWle_7BE5x73UDLMErqs1VAw-IVCha,Technical Teams/Engine/General Resources/List of Propulsive Landing Resources.pdf,pdf,4116,583,1,583.0,583,583,ok
+756,1AG2G-o9SDb649yJtmsH-wUZcpo92553Z1YxhOSXtWL4,READ ME: Organization and Forms/Drive Organization 101,txt,1496,243,1,243.0,243,243,ok
+757,1KIqZM3fLJBptBuY_LLIISReNvOzUD5aQqW5nSKJepbU,READ ME: Organization and Forms/LRI Waiver 2025,txt,2082,286,1,286.0,286,286,ok
+758,1InIvtecN0zTdafN4M2hLyaYzWNSRc9qdjDF3_VtzJkQ,Executive Teams/OPEL Improvement Plan,txt,822,142,1,142.0,142,142,ok
+759,1cClEjkPCgAfEntTaVecogyPnX-MkyNcXAIYzhhmvXkA,Executive Teams/Admin Team '24-'25/Colors,txt,153,20,1,20.0,20,20,ok
+760,1WszkGz-NzBz8sGdl12zZpisI6lPj3xeu,Executive Teams/Admin Team '24-'25/Merch/Stickers.pdf,pdf,275,50,1,50.0,50,50,ok
+761,1pME6u3e92PcvIZ12fhC-E5mth77YS1pOQerWvXeKqkc,Executive Teams/Admin Team '24-'25/Merch/Tshirt materials,txt,2007,15,1,15.0,15,15,ok
+762,1PsALkV9X1YivUGJxEG56EGA-cjA8YQes,Executive Teams/Admin Team '24-'25/Newsletters/lri newlsetter issue#1.pdf,pdf,4586,693,1,693.0,693,693,ok
+763,1W9bLFXmBxI2sxaBCAUvRTWOFCC6mD3DKiSsAiFoRT90,Executive Teams/Admin Team '24-'25/Website/Website Task Masterdoc ,txt,4256,750,1,750.0,750,750,ok
+764,1o6uZr8GqTdevd6ukEqjxPcybajWt0_dlQyMRgyZPL_Y,Executive Teams/Admin Team '24-'25/Website/Tech Team Summaries (Spring 2025),txt,10667,1645,3,610.67,804,265,ok
+765,1-aFrqbt5lFtvAPTDImXvEndLesa7k-b0,Executive Teams/Admin Team '24-'25/Website/LRI Sponsorship Packet Fall 2024.pdf,pdf,11805,1829,4,697.5,857,558,ok
+766,1_Awwj9vW8LkomrIpiYBOuKEML2G0WB6L9riQmk8KMPQ,Executive Teams/Admin Team '24-'25/Social Media/Collins Video Planning,txt,1503,259,1,259.0,259,259,ok
+767,1TB3Hiv-tdPNV3h4k8p0s9gEyWDUCFXciDq0EHqoAQOk,Executive Teams/Admin Team '24-'25/Meeting Slides/General Meeting 1_ 10/27/2024,pdf,4394,753,1,753.0,753,753,ok
+768,12k3-s5ycG7NjChrwgKjVNo_FW-NsMcl-vR89o1Om-aY,Executive Teams/EOH/EOH application ,txt,3377,543,1,543.0,543,543,ok
+769,1sTkf5heCYYtTOxINrQ8vapyaq_HDJ5WfYLQ1kqEXEaY,Executive Teams/EOH/HITL/Gen Meeting 6,txt,1621,283,1,283.0,283,283,ok
+770,1lmQ8mpcz2PuMUOeJdJfdzdurmZcbUGslYqvxSnPfAig,Executive Teams/EOH/HITL/Gen Meeting 5,txt,3016,498,1,498.0,498,498,ok
+771,1Duj92OeBKhW9DMJJQAg56kjdlGGO_q59-aAOvJ6HvC4,Executive Teams/EOH/HITL/Gen Meeting 4,txt,1627,304,1,304.0,304,304,ok
+772,1ky5NqJQ2icdfiaGQ58i5IU0Xcpax3sNGiK7CWzflNC0,Executive Teams/EOH/HITL/HITL Meeting 3,txt,2413,418,1,418.0,418,418,ok
+773,1UySfle9SGRvVaftp6MRwfu1D-OyD56jPFQR0_Lq3fWs,Executive Teams/EOH/HITL/HITL Meeting,pdf,1659,288,1,288.0,288,288,ok
+774,1J-BSi2VBLryVs-iYKyq823lyGb094j_i6mZ8VjSngpw,Executive Teams/EOH/HITL/Agenda for meeting ,txt,2358,365,1,365.0,365,365,ok
+775,1ix8TLv5otkSgBFeLZFnTuQ1hq1mbt2ysg_G5rCxVgFA,Executive Teams/EOH/HITL/HITL Meeting 2,txt,942,160,1,160.0,160,160,ok
+776,1Ctgcbiw46BmABgt8HBwUo2PCvpK8nbG41UltOJpOXA8,Executive Teams/EOH/HITL/Resources ,txt,116,20,1,20.0,20,20,ok
+777,1GGOCMKohB5LR8it7M46pzJlVUP5WTvjkRSq_dlaa8bE,Safety/LRI Safety Measures,txt,724,126,1,126.0,126,126,ok
+778,1hwsZkiQskNVnyI98z_i4e04jnP-5c-3Zo226jiXsVuU,Safety/Test Readiness Review/Professor Research,txt,746,108,1,108.0,108,108,ok
+779,12504780u3bYd5_svWc6T9Qhk5tSqUBkoH9IziecW-1M,Safety/Test Readiness Review/Cecil Presentation,pdf,390,59,1,59.0,59,59,ok
+780,1_xmBQlxxOqGBrL5qIk8_tMBsDhZ_7FBYPqnD8TqxDDE,Safety/Go-nogo/Go-nogo Documentation,txt,1690,277,1,277.0,277,277,ok
+781,1VurKa1NMlgnuKNR7qGxuG1QadzSQW6MNDtfuDhh78CI,Safety/1 Safety Team Charter 2025,txt,4850,798,1,798.0,798,798,ok
+782,1yxrarmMzC4IHoqX65fNKXPJxAl9MA0Du5OfBK6pFcXg,Safety/Source of Truth (SoT)/Source of Truth Guideline,txt,11359,1792,3,608.67,904,150,ok
+783,16xUtA-l3iXx27ycYaARMVBJnLyKH0GNq,Safety/Source of Truth (SoT)/More Info/PR1-P Swagelok manual.pdf,pdf,142919,24021,47,750.15,893,533,ok
+784,1u7vyfQ85_kZIQERBQzyVgxK3rT1WqnG6,Safety/Source of Truth (SoT)/More Info/PR1-P Ebay info.pdf,pdf,7431,1020,2,510.5,584,437,ok
+785,1FKnRBrjV7SM_9so89a74TjK0PnaXz9esT8swC2-lhkc,Safety/Random notes/NASA RIDM Notes,txt,11641,1643,3,570.0,725,360,ok
+786,1QLKRnCn6BiqSdavI1y-gs2svHPVOjObVDnw7-qa4o0o,Safety/Random notes/Should we keep our purge system?,txt,5096,902,2,513.0,816,210,ok
+787,1ZjXq0Im_yvjRaWRwqH8xKq6KQvA4SYOlGSJtJkXi100,Safety/Random notes/Pumps safety meeting,txt,977,194,1,194.0,194,194,ok
+788,1EfdgyHFbhR7EfP9Mx2TLPyDwE0wM2UUgjQzGm5jOTuQ,Safety/Random notes/316 and 316L Cryo Tensile Strengths,txt,849,73,1,73.0,73,73,ok
+789,16VAYKXDUlXaNTnGDBe6iyrfzaLf8OkFHd4e-LC4PN9s,"Safety/Announcements, Notices & Posters/Notes from meeting with prof. Smart",txt,1527,289,1,289.0,289,289,ok
+790,1g1iC05xbIxnVQpUgCam5O5V92eGhzbtrFQzS_CpEo-k,"Safety/Announcements, Notices & Posters/Prof Smart presentation",pdf,783,140,1,140.0,140,140,ok
+791,1TTvr-clQPGeNvCtvviEpR-BijsmnIIFuIp9iGzWJV3U,"Safety/Announcements, Notices & Posters/Tube bending safety guide",txt,336,59,1,59.0,59,59,ok
+792,1lOevV9fFzTMES5veqsUfGRYB2-Ww58H7xzKGJgl6N7I,Safety/ZZ Outdated/Preliminary planning for safety team,txt,5888,987,2,724.0,866,582,ok
+793,143jcifOtOSoy-SYg1Stglej_9JRXa8hPOhJNhDjnlAE,Safety/Safety Guides and Info/Spring Plans ,txt,171,27,1,27.0,27,27,ok
+794,1rw7ujCp5zIoL_Q2FK_8TPotfFhXe3OffY98YO1npaLU,Safety/Safety Guides and Info/DP1 Reflection,txt,1858,345,1,345.0,345,345,ok
+795,1eGrKgPpfuhxc32s2jcuYQ7fkBElwmoH6,Safety/Safety Guides and Info/Material Properties/316L Stainless Steel at Cryo Temps.pdf,pdf,46057,7188,10,759.6,953,404,ok
+796,1t2ekm_U5cOFY6XdxzF3M4a28zzUFpEar,Safety/Safety Guides and Info/Material Properties/316-stainless-steel-chemical-compatibility-chart-from-ism.pdf,pdf,31952,4761,7,706.29,787,326,ok
+797,19vL6U3cb79wtdSIybXE49xjhUpWw6OW3,Safety/Safety Guides and Info/Material Properties/Development_of_Mechanical_Properties_of_Stainless_.pdf,pdf,83057,13169,25,719.88,885,139,ok
+798,142QF-dIiJjXPtEJghDiZ8Kszgu--c1Z3,Safety/Safety Guides and Info/Material Properties/Mechanical Properties at Cryogenic Temperatures - Penflex.pdf,pdf,3368,554,1,554.0,554,554,ok
+799,1bgm3kT9hyhL19B_9l4niZ3ZsJn4yaJMY,Safety/Safety Guides and Info/Material Properties/SS316_316L tensile strenght.pdf,pdf,7653,1149,2,612.5,763,462,ok
+800,16BWCvBLX4TYg18ggmAynB40EBU2gIzi-,Safety/Safety Guides and Info/Material Properties/Elastomer Properties.pdf,pdf,3889,582,1,582.0,582,582,ok
+801,1WO64yttDdX6g_Xi67kJKvoPF9VYz1emf,Safety/Safety Guides and Info/Material Properties/EB-2002-Seat-Seal-Matl.pdf,pdf,7641,1156,2,602.5,706,499,ok
+802,1Rsq1XyJtYXXq7fjeI9jvfWhkNe5bGxfG,Safety/Safety Guides and Info/Metal-to-metal seals/SA-DC##190018 382..396.pdf,pdf,81212,12459,19,701.63,908,135,ok
+803,1NlA5k4_uvOK53gqaLuczGdSNPoaeXCmo,Safety/Safety Guides and Info/Metal-to-metal seals/Literature Research in Relevant Fields to Understand Pressure Relief Valve Leak Tightness in a Static Closed State.pdf,pdf,34469,2354,5,731.2,839,639,ok
+804,1MgEcRJvP3eTcgc5WKYFO0B1y6vuTxbF7,Safety/Safety Guides and Info/Metal-to-metal seals/Modelling of leakage on metal-to-metal seals.pdf,pdf,38245,6401,9,711.22,897,165,ok
+805,1ZdsIhPpT5dRwI9yC87Y4sWanmFaCiexC,Safety/Safety Guides and Info/Go no go flowchart.pdf,pdf,24822,4059,8,651.62,848,430,ok
+806,1eQwd6KeA910hpOgRwgyfpoI9MQTXp5yxpZx5XIhcCSo,Safety/Meeting notes/2025 4/11 Meeting Notes,txt,1962,320,1,320.0,320,320,ok
+807,1rAwYl4yvCVSfBniRNf7SaRbH7mH5OkOp-rV2yTWo9OM,Safety/Meeting notes/2025 3/07 Meeting Notes,txt,3215,542,1,542.0,542,542,ok
+808,1jwmzQT3abjrqmhbAj0C5x1-HZVoGZ5Ei1myzCPds_SU,Safety/Meeting notes/2025 2/28 Meeting Notes,txt,3465,565,1,565.0,565,565,ok
+809,1NX9ypLHIvUs_WJJ6sBrNqUgNsScV4YITAo7RgE11u2A,Safety/Meeting notes/2025 2/14 Meeting Notes,txt,3056,507,1,507.0,507,507,ok
+810,18Nw_uTXdUUVByMbVtFatYTtl5QFeBQnHj3RsPNmQgZs,Safety/Meeting notes/2025 1/31 Meeting Notes,txt,4636,747,1,747.0,747,747,ok
+811,1E5SGs0vufoOrJhhtCSNtM7HH586wJA48Pn7eDfkla7E,Safety/Meeting notes/2025 1/25 Safety Onboarding SP25,pdf,1345,209,1,209.0,209,209,ok
+812,1HZO-01xUr0qwrQQr5IzYn8XECfNPSmD4r-zqWWvB664,Safety/Meeting notes/2025 2/7 Meeting Notes,txt,1464,235,1,235.0,235,235,ok
+813,1edjf_-ka2Z03DV-XHXca-PQwq-ppR6wW4SDpmzSH-y8,Safety/Meeting notes/2025 2/1 Meeting Notes,txt,1940,320,1,320.0,320,320,ok
+814,1JmuJ0cKBzP80oijlVIkLjZpgWXvqHKJn1uqphsHmlU8,Safety/Meeting notes/2025 1/25 Meeting notes (from zoom recording),txt,488,78,1,78.0,78,78,ok
+815,1pI2qeRp1zWdUj8GLNQE2Efg5_BWg2Brl_EKzxNbBQJw,Safety/Test reviews & reports/Testing/Test report/4/18 Test Report,txt,1669,302,1,302.0,302,302,ok
+816,1blQSwCnlMmaLk57FeVPHzkQotwg1e_gkthDvo2u4kuM,Safety/Test reviews & reports/Testing/Test report/2025 04/16Test Report,txt,2193,393,1,393.0,393,393,ok
+817,1zzi_7rT6i2jP7jN3Wfaq9-kIL3mSDql0SIUBP9sg3EQ,Safety/Test reviews & reports/Testing/Test report/4/6 Test Report,txt,2030,373,1,373.0,373,373,ok
+818,1GFnQudOJRdiVoQQP4oKPwR6eas23Xt6zCEkKy2MiSbw,Safety/Test reviews & reports/Testing/Test report/4/8 Test Report,txt,207,36,1,36.0,36,36,ok
+819,1V-5efHjMWJ_p4adZRP8H4LLRbw6A5sKqMNLvmgFP6AQ,Safety/Test reviews & reports/Testing/Test report/2025 04/06 Test Report,txt,5597,992,2,519.5,737,302,ok
+820,16MtKrknLDuI4eCjluSy1pAyyirn9byiHBcIiMwHXy3A,Safety/Test reviews & reports/Testing/Test report/2025 04/03 Test Report,txt,1994,349,1,349.0,349,349,ok
+821,1jhAYVnM2ntDz-Dv2wWZjCOqxO6CqUV5WmCzAAytU8bQ,Safety/Test reviews & reports/Testing/Test report/2025 4/3 Testing Report ,txt,533,95,1,95.0,95,95,ok
+822,17FHOARzkjwi3J_xJ9idwUa7hZwypgHlBwEzPA_-PG4k,Safety/Test reviews & reports/Testing/Test report/2025 3/25 Testing Report,txt,1834,336,1,336.0,336,336,ok
+823,10Kp3Wpq-_vnCpBKcFwIaU3bmSA0YNSCureH9YRzZedY,Safety/Test reviews & reports/Testing/Test report/2025 3/27 Testing report,txt,3022,536,1,536.0,536,536,ok
+824,1JqtbiKxTi2PjZbdxwwV6I-ZAEK4060nbtaOQZUDv4JQ,Safety/Test reviews & reports/Testing Outline & Procedures Template,txt,2924,468,1,468.0,468,468,ok
+825,14wDF4FdxsfJmSEwN8jkHEjQfquBXtq8nC6lpKt1v3ss,Safety/Test reviews & reports/Ablative/CHAMBERSAFE ablative safety review,txt,1630,246,1,246.0,246,246,ok
+826,1UU4QO92ZNnIMdXAHhBeJyTyC1UYgLvPk2JTxkvEhyEQ,Safety/Test reviews & reports/Ablative/Ablative testing procedures safety review 11/26/2024,txt,1346,215,1,215.0,215,215,ok
+827,1lI6CfclCrOtINjvjArAa3MYXvttyh_RT,Safety/Test reviews & reports/Ablative/CHAMBERSAFE — Half Cat Rocketry.pdf,pdf,10796,1772,3,648.0,835,323,ok
+828,1K_MuBdRY6q0G8Iy_iQZ6XueH4SAfjJmdx3LS4FI9hyg,Safety/Test reviews & reports/Ablative/Ablative casting procedures safety review 11/26/2024,txt,1388,219,1,219.0,219,219,ok
+829,12pwu8raHW2vFukpZ216rmzYc1fNFWAUpv2pgYCp5rCA,Safety/Test reviews & reports/Ignition/Test report/2025 03/26,txt,63,10,1,10.0,10,10,ok
+830,1AtjLxVUPfVNNedd_yxgRck7gC7KuzoIV27JIcCTcZe0,Safety/Procedures/Liquid_Oxygen_Cleaning_Procedures,txt,12641,2659,4,753.75,898,357,ok
+831,1mCib6apN3S9QeYRQQpCtCrpMKcliacj8,Safety/Procedures/Liquid_Oxygen_Cleaning_Procedures.pdf,pdf,12621,2681,5,666.4,898,369,ok
+832,1c45mzMLtheK9J7cN6yl01ZDX7NHxmXS5T0nPav_w8bg,Safety/Procedures/Shutdown procedure,txt,676,96,1,96.0,96,96,ok
+833,10-ugeV85A7M2FnMVokO4Glz2TPilNh4I,Safety/PPE/psd-rsp-respirator-selection-guide.pdf,pdf,121405,15168,28,723.64,864,323,ok
+834,1pnRcBvZz1DwulzxzEQLFuLrcxAX4ccaFvdezCykWMc0,Safety/FMECA/Framework & Complexity analysis for FMECA,txt,2115,359,1,359.0,359,359,ok
+835,1ZF-sfAICzGNWWgkwxrp21m_ElITWFI98-Z3fbRNbFGE,Safety/FMECA/Component Failure Modes,txt,13636,2232,3,744.67,768,728,ok
+836,1tsKr-nh73m-cqAC4QT127NtnFTiA2sjPtkQ12HAXmbs,Safety/FMECA/SRD FMECA/Regen FMECA/Failure Mode List,txt,1103,177,1,177.0,177,177,ok
+837,1-LgBpyQ8_aj98cuxLxd7o6qZooEVqRL7gMcBVOU7SVw,Safety/FMECA/SRD FMECA/Regen FMECA/SLD-Analysis Ranking Explanation,txt,3263,496,1,496.0,496,496,ok
+838,1_DvPO-3Md4ItEqtSPtOoLrWAAmLFx725Ue0vIWvOd4Y,Safety/FMECA/SRD FMECA/Regen FMECA/FMECA Chamber,txt,3279,539,1,539.0,539,539,ok
+839,1QKqQSPITqtcyUNrs3euvWEkaHETU-Q_E,Safety/FMECA/Test Stand FMECA/LRI System Overview.pdf,pdf,13155,2105,4,658.0,819,513,ok
+840,1j8PM0Ra7VGrA4cse63eFzh7Y73HsQ_8sPrqkHDJzFgA,Safety/FMECA/Test Stand FMECA/LRI System Overview,txt,3722,591,1,591.0,591,591,ok
+841,1AQ3x5PFM0QhMeLOBOzYaaPAMGO0t4t4hdBenp0bN0c0,Safety/FMECA/Test Stand FMECA/2025 GRUNT Hotfire Packing List,txt,105,23,1,23.0,23,23,ok
+842,1IMrf7lX00NGIvWL1XHEmAEud4_JhuqUc-eY31aULtwk,Safety/FMECA/Test Stand FMECA/Electronics FMECA/Corrective Actions/INT-ELC,txt,3538,603,1,603.0,603,603,ok
+843,1aozqbXd0sLwZGB6rb3o05f90A_77G0QTeFI2JlegEE0,Safety/FMECA/Test Stand FMECA/Electronics FMECA/Corrective Actions/BAT-ELC Corrective Actions,txt,2635,460,1,460.0,460,460,ok
+844,1gRPdWj4lA-LO6dkkbEFRgGQkS0CzUTAI1YyVhJ-5V-E,Safety/FMECA/Test Stand FMECA/Electronics FMECA/Corrective Actions/ARD - ELC Corrective Actions,txt,5057,847,1,847.0,847,847,ok
+845,1nMc6ad__IZY4yodzmtJASUyP3smvCYstvuPfCqgbMag,Safety/FMECA/Test Stand FMECA/Electronics FMECA/Corrective Actions/ADC-ELC Corrective Actions,txt,3592,632,1,632.0,632,632,ok
+846,1KHDEMt7xJDg1AGNk2qjt_4DvYOwNJuPriZlCXKKygTc,Safety/FMECA/Test Stand FMECA/Electronics FMECA/Corrective Actions/AB-ELC Corrective Actions,txt,6041,1026,2,547.0,750,344,ok
+847,1tcZ9a5kL_J1CzdweqnYerXyKzU3gGUWC125pWGVybj8,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Component Testing,txt,8551,1489,2,744.5,998,491,ok
+848,1UL1xO3h1hQistUbfgcIytadkbRu8tDdRggfGINxcC_s,Safety/FMECA/Test Stand FMECA/Fluids FMECA/TO BE ADDED to Fluids FMECA,txt,1262,213,1,213.0,213,213,ok
+849,1Z_Gil_WMnmts98886N0lMc4if0MhqAKbJVg7KcdP0h4,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Misc/Outdated/Interfacing Type and Failure Mode,txt,1298,198,1,198.0,198,198,ok
+850,1lWc9-Z1v027xKlXnjkOcSl_BtJo33VLRnXQzTxaRWIw,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Misc/Outdated/LRI FMECA,txt,2347,343,1,343.0,343,343,ok
+851,18G7bTLeIz3gPHrvWkLH38FpP_Da6Cu9oytXsrtSmpk4,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Ignition Subsystem/Corrective Action Documents - Ignition/SS-IGN: Corrective Actions,txt,1356,224,1,224.0,224,224,ok
+852,1XnVeCIRZJ2EgPABqV8nuNQsfl-K06tkpZtsG3bvUyG4,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Ignition Subsystem/Corrective Action Documents - Ignition/EM-IGN: Corrective Actions,txt,2081,333,1,333.0,333,333,ok
+853,1b82NMc6SGuyqgfg-TfMhkREFo3KlAAHmKLpMmsBdgBQ,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Ignition Subsystem/Corrective Action Documents - Ignition/SM-IGN: Corrective Actions,txt,943,150,1,150.0,150,150,ok
+854,13lp9-tHBnQhihftsFItb88Vaphl_LDEgf21R9ZE7w8Y,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Ignition Subsystem/Corrective Action Documents - Ignition/BW-IGN: Corrective Actions,txt,1464,240,1,240.0,240,240,ok
+855,1kc1J1NIomvdZpmMY_cAFCW_f64OIXS4bBFGpP3jpIng,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Dewar Subsystem/Corrective Action Documents - Dewar/FV-DWR Corrective Actions,txt,826,149,1,149.0,149,149,ok
+856,1Fqu32woGw6HoGgZen-gt3j_Qg3G_vE9_sllBhQicN-Y,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Dewar Subsystem/Corrective Action Documents - Dewar/DV-DWR Corrective Actions,txt,936,162,1,162.0,162,162,ok
+857,10Rn3HkSgH61_9qWs3s-oZMMHNRHOefa0_lFOVA4OJS8,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Dewar Subsystem/Corrective Action Documents - Dewar/Dewar Transfer Hose Corrective Actions,txt,481,79,1,79.0,79,79,ok
+858,1BkQzV60yBNmooxRQJ6zWJvFyqwKZZjAKDmlYZJkaIcg,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Dewar Subsystem/Dewar Information/Dewar Checkouts and Handling Instructions,txt,4213,763,1,763.0,763,763,ok
+859,1PhvUugGyZJFO_gLQGJMk2T-EVYqovl4jFvD9wO71QR8,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Dewar Subsystem/Dewar Information/Additional Resources,txt,1676,161,1,161.0,161,161,ok
+860,1B-Yol1l4u4k5FxigbL148mp8X7-JpmE7,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Dewar Subsystem/Dewar Information/liquid-nitrogen-valve.pdf,pdf,3116,496,1,496.0,496,496,ok
+861,12aruZKDsowfsA49ux-8hSRysFhjuwwVi,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Dewar Subsystem/Dewar Information/900-13-079-US-safe-handling-of-cryo-liquids-safetygram-16.pdf,pdf,21366,3315,7,619.0,859,293,ok
+862,1pvjffVM_jiKnsA3PhQAi1XiVnbf0jV2h,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Dewar Subsystem/Dewar Information/Liquid-Nitrogen-FAQ.pdf,pdf,4860,877,2,461.0,734,188,ok
+863,1phhMxc1FcIt6liCIXT3EvA9jgFMncND1,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Dewar Subsystem/Dewar Information/LN2 fill process for Dewars SOP.pdf,pdf,3298,624,1,624.0,624,624,ok
+864,1ZZzILYvjDoP_isomCE3212r8zh0v0lB3,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Dewar Subsystem/Dewar Information/Oxygen _ Linde formerly Praxair.pdf,pdf,1676,259,1,259.0,259,259,ok
+865,1aDuPtUTumZj-7Hfm681M6q3-mIskshfWOq9xW949f-o,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Propellant Subsystem/Corrective Action Documents Propellant/MBV1-OX-PROP Corrective Actions,txt,1238,195,1,195.0,195,195,ok
+866,1w0n4-5YqUWyfngpVnPK3XsN0km7xyYRyKOZ2Le825U0,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Tanks Subsystem/Corrective Action Documents - Tanks/FBV1-OX-TNK Corrective Actions,txt,4250,738,1,738.0,738,738,ok
+867,1yGWxR95xJLQjnCwyCTHOG2vLaPGiYo_pvL1YbXhi65U,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Tanks Subsystem/Corrective Action Documents - Tanks/PT4-F-TNK Corrective Actions,txt,1912,319,1,319.0,319,319,ok
+868,14jBKlfjZytkSHvFp0mdpL9FyPbFoB5EdvIt3iHmXWas,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Tanks Subsystem/Corrective Action Documents - Tanks/T3-OX-TNK Corrective Actions,txt,4273,702,1,702.0,702,702,ok
+869,1uB1lgLm6zsu_h08NI4ECVK3eDe4z384ePEKEWNi-IAA,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Tanks Subsystem/Corrective Action Documents - Tanks/PT3-OX-TNK Corrective Actions,txt,1436,239,1,239.0,239,239,ok
+870,1ny6eHnADmmndN3JSdfFZgnzfDZ5CooQQm8cakoFmm9o,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Tanks Subsystem/Corrective Action Documents - Tanks/T4-F-TNK Corrective Actions,txt,1575,252,1,252.0,252,252,ok
+871,1f56jzBUjKGBWceBjVMaZNZUTNpwKfVRYe--nz4siDDE,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Safety/Vents Subsystem/Corrective Action Documents - Safety/MV1-OX-V-FMECA Corrective Actions,txt,1125,178,1,178.0,178,178,ok
+872,1vZHLC6ng6CPSvrBoFSP18XzNSQBQFSbM2LnZ1Qsqt8I,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Safety/Vents Subsystem/Corrective Action Documents - Safety/SV6-OX-V Corrective Actions,txt,535,77,1,77.0,77,77,ok
+873,1gzBi-0ClTEsSYdzTgPK4gK1qv0ZwcIyO8Nhy0tgU8L4,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Safety/Vents Subsystem/Corrective Action Documents - Safety/SV7-F-V and SV8-F-V Corrective Actions,txt,587,84,1,84.0,84,84,ok
+874,1GezIPKgsSh8eKfgf3Sk5nTQWD5mJNRhmBr-5e9Ky_2Q,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Purge Subsystem/Corrective Action Documents - Purge/CV5-F-PRG Corrective Actions,txt,1232,198,1,198.0,198,198,ok
+875,1nfIyqspeqtcUgBmJLx1K-RCiiX1Ebgbr8NOt8OxGBUw,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Purge Subsystem/Corrective Action Documents - Purge/CV3-OX-PRG Corrective Actions,txt,1232,197,1,197.0,197,197,ok
+876,112eJfr-_SbYOn1IztFTdqD26eQey8PPYW4fnd-c8AA4,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Purge Subsystem/Corrective Action Documents - Purge/CV4-OX-PRG Corrective Actions,txt,3571,592,1,592.0,592,592,ok
+877,1Hv7J4HV-w4rZ8me5EVbRTCkOF_EETs4KXqUq69GOpnA,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Purge Subsystem/Corrective Action Documents - Purge/SV5-PRG Corrective Actions,txt,714,120,1,120.0,120,120,ok
+878,125lLPWD3cYuvWIhvMlT9jzMzu03LkOo-Eci-7ts-dss,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Actuation Subsystem/Corrective Action Documents - Actuation/SV4-F-ACT Corrective Actions,txt,1560,253,1,253.0,253,253,ok
+879,1_ddKhuYRB4__JyjY8M72vuIbJ-ab-iFkgEfyfm2XmhE,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Actuation Subsystem/Corrective Action Documents - Actuation/SV3-OX-ACT Corrective Actions,txt,1435,236,1,236.0,236,236,ok
+880,1CfF5GKsQW7-yYRuQRTcLesu_9TVQ2xC6-Im_5q25TQ4,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Actuation Subsystem/Corrective Action Documents - Actuation/PA2-F-ACT,txt,1363,221,1,221.0,221,221,ok
+881,196CKmF9p2oEwFPLWx5_RTPAMlAjXqQb4grWl8qYnJQI,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Actuation Subsystem/Corrective Action Documents - Actuation/SV9-OX-ACT,txt,1193,173,1,173.0,173,173,ok
+882,1k-Wi5I0FYS7QNDaDc8WBzYAVeL-CLKdgxfwmaSfcgtA,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Actuation Subsystem/Corrective Action Documents - Actuation/PR2-ACT Corrective Actions,txt,2233,363,1,363.0,363,363,ok
+883,15chUsNqpGxHTscl4i_HpQuTD35Xj0O8bfyULoMccULk,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Actuation Subsystem/Corrective Action Documents - Actuation/T2-ACT,txt,1202,200,1,200.0,200,200,ok
+884,1vNJH6zqfAd8jOq8IyoQS8Vquxn5Vuc38zU-a4PFz87U,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Actuation Subsystem/Corrective Action Documents - Actuation/PA3-OX-ACT,txt,1199,201,1,201.0,201,201,ok
+885,1MPqmPO8oK_fbCd3FdNyCo4sp_1rbKE6fXM7TZ3_pPMQ,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Actuation Subsystem/Corrective Action Documents - Actuation/PG4-ACT Corrective Actions,txt,1816,310,1,310.0,310,310,ok
+886,1pyVW4yCez02-PKyAlt1Sd0RDe2DSqgByabEkhNhZYyE,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Actuation Subsystem/Corrective Action Documents - Actuation/PA1-OX-ACT,txt,1252,199,1,199.0,199,199,ok
+887,16scIcO7OhPdZiD97wK2v4HFbsO3HSgIwXgcfgVNp3lY,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Pressurant Subsystem/Corrective Action Documents - Pressurant/PR1-OX-PRS,txt,2580,414,1,414.0,414,414,ok
+888,1TkJhOVRfRlN4adCrcth0HVuNYhzqvPkB0YZqicQap1E,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Pressurant Subsystem/Corrective Action Documents - Pressurant/PR3-F-PRS,txt,2573,414,1,414.0,414,414,ok
+889,1u4GaATWAT5Ra-qVeW4-62on6ayQgXLKOp5dwI0Zan_w,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Pressurant Subsystem/Corrective Action Documents - Pressurant/T5-F-PRS Corrective Actions,txt,753,130,1,130.0,130,130,ok
+890,1LQh5bxKYOMSuEB6pqXVHgPyapoUQrGyDcxPnOl_Wrc0,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Pressurant Subsystem/Corrective Action Documents - Pressurant/PT2-F-PRS,txt,1289,231,1,231.0,231,231,ok
+891,12u-bm_vY7CsRhQkpzYRtZX9TdfP9YT3vs-UXz21rX2E,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Pressurant Subsystem/Corrective Action Documents - Pressurant/T1-OX-PRS ,txt,1402,242,1,242.0,242,242,ok
+892,14OeXRkw_wfYnX-ryoBgrqTTZyLlwCs7B8Z6Ud47RGfM,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Pressurant Subsystem/Corrective Action Documents - Pressurant/PG2-OX-PRS,txt,1406,222,1,222.0,222,222,ok
+893,1iUxVOSWPj_sCnOIK8t09J4t_q9pyga3ZtHu6sqjk0kE,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Pressurant Subsystem/Corrective Action Documents - Pressurant/PG1-OX-PRS,txt,1394,222,1,222.0,222,222,ok
+894,1ztzMvdYQwoVDEpVFjLZT9zAXn9jmzO7BBncfaW0GMqg,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Pressurant Subsystem/Corrective Action Documents - Pressurant/CV2-F-PRS,txt,3189,498,1,498.0,498,498,ok
+895,10sfOVL-y5PAuoGg_ClnqGkC1ng4yXEdKIMwiBJAvllk,Safety/FMECA/Test Stand FMECA/Fluids FMECA/Pressurant Subsystem/Corrective Action Documents - Pressurant/CV1-OX-PRS,txt,3180,495,1,495.0,495,495,ok
+896,1SCiT5IyIcjBQo-Qj7cD9r16IMpIlYXkI,Safety/FMECA/Outdated/FMECA ground rules.docx,docx,3907,596,1,596.0,596,596,ok
+897,1PY8OKCORGCdT12QluiwBhuCxNqOGR3OgKOiQMTiFlPk,Events/Onboarding Meetings Fall 2025/Fluids Onboarding Presentation,pdf,12291,2038,3,712.67,777,588,ok
+898,1qmkZ_vEwCgn86m26KdELcJeVk9scN1tIaUa8O0K4pMU,Events/Onboarding Meetings Fall 2025/Electronics General Onboarding,pdf,17206,2861,4,735.75,781,622,ok
+899,1WHB5oJOv_M-V_jfp2DZiEmMhZqmK1mrG-q3f5xMxh2M,Events/GM/March GM,pdf,7968,1261,2,669.0,747,591,ok
+900,1jcPUgEPY3Q91ELBFoNIvutfJlkc7DIu53TNLY83a3Nw,Events/EOH/EOH 2026/Wind Tunnel/Wind Tunnel Spec,txt,460,79,1,79.0,79,79,ok
+901,1Xv2qmntvFVV6c_bXyzgGLGzCre3I4ZQxJyUzhQ_UAoI,Events/EOH/EOH 2025/'25 buildillinois summit lri round 1,pdf,1625,238,1,238.0,238,238,ok
+902,1DYQsvAIdXwo7tG2MhTy0JuGTdYhyzw2pIjA1tAnt4uQ,Events/EOH/EOH 2025/2023-24/Rocket Engine Explanation,txt,4004,698,1,698.0,698,698,ok
+903,1beY4SmvWIgGoqkNCMLnMeRdvEd9I5k5NNbSyu7tqQy4,Events/Goddard Conference 2024/Packing List & Timeline,txt,1218,234,1,234.0,234,234,ok

@@ -1,0 +1,79 @@
+RAG candidate filtering summary
+================================
+
+Total rows: 11,688
+Candidates: 1,786
+Review:     357
+Excluded:   9,545
+
+Top candidate MIME types:
+  application/vnd.google-apps.document: 611
+  text/plain: 307
+  application/pdf: 264
+  application/vnd.google-apps.spreadsheet: 186
+  application/vnd.google-apps.presentation: 109
+  text/xml: 86
+  application/vnd.openxmlformats-officedocument.spreadsheetml.sheet: 78
+  text/x-python: 53
+  text/csv: 48
+  application/json: 17
+  application/vnd.openxmlformats-officedocument.wordprocessingml.document: 10
+  application/vnd.openxmlformats-officedocument.presentationml.presentation: 7
+  application/msword: 4
+  text/x-python-script: 4
+  text/markdown: 1
+  text/html: 1
+
+Top candidate extensions:
+  <none>: 875
+  .log: 276
+  .pdf: 261
+  .xlsx: 78
+  .xml: 75
+  .py: 57
+  .csv: 48
+  .ipynb: 17
+  .txt: 17
+  .engd: 11
+  .25: 11
+  .docx: 10
+  .pptx: 7
+  .conf: 7
+  .cfg: 7
+  .doc: 4
+  .drawio: 2
+  . 2 conops: 1
+  .1: 1
+  .md: 1
+
+Top top-level candidate folders:
+  Technical Teams: 1,531
+  Safety: 217
+  Executive Teams: 21
+  Events: 11
+  Liquid Rocketry at Illinois Constitution: 2
+  READ ME: Organization and Forms: 2
+  Liquid Rocketry at Illinois Constitution.pdf: 1
+  Photos: 1
+
+Top filter reasons:
+  folder: 3,372
+  not a strong text-RAG candidate: 2,366
+  text-bearing mime/extension: 1,786
+  excluded extension .prt: 779
+  excluded extension .jpg: 749
+  excluded extension .h5: 672
+  excluded extension .png: 594
+  possibly text-bearing by extension: 357
+  excluded extension .heic: 308
+  excluded extension .step: 191
+  excluded extension .mov: 159
+  excluded extension .zip: 71
+  shortcut: 64
+  excluded extension .gz: 64
+  excluded extension .x_t: 58
+  excluded extension .mp4: 31
+  excluded extension .stp: 19
+  excluded extension .stl: 13
+  excluded extension .sqlite3: 11
+  excluded extension .dxf: 9
