@@ -6,3 +6,7 @@ token.json
 .env
 .env.*
 secrets/
+credentials.json
+token.json
+.env
+.env.*
