@@ -1,1 +1,8 @@
 experiments/llama_meta_repo
+# Google OAuth / local auth
+credentials.json
+client_secret*.json
+token.json
+.env
+.env.*
+secrets/
