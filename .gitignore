@@ -10,3 +10,9 @@ credentials.json
 token.json
 .env
 .env.*
+
+credentials.json
+token.json
+.env
+.env.*
+client_secret*.json
